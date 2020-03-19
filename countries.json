@@ -1,0 +1,91 @@
+{
+  "countries": [
+    {
+      "id": "950d628c-252f-4846-86d7-c05fd5cd9f44",
+      "name": "Germany",
+      "key": "DE",
+      "provinces": [
+        {
+          "id": "af5759c7-c47d-4177-9cff-2a13f462d559",
+          "name": "Baden-Württemberg",
+          "key": "BW"
+        },
+        {
+          "id": "0257e7e0-b6f7-447a-a80a-cac1f6238bf2",
+          "name": "Bayern",
+          "key": "BY"
+        },
+        {
+          "id": "9afc3a8c-057f-4c5b-a2a9-4ab14be3d25d",
+          "name": "Berlin",
+          "key": "BE"
+        },
+        {
+          "id": "2b4e99b8-82e4-4fc4-8ec2-f04d09ee9964",
+          "name": "Brandenburg",
+          "key": "BB"
+        },
+        {
+          "id": "55682476-fcbf-46e7-b93d-b363f3def145",
+          "name": "Bremen",
+          "key": "HB"
+        },
+        {
+          "id": "37319bba-e311-4f3e-adc3-ec13579c36ae",
+          "name": "Hamburg",
+          "key": "HH"
+        },
+        {
+          "id": "69d2b34f-9427-41ee-a1e5-b0d757caf03b",
+          "name": "Hessen",
+          "key": "HE"
+        },
+        {
+          "id": "6b53e257-85cb-4a7d-a0f8-a9e76996fffa",
+          "name": "Mecklenburg-Vorpommern",
+          "key": "MV"
+        },
+        {
+          "id": "f30d13b2-755a-49c1-8659-1dbeed311fed",
+          "name": "Niedersachsen",
+          "key": "NI"
+        },
+        {
+          "id": "d9087d95-11ee-47ac-958b-faa4c9db60fd",
+          "name": "Nordrhein-Westfalen",
+          "key": "NRW"
+        },
+        {
+          "id": "91f95e86-fb5a-4cc8-9b61-474c0ca8fd44",
+          "name": "Rheinland-Pfalz",
+          "key": "RP"
+        },
+        {
+          "id": "f5cbcf73-4f10-4e67-adeb-4a839be2fb40",
+          "name": "Saarland",
+          "key": "SL"
+        },
+        {
+          "id": "b2939cfe-785a-4fe9-8110-3ef31e8a976c",
+          "name": "Sachsen",
+          "key": "SN"
+        },
+        {
+          "id": "d44f35a9-e30d-44b5-a1e1-03bc78b5d7a7",
+          "name": "Sachsen-Anhalt",
+          "key": "ST"
+        },
+        {
+          "id": "fabb21e4-ac8e-4322-afbd-200df4e68323",
+          "name": "Schleswig-Holstein",
+          "key": "SH"
+        },
+        {
+          "id": "948c7d95-4615-439f-8be1-af0e977060d6",
+          "name": "Thüringen",
+          "key": "TH"
+        }
+      ]
+    }
+  ]
+}
