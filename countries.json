@@ -88,6 +88,86 @@
           "key": "TH"
         }
       ]
+    },
+    {
+      "id": "27b6a573-965b-4347-9c06-938ad42e74c2",
+      "name": "Ireland",
+      "key": "IE"
+    },
+    {
+      "id": "f54c19f9-d5f3-4999-9794-91198b14a552",
+      "name": "United Kingdom",
+      "key": "UK"
+    },
+    {
+      "id": "05843b63-8650-4cd5-a204-eb5a136af72b",
+      "name": "Belgium",
+      "key": "BE"
+    },
+    {
+      "id": "6f8fba5c-c409-4408-8bf5-01345bb5ed00",
+      "name": "Netherlands",
+      "key": "NL"
+    },
+    {
+      "id": "15a9c74b-774c-4889-a484-f5b437db031b",
+      "name": "Denmark",
+      "key": "DK"
+    },
+    {
+      "id": "f6d7c167-6871-4fd4-b120-5665e321f6f8",
+      "name": "Norway",
+      "key": "NO"
+    },
+    {
+      "id": "d48f29da-f3de-4de8-938e-a7c8412e4eb3",
+      "name": "Sweden",
+      "key": "SE"
+    },
+    {
+      "id": "ebcb6b92-4822-4e78-b1ca-0393c5f4c2d4",
+      "name": "Poland",
+      "key": "PL"
+    },
+    {
+      "id": "70266685-11f9-48a1-b3af-b3c4dd180f48",
+      "name": "Czech Republic",
+      "key": "CZ"
+    },
+    {
+      "id": "850b3353-e797-4063-8209-0a6253e3eae4",
+      "name": "Austria",
+      "key": "AT"
+    },
+    {
+      "id": "a299b2ab-81da-426e-8083-45370669e8a5",
+      "name": "Switzerland",
+      "key": "CH"
+    },
+    {
+      "id": "3567507f-440b-4642-aee3-7520fe1ede4e",
+      "name": "France",
+      "key": "FR"
+    },
+    {
+      "id": "39f204e9-2eb7-4171-bef3-7ab07297144b",
+      "name": "Spain",
+      "key": "ES"
+    },
+    {
+      "id": "29b56917-e52c-4be6-8417-d396428a9473",
+      "name": "Portugal",
+      "key": "PT"
+    },
+    {
+      "id": "b70448fe-d1b9-4018-a967-7c287c12892e",
+      "name": "Italy",
+      "key": "IT"
+    },
+    {
+      "id": "dbee09bb-ca7b-4a00-be9a-ce81d6fd287f",
+      "name": "Luxembourg",
+      "key": "LU"
     }
   ]
 }

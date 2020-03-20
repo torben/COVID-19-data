@@ -107,6 +107,102 @@
           "recovered": 0
         }
       ]
+    },
+    {
+      "id": "27b6a573-965b-4347-9c06-938ad42e74c2",
+      "cases": 557,
+      "recovered": 5,
+      "deaths": 3
+    },
+    {
+      "id": "f54c19f9-d5f3-4999-9794-91198b14a552",
+      "cases": 2689,
+      "recovered": 65,
+      "deaths": 137
+    },
+    {
+      "id": "05843b63-8650-4cd5-a204-eb5a136af72b",
+      "cases": 1795,
+      "recovered": 31,
+      "deaths": 21
+    },
+    {
+      "id": "6f8fba5c-c409-4408-8bf5-01345bb5ed00",
+      "cases": 2460,
+      "recovered": 2,
+      "deaths": 76
+    },
+    {
+      "id": "15a9c74b-774c-4889-a484-f5b437db031b",
+      "cases": 1151,
+      "recovered": 1,
+      "deaths": 6
+    },
+    {
+      "id": "f6d7c167-6871-4fd4-b120-5665e321f6f8",
+      "cases": 1746,
+      "recovered": 1,
+      "deaths": 7
+    },
+    {
+      "id": "d48f29da-f3de-4de8-938e-a7c8412e4eb3",
+      "cases": 1439,
+      "recovered": 16,
+      "deaths": 11
+    },
+    {
+      "id": "ebcb6b92-4822-4e78-b1ca-0393c5f4c2d4",
+      "cases": 355,
+      "recovered": 1,
+      "deaths": 5
+    },
+    {
+      "id": "70266685-11f9-48a1-b3af-b3c4dd180f48",
+      "cases": 694,
+      "recovered": 3,
+      "deaths": 0
+    },
+    {
+      "id": "850b3353-e797-4063-8209-0a6253e3eae4",
+      "cases": 2013,
+      "recovered": 9,
+      "deaths": 4
+    },
+    {
+      "id": "a299b2ab-81da-426e-8083-45370669e8a5",
+      "cases": 4075,
+      "recovered": 15,
+      "deaths": 41
+    },
+    {
+      "id": "3567507f-440b-4642-aee3-7520fe1ede4e",
+      "cases": 10871,
+      "recovered": 12,
+      "deaths": 243
+    },
+    {
+      "id": "39f204e9-2eb7-4171-bef3-7ab07297144b",
+      "cases": 17963,
+      "recovered": 1107,
+      "deaths": 830
+    },
+    {
+      "id": "29b56917-e52c-4be6-8417-d396428a9473",
+      "cases": 785,
+      "recovered": 3,
+      "deaths": 3
+    },
+    {
+      "id": "b70448fe-d1b9-4018-a967-7c287c12892e",
+      "cases": 41035,
+      "recovered": 4440,
+      "deaths": 3405
+    },
+    {
+      "id": "dbee09bb-ca7b-4a00-be9a-ce81d6fd287f",
+      "cases": 335,
+      "recovered": 0,
+      "deaths": 4
     }
   ]
 }
