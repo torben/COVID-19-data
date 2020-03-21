@@ -87,6 +87,32 @@
           "name": "Thüringen",
           "key": "TH"
         }
+      ],
+      "counties": [
+        {
+          "id": "82162f99-6dec-4649-8a52-a76df79544f8",
+          "name": "Hochtaunuskreis"
+        },
+        {
+          "id": "b01c61f6-8956-43d8-aa97-4a40ef7571fd",
+          "name": "Wetteraukreis"
+        },
+        {
+          "id": "ff5031f8-3d2e-4c32-86f9-27eec45f043a",
+          "name": "Frankfurt am Main"
+        },
+        {
+          "id": "0bb8d4d5-ea38-4414-af07-6fbadd769698",
+          "name": "Coesfeld"
+        },
+        {
+          "id": "6e42420e-a895-4114-bec1-4ebe4aac35f7",
+          "name": "Münster"
+        },
+        {
+          "id": "962b8a14-5a86-418e-9557-63179fba4cf7",
+          "name": "Steinfurt"
+        }
       ]
     },
     {
