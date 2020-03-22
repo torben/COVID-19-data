@@ -6,9 +6,9 @@
   "countries": [
     {
       "id": "950d628c-252f-4846-86d7-c05fd5cd9f44",
-      "cases": 16662,
+      "cases": 18610,
       "recovered": 0,
-      "deaths": 47,
+      "deaths": 55,
       "provinces": [
         {
           "id": "af5759c7-c47d-4177-9cff-2a13f462d559",
