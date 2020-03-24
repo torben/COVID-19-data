@@ -3,6 +3,7 @@
   "cases": 378287,
   "recovered": 100958,
   "deaths": 16497,
+  "active": 215654,
   "countries": [
     {
       "id": "70a29af0-7641-4cd0-98da-30e44356879f",
