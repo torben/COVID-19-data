@@ -6,8 +6,8 @@
   "countries": [
     {
       "id": "70a29af0-7641-4cd0-98da-30e44356879f",
-      "cases": 298,
-      "deaths": 5,
+      "cases": 43667,
+      "deaths": 552,
       "recovered": 0,
       "active": 0,
       "provinces": [
@@ -370,8 +370,8 @@
     },
     {
       "id": "79f0042a-fdf2-4c35-a204-410477e457dc",
-      "cases": 301,
-      "deaths": 1,
+      "cases": 2088,
+      "deaths": 25,
       "recovered": 0,
       "active": 0,
       "provinces": [
@@ -452,10 +452,10 @@
     },
     {
       "id": "f261405c-efc7-481d-ad67-74ece8c457cf",
-      "cases": 990,
-      "deaths": 6,
-      "recovered": 984,
-      "active": 0,
+      "cases": 81496,
+      "deaths": 3274,
+      "recovered": 72819,
+      "active": 5403,
       "provinces": [
         {
           "id": "f9254046-e73d-49ef-8dec-3ad315558358",
@@ -660,10 +660,10 @@
     },
     {
       "id": "6f8fba5c-c409-4408-8bf5-01345bb5ed00",
-      "cases": 9,
-      "deaths": 0,
-      "recovered": 1,
-      "active": 8,
+      "cases": 4764,
+      "deaths": 214,
+      "recovered": 3,
+      "active": 4547,
       "provinces": [
         {
           "id": "1711f5e0-769c-4448-9849-601b6e532ea0",
@@ -688,10 +688,10 @@
     },
     {
       "id": "b1b53ddb-53dc-45b2-a33e-8e3defad9181",
-      "cases": 32,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 32,
+      "cases": 1682,
+      "deaths": 7,
+      "recovered": 119,
+      "active": 1556,
       "provinces": [
         {
           "id": "b54eef3e-ecac-4ea3-8e7e-31802f14488f",
@@ -746,10 +746,10 @@
     },
     {
       "id": "f54c19f9-d5f3-4999-9794-91198b14a552",
-      "cases": 6,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 6,
+      "cases": 6726,
+      "deaths": 336,
+      "recovered": 140,
+      "active": 6250,
       "provinces": [
         {
           "id": "ab5a19d5-ee27-4f1d-9a1c-d09b5a4023df",
@@ -791,7 +791,7 @@
       "counties": []
     },
     {
-      "id": "c7941363-60c5-4156-847d-b7e8b860fa78",
+      "id": "0dab3a49-60e2-435a-8ce1-611cd8cb8e0a",
       "cases": 712,
       "deaths": 8,
       "recovered": 567,
@@ -799,10 +799,10 @@
     },
     {
       "id": "15a9c74b-774c-4889-a484-f5b437db031b",
-      "cases": 118,
-      "deaths": 0,
-      "recovered": 23,
-      "active": 95,
+      "cases": 1572,
+      "deaths": 24,
+      "recovered": 24,
+      "active": 1524,
       "provinces": [
         {
           "id": "8e0ad7e1-b4e5-4aca-8c56-4d5e942f3596",
@@ -821,10 +821,10 @@
     },
     {
       "id": "3567507f-440b-4642-aee3-7520fe1ede4e",
-      "cases": 20,
-      "deaths": 0,
-      "recovered": 6,
-      "active": 14,
+      "cases": 20123,
+      "deaths": 862,
+      "recovered": 2207,
+      "active": 17054,
       "provinces": [
         {
           "id": "db6e63e8-dfd3-41bb-9601-6b67c73b1f64",
@@ -1277,8 +1277,8 @@
     },
     {
       "id": "950d628c-252f-4846-86d7-c05fd5cd9f44",
-      "cases": 29056,
-      "deaths": 123,
+      "cases": 50738,
+      "deaths": 207,
       "recovered": 453,
       "active": 28480,
       "provinces": [
