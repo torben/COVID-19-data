@@ -211,10 +211,6 @@
           "name": "Delaware"
         },
         {
-          "id": "92ea15f0-f452-4e62-99ec-70a7fc7494dd",
-          "name": "Wuhan Evacuee"
-        },
-        {
           "id": "150153c0-b6be-4b1d-a6c1-a28d321cda69",
           "name": "American Samoa"
         },
@@ -835,6 +831,12 @@
       "counties": []
     },
     {
+      "id": "ef06d561-c93f-4bfc-ada0-90f0dc8ca8de",
+      "name": "Diamond Princess",
+      "provinces": [],
+      "counties": []
+    },
+    {
       "id": "49c7f0af-7017-407c-b79b-444eee540284",
       "name": "Djibouti",
       "provinces": [],
@@ -1053,6 +1055,12 @@
       "counties": []
     },
     {
+      "id": "bc9f9208-bd0d-46f4-b6db-2102559cb4e8",
+      "name": "Guinea-Bissau",
+      "provinces": [],
+      "counties": []
+    },
+    {
       "id": "e3dc84fe-f377-4896-b868-e241406ca0ce",
       "name": "Guyana",
       "provinces": [],
@@ -1245,6 +1253,12 @@
       "counties": []
     },
     {
+      "id": "80d90386-9eb3-44f8-890a-925a3cf9ee83",
+      "name": "Mali",
+      "provinces": [],
+      "counties": []
+    },
+    {
       "id": "687ea485-5e89-4b6c-bd56-2fa77115a1cd",
       "name": "Malta",
       "provinces": [],
@@ -1427,6 +1441,12 @@
     {
       "id": "c639bc8a-3616-4442-b675-7ffa1662c77c",
       "name": "Rwanda",
+      "provinces": [],
+      "counties": []
+    },
+    {
+      "id": "948537fc-4ebe-49c1-b178-281835fff5f3",
+      "name": "Saint Kitts and Nevis",
       "provinces": [],
       "counties": []
     },
