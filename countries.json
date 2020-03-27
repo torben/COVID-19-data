@@ -278,6 +278,10 @@
           "name": "Newfoundland and Labrador"
         },
         {
+          "id": "ceb185b7-9dae-48ee-b410-533d83ef88ba",
+          "name": "Northwest Territories"
+        },
+        {
           "id": "048db690-173c-44e5-ae4a-5a90116f7d0b",
           "name": "Nova Scotia"
         },
@@ -300,6 +304,10 @@
         {
           "id": "5fcb161e-92c2-4bb4-a192-f68cef24bea9",
           "name": "Saskatchewan"
+        },
+        {
+          "id": "bc605c5b-c8d4-438a-9bc1-90c52ba0a2b8",
+          "name": "Yukon"
         }
       ],
       "counties": []
@@ -1179,6 +1187,12 @@
       "counties": []
     },
     {
+      "id": "87aca3a9-19a4-4498-a8f7-d3252a9ee9aa",
+      "name": "Kosovo",
+      "provinces": [],
+      "counties": []
+    },
+    {
       "id": "a2614e78-f1ac-4c89-a530-4e86a1721114",
       "name": "Kuwait",
       "provinces": [],
@@ -1655,6 +1669,12 @@
     {
       "id": "db985572-357c-4146-af3c-f4c02169bde6",
       "name": "Vietnam",
+      "provinces": [],
+      "counties": []
+    },
+    {
+      "id": "3892679e-d654-477d-8928-12a523a3c5b6",
+      "name": "West Bank and Gaza",
       "provinces": [],
       "counties": []
     },
