@@ -192,6 +192,11 @@
           "admin": "Autauga"
         },
         {
+          "id": "9b4edf14-8ef6-417a-925b-eaad7bc0d342",
+          "name": "West Virginia",
+          "admin": "Barbour"
+        },
+        {
           "id": "936bd26d-884f-4b3e-a355-3bb0ed2624d4",
           "name": "North Dakota",
           "admin": "Barnes"
@@ -210,11 +215,6 @@
           "id": "5f14a0b5-94ab-4e30-af29-9d86882eb6fa",
           "name": "Oregon",
           "admin": "Benton"
-        },
-        {
-          "id": "9b4edf14-8ef6-417a-925b-eaad7bc0d342",
-          "name": "West Virginia",
-          "admin": "Berkeley"
         },
         {
           "id": "10712f7a-bf67-4fc0-965b-4b5db67102b2",
