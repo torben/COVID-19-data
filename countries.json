@@ -77,6 +77,11 @@
           "admin": "Adams"
         },
         {
+          "id": "f06956d1-2ee3-475b-a7dc-004e66657ca2",
+          "name": "Wisconsin",
+          "admin": "Adams"
+        },
+        {
           "id": "7d060e9c-48d5-431e-b2b7-451c4868dd92",
           "name": "Vermont",
           "admin": "Addison"
@@ -112,6 +117,11 @@
           "admin": "Allegan"
         },
         {
+          "id": "a879a8f6-eab5-4fca-a823-8cf77c960c21",
+          "name": "Maryland",
+          "admin": "Allegany"
+        },
+        {
           "id": "aec21115-36be-4716-a71e-7ae386ddb761",
           "name": "Kentucky",
           "admin": "Allen"
@@ -127,6 +137,11 @@
           "admin": "Anchorage"
         },
         {
+          "id": "b91ff2bf-9dc5-47e0-932e-1f67588c4601",
+          "name": "Kansas",
+          "admin": "Anderson"
+        },
+        {
           "id": "22e08008-ba1f-4674-9dae-3462433dd712",
           "name": "Tennessee",
           "admin": "Anderson"
@@ -140,11 +155,6 @@
           "id": "b3b572b3-2ea7-4ed2-94c6-95b60a29a55f",
           "name": "Maine",
           "admin": "Androscoggin"
-        },
-        {
-          "id": "a879a8f6-eab5-4fca-a823-8cf77c960c21",
-          "name": "Maryland",
-          "admin": "Anne Arundel"
         },
         {
           "id": "9291bfea-b1a3-431c-932a-a1fb68a5e78a",
@@ -165,16 +175,6 @@
           "id": "8e1d4b2a-231f-42b4-b8c4-4179166bdd5d",
           "name": "Arkansas",
           "admin": "Arkansas"
-        },
-        {
-          "id": "f06956d1-2ee3-475b-a7dc-004e66657ca2",
-          "name": "Wisconsin",
-          "admin": "Ashland"
-        },
-        {
-          "id": "b91ff2bf-9dc5-47e0-932e-1f67588c4601",
-          "name": "Kansas",
-          "admin": "Atchison"
         },
         {
           "id": "80509741-3713-49a3-b0b5-d293c6fd26f6",
@@ -612,6 +612,11 @@
         {
           "id": "1711f5e0-769c-4448-9849-601b6e532ea0",
           "name": "Aruba",
+          "admin": null
+        },
+        {
+          "id": "6aaae7cb-f82e-44ad-a9b5-c5d09959346c",
+          "name": "Bonaire, Sint Eustatius and Saba",
           "admin": null
         },
         {
@@ -1440,6 +1445,12 @@
     {
       "id": "99393b29-a471-4b14-839f-620ef723281c",
       "name": "Madagascar",
+      "provinces": [],
+      "counties": []
+    },
+    {
+      "id": "2b6876c1-f50f-4afd-968b-5d2b146b83fc",
+      "name": "Malawi",
       "provinces": [],
       "counties": []
     },
