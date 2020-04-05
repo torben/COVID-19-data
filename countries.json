@@ -32,6 +32,11 @@
           "admin": "Adair"
         },
         {
+          "id": "aec21115-36be-4716-a71e-7ae386ddb761",
+          "name": "Kentucky",
+          "admin": "Adair"
+        },
+        {
           "id": "7bd0a907-0f07-4a18-8a45-29b0631e3757",
           "name": "Missouri",
           "admin": "Adair"
@@ -64,6 +69,11 @@
         {
           "id": "0f3b5247-4b7e-4105-9baf-8e79a9d3522e",
           "name": "Nebraska",
+          "admin": "Adams"
+        },
+        {
+          "id": "2609eaa0-9c34-458d-af51-8d1f6c2f3c39",
+          "name": "Ohio",
           "admin": "Adams"
         },
         {
@@ -120,16 +130,6 @@
           "id": "a879a8f6-eab5-4fca-a823-8cf77c960c21",
           "name": "Maryland",
           "admin": "Allegany"
-        },
-        {
-          "id": "aec21115-36be-4716-a71e-7ae386ddb761",
-          "name": "Kentucky",
-          "admin": "Allen"
-        },
-        {
-          "id": "2609eaa0-9c34-458d-af51-8d1f6c2f3c39",
-          "name": "Ohio",
-          "admin": "Allen"
         },
         {
           "id": "a3184b63-3c90-4fdf-9ce2-a31ddd378686",
@@ -207,6 +207,11 @@
           "admin": "Barnstable"
         },
         {
+          "id": "20af30b5-7f3a-4591-9764-9671a54e435e",
+          "name": "Montana",
+          "admin": "Beaverhead"
+        },
+        {
           "id": "2f06a231-57b5-4602-8598-234f7d979c47",
           "name": "New Hampshire",
           "admin": "Belknap"
@@ -230,11 +235,6 @@
           "id": "8aa4ade6-ca92-4de7-972e-f35ca8b7d87f",
           "name": "Rhode Island",
           "admin": "Bristol"
-        },
-        {
-          "id": "20af30b5-7f3a-4591-9764-9671a54e435e",
-          "name": "Montana",
-          "admin": "Broadwater"
         },
         {
           "id": "2e9edb86-d407-4e14-8685-798a69bd5a64",
@@ -408,6 +408,11 @@
         {
           "id": "eb37669d-46c2-4203-ba10-097dde434728",
           "name": "Channel Islands",
+          "admin": null
+        },
+        {
+          "id": "7e47fc0b-0bea-4ba6-8c74-9bd2a88a5f95",
+          "name": "Falkland Islands (Islas Malvinas)",
           "admin": null
         },
         {
