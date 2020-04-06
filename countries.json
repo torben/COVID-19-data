@@ -137,6 +137,11 @@
           "admin": "Anchorage"
         },
         {
+          "id": "b91ff2bf-9dc5-47e0-932e-1f67588c4601",
+          "name": "Kansas",
+          "admin": "Anderson"
+        },
+        {
           "id": "22e08008-ba1f-4674-9dae-3462433dd712",
           "name": "Tennessee",
           "admin": "Anderson"
@@ -170,11 +175,6 @@
           "id": "8e1d4b2a-231f-42b4-b8c4-4179166bdd5d",
           "name": "Arkansas",
           "admin": "Arkansas"
-        },
-        {
-          "id": "b91ff2bf-9dc5-47e0-932e-1f67588c4601",
-          "name": "Kansas",
-          "admin": "Atchison"
         },
         {
           "id": "80509741-3713-49a3-b0b5-d293c6fd26f6",
@@ -743,6 +743,11 @@
         {
           "id": "dfbcdb99-79c0-4507-8219-d257a462401b",
           "name": "Saint Barthelemy",
+          "admin": null
+        },
+        {
+          "id": "7c0c1271-479b-4bb1-91cc-0f1b390d7d8d",
+          "name": "Saint Pierre and Miquelon",
           "admin": null
         },
         {
@@ -1748,6 +1753,12 @@
       "counties": []
     },
     {
+      "id": "6a364802-fb4e-43f2-85f5-31c5cf727479",
+      "name": "South Sudan",
+      "provinces": [],
+      "counties": []
+    },
+    {
       "id": "39f204e9-2eb7-4171-bef3-7ab07297144b",
       "name": "Spain",
       "provinces": [],
@@ -1882,6 +1893,12 @@
     {
       "id": "3892679e-d654-477d-8928-12a523a3c5b6",
       "name": "West Bank and Gaza",
+      "provinces": [],
+      "counties": []
+    },
+    {
+      "id": "8cf3c4ea-4a7e-4808-b89a-fd9a302a0a84",
+      "name": "Western Sahara",
       "provinces": [],
       "counties": []
     },
