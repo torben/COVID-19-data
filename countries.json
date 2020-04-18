@@ -97,6 +97,11 @@
           "admin": "Addison"
         },
         {
+          "id": "9291bfea-b1a3-431c-932a-a1fb68a5e78a",
+          "name": "Minnesota",
+          "admin": "Aitkin"
+        },
+        {
           "id": "63a845e2-8e4d-4018-b966-fd68067eed71",
           "name": "Florida",
           "admin": "Alachua"
@@ -155,11 +160,6 @@
           "id": "b3b572b3-2ea7-4ed2-94c6-95b60a29a55f",
           "name": "Maine",
           "admin": "Androscoggin"
-        },
-        {
-          "id": "9291bfea-b1a3-431c-932a-a1fb68a5e78a",
-          "name": "Minnesota",
-          "admin": "Anoka"
         },
         {
           "id": "9a21e0e0-b5ba-42b9-88ce-37487c41967f",
@@ -262,11 +262,6 @@
           "admin": "Kent"
         },
         {
-          "id": "01ee6d07-ab86-44bc-9d61-6081f4ee994f",
-          "name": "Northern Mariana Islands",
-          "admin": "Unassigned"
-        },
-        {
           "id": "803f576b-5ce5-4c8e-a5be-0df7c2aaab25",
           "name": "Diamond Princess",
           "admin": null
@@ -279,6 +274,11 @@
         {
           "id": "ac1a9f63-3bf6-4687-a042-85af60c1611e",
           "name": "Guam",
+          "admin": null
+        },
+        {
+          "id": "01ee6d07-ab86-44bc-9d61-6081f4ee994f",
+          "name": "Northern Mariana Islands",
           "admin": null
         },
         {
