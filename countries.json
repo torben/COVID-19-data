@@ -207,6 +207,11 @@
           "admin": "Barnstable"
         },
         {
+          "id": "c1d153cb-7b6c-4503-a0ca-4d1354e6da7e",
+          "name": "Utah",
+          "admin": "Bear River"
+        },
+        {
           "id": "20af30b5-7f3a-4591-9764-9671a54e435e",
           "name": "Montana",
           "admin": "Beaverhead"
@@ -225,11 +230,6 @@
           "id": "10712f7a-bf67-4fc0-965b-4b5db67102b2",
           "name": "New Mexico",
           "admin": "Bernalillo"
-        },
-        {
-          "id": "c1d153cb-7b6c-4503-a0ca-4d1354e6da7e",
-          "name": "Utah",
-          "admin": "Box Elder"
         },
         {
           "id": "8aa4ade6-ca92-4de7-972e-f35ca8b7d87f",
