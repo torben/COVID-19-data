@@ -97,6 +97,11 @@
           "admin": "Addison"
         },
         {
+          "id": "43070af5-9a4a-495d-b8fb-a7a3a5a6d4e5",
+          "name": "US Military",
+          "admin": "Air Force"
+        },
+        {
           "id": "9291bfea-b1a3-431c-932a-a1fb68a5e78a",
           "name": "Minnesota",
           "admin": "Aitkin"
@@ -257,6 +262,11 @@
           "admin": "Hawaii"
         },
         {
+          "id": "2a706358-72c4-4124-8062-8754398f624b",
+          "name": "Federal Bureau of Prisons",
+          "admin": "Inmates"
+        },
+        {
           "id": "89923b5d-d084-43a8-b43c-cc81458383fa",
           "name": "Delaware",
           "admin": "Kent"
@@ -289,6 +299,11 @@
         {
           "id": "aed63645-80be-427c-9f91-d21e73b73468",
           "name": "Recovered",
+          "admin": null
+        },
+        {
+          "id": "b93acf18-eff7-4669-91fa-420571b07aeb",
+          "name": "Veteran Hospitals",
           "admin": null
         },
         {
