@@ -319,6 +319,11 @@
           "admin": null
         },
         {
+          "id": "91d69de6-f681-40e1-8083-35044fd43f47",
+          "name": "Grand Princess",
+          "admin": null
+        },
+        {
           "id": "826b8e4e-c3e6-4a8d-a240-56fdf09cb205",
           "name": "Manitoba",
           "admin": null
@@ -336,6 +341,11 @@
         {
           "id": "ceb185b7-9dae-48ee-b410-533d83ef88ba",
           "name": "Northwest Territories",
+          "admin": null
+        },
+        {
+          "id": "4e9485fd-9810-4461-8889-4a7af1d0f087",
+          "name": "Nova Scotia",
           "admin": null
         },
         {
