@@ -969,6 +969,12 @@
       "counties": []
     },
     {
+      "id": "15d28b62-b567-40a5-80f1-d2508900c996",
+      "name": "Comoros",
+      "provinces": [],
+      "counties": []
+    },
+    {
       "id": "2be0cd71-d585-47a5-aab3-a24fefc4d152",
       "name": "Congo (Brazzaville)",
       "provinces": [],
@@ -1809,6 +1815,12 @@
     {
       "id": "62ba995c-e6c1-45aa-b06c-6f9d2e38fb05",
       "name": "Taiwan*",
+      "provinces": [],
+      "counties": []
+    },
+    {
+      "id": "63fd622d-36a5-42db-b3f7-33b10fe3e86a",
+      "name": "Tajikistan",
       "provinces": [],
       "counties": []
     },
