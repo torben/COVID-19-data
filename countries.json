@@ -192,6 +192,11 @@
           "admin": "Autauga"
         },
         {
+          "id": "5f14a0b5-94ab-4e30-af29-9d86882eb6fa",
+          "name": "Oregon",
+          "admin": "Baker"
+        },
+        {
           "id": "9b4edf14-8ef6-417a-925b-eaad7bc0d342",
           "name": "West Virginia",
           "admin": "Barbour"
@@ -220,11 +225,6 @@
           "id": "2f06a231-57b5-4602-8598-234f7d979c47",
           "name": "New Hampshire",
           "admin": "Belknap"
-        },
-        {
-          "id": "5f14a0b5-94ab-4e30-af29-9d86882eb6fa",
-          "name": "Oregon",
-          "admin": "Benton"
         },
         {
           "id": "10712f7a-bf67-4fc0-965b-4b5db67102b2",
