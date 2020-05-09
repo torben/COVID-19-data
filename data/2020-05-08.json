@@ -1688,7 +1688,7 @@
           "cases": 245,
           "recovered": 0,
           "deaths": 5,
-          "per100": 134
+          "per100": 104
         },
         {
           "id": "b01c61f6-8956-43d8-aa97-4a40ef7571fd",
@@ -1701,8 +1701,8 @@
           "id": "ff5031f8-3d2e-4c32-86f9-27eec45f043a",
           "cases": 1343,
           "recovered": 0,
-          "deaths": 0,
-          "per100": 0
+          "deaths": 48,
+          "per100": 179
         },
         {
           "id": "0bb8d4d5-ea38-4414-af07-6fbadd769698",
