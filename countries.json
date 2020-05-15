@@ -300,6 +300,118 @@
       "counties": []
     },
     {
+      "id": "b70448fe-d1b9-4018-a967-7c287c12892e",
+      "name": "Italy",
+      "provinces": [
+        {
+          "id": "b13e39a6-336f-4a42-8c86-b5ff4af9ebf9",
+          "name": "Abruzzo",
+          "admin": null
+        },
+        {
+          "id": "2fa000c2-78ac-4d2b-82a3-6fedfd52bb24",
+          "name": "Basilicata",
+          "admin": null
+        },
+        {
+          "id": "3eba7c3f-3e4e-40d5-a763-e679b660bf6d",
+          "name": "Calabria",
+          "admin": null
+        },
+        {
+          "id": "3f73ecd4-9a84-40ff-b81b-198353577e15",
+          "name": "Campania",
+          "admin": null
+        },
+        {
+          "id": "610e4f10-f697-4b5f-8144-b9d9393d0775",
+          "name": "Emilia-Romagna",
+          "admin": null
+        },
+        {
+          "id": "9a63da2e-d9dc-4fa7-a054-d92d1457f36e",
+          "name": "Friuli Venezia Giulia",
+          "admin": null
+        },
+        {
+          "id": "971175d0-c8e0-473b-bb9d-77fe7246294d",
+          "name": "Lazio",
+          "admin": null
+        },
+        {
+          "id": "874e0050-905e-4304-838b-6d5db13bd99e",
+          "name": "Liguria",
+          "admin": null
+        },
+        {
+          "id": "6e9d8dcf-230b-4d46-ada0-c8215706fe81",
+          "name": "Lombardia",
+          "admin": null
+        },
+        {
+          "id": "92e49954-67d5-4bd8-a578-c6cd01b2d6af",
+          "name": "Marche",
+          "admin": null
+        },
+        {
+          "id": "ef8a84e2-a5e5-4ff3-91be-ac91d1287141",
+          "name": "Molise",
+          "admin": null
+        },
+        {
+          "id": "2df7e6b5-7f4a-4d4a-99c5-0fc99c79d73d",
+          "name": "P.A. Bolzano",
+          "admin": null
+        },
+        {
+          "id": "93a158c3-8c7f-4eeb-97d3-e229c64356d5",
+          "name": "P.A. Trento",
+          "admin": null
+        },
+        {
+          "id": "a48a29bf-d402-439d-955e-c484bc01902b",
+          "name": "Piemonte",
+          "admin": null
+        },
+        {
+          "id": "554e7070-ea03-4d2e-b4e5-0cfcacdcfbd4",
+          "name": "Puglia",
+          "admin": null
+        },
+        {
+          "id": "bfdabe5c-a3bd-4423-af8d-483449a303d9",
+          "name": "Sardegna",
+          "admin": null
+        },
+        {
+          "id": "0d3985e9-7238-4b44-9711-92c8f7bf8bb7",
+          "name": "Sicilia",
+          "admin": null
+        },
+        {
+          "id": "5d311126-4633-4b5d-89b4-1e0eb834e0d1",
+          "name": "Toscana",
+          "admin": null
+        },
+        {
+          "id": "89a989ca-b80d-4924-aeaa-a85f634d36e5",
+          "name": "Umbria",
+          "admin": null
+        },
+        {
+          "id": "6e12d967-4af9-42a2-bbf8-88df59b2dd23",
+          "name": "Valle d'Aosta",
+          "admin": null
+        },
+        {
+          "id": "c4131d92-afec-47ae-a3d5-a4c7249ae1ce",
+          "name": "Veneto",
+          "admin": null
+        }
+      ],
+      "counties": []
+    },
+    {
       "id": "79f0042a-fdf2-4c35-a204-410477e457dc",
       "name": "Canada",
       "provinces": [
@@ -364,11 +476,6 @@
           "admin": null
         },
         {
-          "id": "6acf9816-cad5-45fb-8fa1-2482d965b6ff",
-          "name": "Recovered",
-          "admin": null
-        },
-        {
           "id": "5fcb161e-92c2-4bb4-a192-f68cef24bea9",
           "name": "Saskatchewan",
           "admin": null
@@ -376,6 +483,108 @@
         {
           "id": "bc605c5b-c8d4-438a-9bc1-90c52ba0a2b8",
           "name": "Yukon",
+          "admin": null
+        }
+      ],
+      "counties": []
+    },
+    {
+      "id": "39f204e9-2eb7-4171-bef3-7ab07297144b",
+      "name": "Spain",
+      "provinces": [
+        {
+          "id": "0f4e39c2-57f8-49cc-8014-0c7d89b522ad",
+          "name": "Andalusia",
+          "admin": null
+        },
+        {
+          "id": "d7a9fe49-e779-4f73-84cd-ad77293a3114",
+          "name": "Aragon",
+          "admin": null
+        },
+        {
+          "id": "6c7b04cd-3f87-477b-a74e-dd6cfaf5b9b4",
+          "name": "Asturias",
+          "admin": null
+        },
+        {
+          "id": "476dc7f4-01b9-498a-a9dc-a20e417f0265",
+          "name": "Baleares",
+          "admin": null
+        },
+        {
+          "id": "d054615e-e740-4564-adab-73c1ec24e6f7",
+          "name": "C. Valenciana",
+          "admin": null
+        },
+        {
+          "id": "1fc08d1b-a264-4a3a-9023-8ff83512cd43",
+          "name": "Canarias",
+          "admin": null
+        },
+        {
+          "id": "2478c26a-78ec-43ba-8f12-ffd92bfb1c9d",
+          "name": "Cantabria",
+          "admin": null
+        },
+        {
+          "id": "83f26206-02f1-4aec-b2fa-4bd571439975",
+          "name": "Castilla - La Mancha",
+          "admin": null
+        },
+        {
+          "id": "346201fc-41ff-47f8-89e1-294e99ff1d6b",
+          "name": "Castilla y Leon",
+          "admin": null
+        },
+        {
+          "id": "0b05626c-7450-4024-9fa4-8eaf445eb842",
+          "name": "Catalonia",
+          "admin": null
+        },
+        {
+          "id": "6dc3701c-9b23-4854-903d-42a69f7c2b65",
+          "name": "Ceuta",
+          "admin": null
+        },
+        {
+          "id": "c16226d4-817f-4483-bfde-a444402279ff",
+          "name": "Extremadura",
+          "admin": null
+        },
+        {
+          "id": "1ba49000-9b38-4ae5-ae9f-43b1616bfe9e",
+          "name": "Galicia",
+          "admin": null
+        },
+        {
+          "id": "1babe414-8ba9-4cc5-ae83-b5d9ac3701ad",
+          "name": "La Rioja",
+          "admin": null
+        },
+        {
+          "id": "1a964f83-c0ae-4993-851c-3441104b8db3",
+          "name": "Madrid",
+          "admin": null
+        },
+        {
+          "id": "6bc86c88-587e-4e14-8eaa-7cce6a18149f",
+          "name": "Melilla",
+          "admin": null
+        },
+        {
+          "id": "0eb5f13c-b841-412f-8e22-2596f01f4028",
+          "name": "Murcia",
+          "admin": null
+        },
+        {
+          "id": "225af700-6e07-46fb-ad2c-000cceb5ff09",
+          "name": "Navarra",
+          "admin": null
+        },
+        {
+          "id": "089e9f92-21ac-43be-b6da-c15fddbffd70",
+          "name": "Pais Vasco",
           "admin": null
         }
       ],
@@ -683,6 +892,203 @@
         }
       ],
       "counties": []
+    },
+    {
+      "id": "950d628c-252f-4846-86d7-c05fd5cd9f44",
+      "name": "Germany",
+      "provinces": [
+        {
+          "id": "6ffb39d3-e4ee-4b5c-8259-cf11efa6442b",
+          "name": "Baden-Wurttemberg",
+          "admin": null
+        },
+        {
+          "id": "8cfe9d10-f98c-4129-a704-3156c6843a2a",
+          "name": "Bayern",
+          "admin": null
+        },
+        {
+          "id": "9afc3a8c-057f-4c5b-a2a9-4ab14be3d25d",
+          "name": "Berlin",
+          "admin": null
+        },
+        {
+          "id": "2b4e99b8-82e4-4fc4-8ec2-f04d09ee9964",
+          "name": "Brandenburg",
+          "admin": null
+        },
+        {
+          "id": "55682476-fcbf-46e7-b93d-b363f3def145",
+          "name": "Bremen",
+          "admin": null
+        },
+        {
+          "id": "37319bba-e311-4f3e-adc3-ec13579c36ae",
+          "name": "Hamburg",
+          "admin": null
+        },
+        {
+          "id": "69d2b34f-9427-41ee-a1e5-b0d757caf03b",
+          "name": "Hessen",
+          "admin": null
+        },
+        {
+          "id": "6b53e257-85cb-4a7d-a0f8-a9e76996fffa",
+          "name": "Mecklenburg-Vorpommern",
+          "admin": null
+        },
+        {
+          "id": "f30d13b2-755a-49c1-8659-1dbeed311fed",
+          "name": "Niedersachsen",
+          "admin": null
+        },
+        {
+          "id": "d9087d95-11ee-47ac-958b-faa4c9db60fd",
+          "name": "Nordrhein-Westfalen",
+          "admin": null
+        },
+        {
+          "id": "91f95e86-fb5a-4cc8-9b61-474c0ca8fd44",
+          "name": "Rheinland-Pfalz",
+          "admin": null
+        },
+        {
+          "id": "f5cbcf73-4f10-4e67-adeb-4a839be2fb40",
+          "name": "Saarland",
+          "admin": null
+        },
+        {
+          "id": "b2939cfe-785a-4fe9-8110-3ef31e8a976c",
+          "name": "Sachsen",
+          "admin": null
+        },
+        {
+          "id": "d44f35a9-e30d-44b5-a1e1-03bc78b5d7a7",
+          "name": "Sachsen-Anhalt",
+          "admin": null
+        },
+        {
+          "id": "fabb21e4-ac8e-4322-afbd-200df4e68323",
+          "name": "Schleswig-Holstein",
+          "admin": null
+        },
+        {
+          "id": "3d6b2aaf-b42b-4851-a883-361a13f6ed5b",
+          "name": "Thuringen",
+          "admin": null
+        },
+        {
+          "id": "9b4b7295-a1e5-47f2-bffe-0133b34afb98",
+          "name": "Unknown",
+          "admin": null
+        },
+        {
+          "id": "af5759c7-c47d-4177-9cff-2a13f462d559",
+          "name": "Baden-Württemberg",
+          "admin": null
+        },
+        {
+          "id": "8cfe9d10-f98c-4129-a704-3156c6843a2a",
+          "name": "Bayern",
+          "admin": null
+        },
+        {
+          "id": "9afc3a8c-057f-4c5b-a2a9-4ab14be3d25d",
+          "name": "Berlin",
+          "admin": null
+        },
+        {
+          "id": "2b4e99b8-82e4-4fc4-8ec2-f04d09ee9964",
+          "name": "Brandenburg",
+          "admin": null
+        },
+        {
+          "id": "55682476-fcbf-46e7-b93d-b363f3def145",
+          "name": "Bremen",
+          "admin": null
+        },
+        {
+          "id": "37319bba-e311-4f3e-adc3-ec13579c36ae",
+          "name": "Hamburg",
+          "admin": null
+        },
+        {
+          "id": "69d2b34f-9427-41ee-a1e5-b0d757caf03b",
+          "name": "Hessen",
+          "admin": null
+        },
+        {
+          "id": "6b53e257-85cb-4a7d-a0f8-a9e76996fffa",
+          "name": "Mecklenburg-Vorpommern",
+          "admin": null
+        },
+        {
+          "id": "f30d13b2-755a-49c1-8659-1dbeed311fed",
+          "name": "Niedersachsen",
+          "admin": null
+        },
+        {
+          "id": "d9087d95-11ee-47ac-958b-faa4c9db60fd",
+          "name": "Nordrhein-Westfalen",
+          "admin": null
+        },
+        {
+          "id": "91f95e86-fb5a-4cc8-9b61-474c0ca8fd44",
+          "name": "Rheinland-Pfalz",
+          "admin": null
+        },
+        {
+          "id": "f5cbcf73-4f10-4e67-adeb-4a839be2fb40",
+          "name": "Saarland",
+          "admin": null
+        },
+        {
+          "id": "b2939cfe-785a-4fe9-8110-3ef31e8a976c",
+          "name": "Sachsen",
+          "admin": null
+        },
+        {
+          "id": "d44f35a9-e30d-44b5-a1e1-03bc78b5d7a7",
+          "name": "Sachsen-Anhalt",
+          "admin": null
+        },
+        {
+          "id": "fabb21e4-ac8e-4322-afbd-200df4e68323",
+          "name": "Schleswig-Holstein",
+          "admin": null
+        },
+        {
+          "id": "948c7d95-4615-439f-8be1-af0e977060d6",
+          "name": "Thüringen",
+          "admin": null
+        }
+      ],
+      "counties": [
+        {
+          "id": "82162f99-6dec-4649-8a52-a76df79544f8",
+          "name": "Hochtaunuskreis"
+        },
+        {
+          "id": "b01c61f6-8956-43d8-aa97-4a40ef7571fd",
+          "name": "Wetteraukreis"
+        },
+        {
+          "id": "ff5031f8-3d2e-4c32-86f9-27eec45f043a",
+          "name": "Frankfurt am Main"
+        },
+        {
+          "id": "0bb8d4d5-ea38-4414-af07-6fbadd769698",
+          "name": "Coesfeld"
+        },
+        {
+          "id": "6e42420e-a895-4114-bec1-4ebe4aac35f7",
+          "name": "Münster"
+        },
+        {
+          "id": "962b8a14-5a86-418e-9557-63179fba4cf7",
+          "name": "Steinfurt"
+        }
+      ]
     },
     {
       "id": "15a9c74b-774c-4889-a484-f5b437db031b",
@@ -1125,118 +1531,6 @@
       "counties": []
     },
     {
-      "id": "950d628c-252f-4846-86d7-c05fd5cd9f44",
-      "name": "Germany",
-      "provinces": [
-        {
-          "id": "af5759c7-c47d-4177-9cff-2a13f462d559",
-          "name": "Baden-Württemberg",
-          "admin": null
-        },
-        {
-          "id": "8cfe9d10-f98c-4129-a704-3156c6843a2a",
-          "name": "Bayern",
-          "admin": null
-        },
-        {
-          "id": "9afc3a8c-057f-4c5b-a2a9-4ab14be3d25d",
-          "name": "Berlin",
-          "admin": null
-        },
-        {
-          "id": "2b4e99b8-82e4-4fc4-8ec2-f04d09ee9964",
-          "name": "Brandenburg",
-          "admin": null
-        },
-        {
-          "id": "55682476-fcbf-46e7-b93d-b363f3def145",
-          "name": "Bremen",
-          "admin": null
-        },
-        {
-          "id": "37319bba-e311-4f3e-adc3-ec13579c36ae",
-          "name": "Hamburg",
-          "admin": null
-        },
-        {
-          "id": "69d2b34f-9427-41ee-a1e5-b0d757caf03b",
-          "name": "Hessen",
-          "admin": null
-        },
-        {
-          "id": "6b53e257-85cb-4a7d-a0f8-a9e76996fffa",
-          "name": "Mecklenburg-Vorpommern",
-          "admin": null
-        },
-        {
-          "id": "f30d13b2-755a-49c1-8659-1dbeed311fed",
-          "name": "Niedersachsen",
-          "admin": null
-        },
-        {
-          "id": "d9087d95-11ee-47ac-958b-faa4c9db60fd",
-          "name": "Nordrhein-Westfalen",
-          "admin": null
-        },
-        {
-          "id": "91f95e86-fb5a-4cc8-9b61-474c0ca8fd44",
-          "name": "Rheinland-Pfalz",
-          "admin": null
-        },
-        {
-          "id": "f5cbcf73-4f10-4e67-adeb-4a839be2fb40",
-          "name": "Saarland",
-          "admin": null
-        },
-        {
-          "id": "b2939cfe-785a-4fe9-8110-3ef31e8a976c",
-          "name": "Sachsen",
-          "admin": null
-        },
-        {
-          "id": "d44f35a9-e30d-44b5-a1e1-03bc78b5d7a7",
-          "name": "Sachsen-Anhalt",
-          "admin": null
-        },
-        {
-          "id": "fabb21e4-ac8e-4322-afbd-200df4e68323",
-          "name": "Schleswig-Holstein",
-          "admin": null
-        },
-        {
-          "id": "948c7d95-4615-439f-8be1-af0e977060d6",
-          "name": "Thüringen",
-          "admin": null
-        }
-      ],
-      "counties": [
-        {
-          "id": "82162f99-6dec-4649-8a52-a76df79544f8",
-          "name": "Hochtaunuskreis"
-        },
-        {
-          "id": "b01c61f6-8956-43d8-aa97-4a40ef7571fd",
-          "name": "Wetteraukreis"
-        },
-        {
-          "id": "ff5031f8-3d2e-4c32-86f9-27eec45f043a",
-          "name": "Frankfurt am Main"
-        },
-        {
-          "id": "0bb8d4d5-ea38-4414-af07-6fbadd769698",
-          "name": "Coesfeld"
-        },
-        {
-          "id": "6e42420e-a895-4114-bec1-4ebe4aac35f7",
-          "name": "Münster"
-        },
-        {
-          "id": "962b8a14-5a86-418e-9557-63179fba4cf7",
-          "name": "Steinfurt"
-        }
-      ]
-    },
-    {
       "id": "904cfe7a-afaa-4d41-9b19-2a22d99f9050",
       "name": "Ghana",
       "provinces": [],
@@ -1341,12 +1635,6 @@
     {
       "id": "c3ecdcfe-7566-4444-af4a-a75a4b5d13d4",
       "name": "Israel",
-      "provinces": [],
-      "counties": []
-    },
-    {
-      "id": "b70448fe-d1b9-4018-a967-7c287c12892e",
-      "name": "Italy",
       "provinces": [],
       "counties": []
     },
@@ -1773,12 +2061,6 @@
     {
       "id": "6a364802-fb4e-43f2-85f5-31c5cf727479",
       "name": "South Sudan",
-      "provinces": [],
-      "counties": []
-    },
-    {
-      "id": "39f204e9-2eb7-4171-bef3-7ab07297144b",
-      "name": "Spain",
       "provinces": [],
       "counties": []
     },
