@@ -137,14 +137,14 @@
           "admin": "Allegany"
         },
         {
+          "id": "b91ff2bf-9dc5-47e0-932e-1f67588c4601",
+          "name": "Kansas",
+          "admin": "Allen"
+        },
+        {
           "id": "a3184b63-3c90-4fdf-9ce2-a31ddd378686",
           "name": "Alaska",
           "admin": "Anchorage"
-        },
-        {
-          "id": "b91ff2bf-9dc5-47e0-932e-1f67588c4601",
-          "name": "Kansas",
-          "admin": "Anderson"
         },
         {
           "id": "22e08008-ba1f-4674-9dae-3462433dd712",
