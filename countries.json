@@ -1202,6 +1202,11 @@
           "id": "2ce9c272-062c-49b7-83fa-111fc3f56b88",
           "name": "Vaupes",
           "admin": null
+        },
+        {
+          "id": "dea587a1-5fa2-476c-a420-8ca4f92a7a9b",
+          "name": "Vichada",
+          "admin": null
         }
       ],
       "counties": []
