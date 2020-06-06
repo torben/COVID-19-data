@@ -549,11 +549,6 @@
           "id": "55e5768b-69b1-40f0-971c-21e6859383af",
           "name": "Tocantins",
           "admin": null
-        },
-        {
-          "id": "9ad08591-a29c-48df-9e70-c1618e847549",
-          "name": "Unknown",
-          "admin": null
         }
       ],
       "counties": []
@@ -2390,6 +2385,118 @@
       ]
     },
     {
+      "id": "d48f29da-f3de-4de8-938e-a7c8412e4eb3",
+      "name": "Sweden",
+      "provinces": [
+        {
+          "id": "3b8b8754-9033-4fdf-a79f-a805be49f57b",
+          "name": "Blekinge",
+          "admin": null
+        },
+        {
+          "id": "ecb073f7-320e-4384-887e-8e1dc403419d",
+          "name": "Dalarna",
+          "admin": null
+        },
+        {
+          "id": "78c70634-4572-4251-85c2-080438ad465e",
+          "name": "Gavleborg",
+          "admin": null
+        },
+        {
+          "id": "67165b6f-c9b1-48bf-8e59-fe0734271090",
+          "name": "Gotland",
+          "admin": null
+        },
+        {
+          "id": "7d3c034d-1178-40eb-8452-398f30fe8313",
+          "name": "Halland",
+          "admin": null
+        },
+        {
+          "id": "dd9f3012-fc68-49ae-a858-a454cb64282b",
+          "name": "Jamtland Harjedalen",
+          "admin": null
+        },
+        {
+          "id": "37d72d4b-f77f-4c70-ba2f-337ea86f30a9",
+          "name": "Jonkoping",
+          "admin": null
+        },
+        {
+          "id": "af3cfac6-4f73-4994-a6a4-c7cef7d657e6",
+          "name": "Kalmar",
+          "admin": null
+        },
+        {
+          "id": "940f62d2-59e7-4639-b42d-6f80a7482b65",
+          "name": "Kronoberg",
+          "admin": null
+        },
+        {
+          "id": "eab56685-95bf-4ebf-809c-0dbebe48fea0",
+          "name": "Norrbotten",
+          "admin": null
+        },
+        {
+          "id": "ee207603-c42e-4df4-b211-f5b362e498d3",
+          "name": "Orebro",
+          "admin": null
+        },
+        {
+          "id": "07e2ddf2-defd-45c6-9fc7-2408cb3894b7",
+          "name": "Ostergotland",
+          "admin": null
+        },
+        {
+          "id": "1a877b68-119f-4505-a8d5-07d966211d61",
+          "name": "Skane",
+          "admin": null
+        },
+        {
+          "id": "32a2e153-7abe-4a94-91e9-4aacb0a7b80c",
+          "name": "Sormland",
+          "admin": null
+        },
+        {
+          "id": "a7741efb-e739-4a20-ac48-8e71e9ded30c",
+          "name": "Stockholm",
+          "admin": null
+        },
+        {
+          "id": "560cdff1-38d9-4075-9ad8-e8a4dbd5f9d1",
+          "name": "Uppsala",
+          "admin": null
+        },
+        {
+          "id": "71d25e1e-7a46-45a8-ab32-9754558dc3ab",
+          "name": "Varmland",
+          "admin": null
+        },
+        {
+          "id": "9fde129a-c207-4bac-bd60-cfbbab1aff1b",
+          "name": "Vasterbotten",
+          "admin": null
+        },
+        {
+          "id": "321d8dc7-385a-4cdd-8f37-7a680263fb9f",
+          "name": "Vasternorrland",
+          "admin": null
+        },
+        {
+          "id": "7d205341-71d0-4558-b7de-d2ab60552cdf",
+          "name": "Vastmanland",
+          "admin": null
+        },
+        {
+          "id": "38b0fc41-f595-47f8-a2ea-37607f55275f",
+          "name": "Vastra Gotaland",
+          "admin": null
+        }
+      ],
+      "counties": []
+    },
+    {
       "id": "f825b90b-5a44-408f-92c5-8f9c622270dc",
       "name": "Ukraine",
       "provinces": [
@@ -3478,12 +3585,6 @@
     {
       "id": "35f9145f-8a0b-4210-9fd5-b35427d555d0",
       "name": "Suriname",
-      "provinces": [],
-      "counties": []
-    },
-    {
-      "id": "d48f29da-f3de-4de8-938e-a7c8412e4eb3",
-      "name": "Sweden",
       "provinces": [],
       "counties": []
     },
