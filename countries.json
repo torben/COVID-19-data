@@ -1922,8 +1922,8 @@
           "admin": null
         },
         {
-          "id": "d9823903-7c4b-44b3-8642-91bbf18bfcf1",
-          "name": "Dadar Nagar Haveli",
+          "id": "9ae64038-3ecd-4cab-b151-778fd8ac9697",
+          "name": "Dadra and Nagar Haveli and Daman and Diu",
           "admin": null
         },
         {
@@ -2099,6 +2099,11 @@
           "admin": null
         },
         {
+          "id": "6e2cbe1c-bd24-42da-9c5d-78bba5f491d9",
+          "name": "England",
+          "admin": null
+        },
+        {
           "id": "7e47fc0b-0bea-4ba6-8c74-9bd2a88a5f95",
           "name": "Falkland Islands (Malvinas)",
           "admin": null
@@ -2119,8 +2124,28 @@
           "admin": null
         },
         {
+          "id": "c9a1d853-9254-4e6a-a365-ca57bc66da92",
+          "name": "Northern Ireland",
+          "admin": null
+        },
+        {
+          "id": "4261008c-a274-476e-932d-9ab028bece22",
+          "name": "Scotland",
+          "admin": null
+        },
+        {
           "id": "b5a53bf4-43cd-4fc5-b61b-ab5a487284e6",
           "name": "Turks and Caicos Islands",
+          "admin": null
+        },
+        {
+          "id": "3bf88b6f-45bc-47fc-a982-543d6d7299c1",
+          "name": "Unknown",
+          "admin": null
+        },
+        {
+          "id": "da7aa77a-e399-407e-a7d2-50243d539caf",
+          "name": "Wales",
           "admin": null
         }
       ],
