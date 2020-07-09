@@ -132,6 +132,11 @@
           "admin": "Alcona"
         },
         {
+          "id": "a3184b63-3c90-4fdf-9ce2-a31ddd378686",
+          "name": "Alaska",
+          "admin": "Aleutians West"
+        },
+        {
           "id": "a879a8f6-eab5-4fca-a823-8cf77c960c21",
           "name": "Maryland",
           "admin": "Allegany"
@@ -140,11 +145,6 @@
           "id": "b91ff2bf-9dc5-47e0-932e-1f67588c4601",
           "name": "Kansas",
           "admin": "Allen"
-        },
-        {
-          "id": "a3184b63-3c90-4fdf-9ce2-a31ddd378686",
-          "name": "Alaska",
-          "admin": "Anchorage"
         },
         {
           "id": "22e08008-ba1f-4674-9dae-3462433dd712",
