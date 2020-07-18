@@ -1616,11 +1616,6 @@
           "admin": null
         },
         {
-          "id": "732edaa3-edac-49c5-8085-c96b91bec7bf",
-          "name": "Unknown",
-          "admin": null
-        },
-        {
           "id": "6bc257e4-90b8-4a5b-9baf-755b68a34c67",
           "name": "Valle del Cauca",
           "admin": null
@@ -1633,6 +1628,11 @@
         {
           "id": "dea587a1-5fa2-476c-a420-8ca4f92a7a9b",
           "name": "Vichada",
+          "admin": null
+        },
+        {
+          "id": "732edaa3-edac-49c5-8085-c96b91bec7bf",
+          "name": "Unknown",
           "admin": null
         }
       ],
@@ -2435,8 +2435,73 @@
           "admin": null
         },
         {
+          "id": "f9e727ef-5c04-4ffe-9b1e-844469b8ab88",
+          "name": "Drenthe",
+          "admin": null
+        },
+        {
+          "id": "9effddaf-1ac2-4d63-b422-558442a10ed9",
+          "name": "Flevoland",
+          "admin": null
+        },
+        {
+          "id": "6c9053ab-d81d-436a-9dcd-4e8de5d7aab1",
+          "name": "Friesland",
+          "admin": null
+        },
+        {
+          "id": "0ca803cd-a13d-4cd7-8f82-3a00c5aa9cb5",
+          "name": "Gelderland",
+          "admin": null
+        },
+        {
+          "id": "fa012141-143b-4771-8553-e3b260279621",
+          "name": "Groningen",
+          "admin": null
+        },
+        {
+          "id": "635213fb-3abf-49fe-a161-ab88f194666c",
+          "name": "Limburg",
+          "admin": null
+        },
+        {
+          "id": "92f6c2b3-fb46-4d84-bac1-858bd9c9e379",
+          "name": "Noord-Brabant",
+          "admin": null
+        },
+        {
+          "id": "72ec1d7b-c566-4f47-be28-277916ea1202",
+          "name": "Noord-Holland",
+          "admin": null
+        },
+        {
+          "id": "151d1475-b664-477e-b481-4c3aaa276177",
+          "name": "Overijssel",
+          "admin": null
+        },
+        {
           "id": "a125b4d0-1a2b-4d5d-80ea-e245cfc05396",
           "name": "Sint Maarten",
+          "admin": null
+        },
+        {
+          "id": "e632c0e8-f731-4982-b1e3-9ce03472e814",
+          "name": "Unknown",
+          "admin": null
+        },
+        {
+          "id": "b88871ca-31ad-445e-903c-574ac169a701",
+          "name": "Utrecht",
+          "admin": null
+        },
+        {
+          "id": "130f36c8-79b5-4711-900c-542e099d541e",
+          "name": "Zeeland",
+          "admin": null
+        },
+        {
+          "id": "586179c1-ff40-43d0-bbac-d8a105ac2c47",
+          "name": "Zuid-Holland",
           "admin": null
         }
       ],
