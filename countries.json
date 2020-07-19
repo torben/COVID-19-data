@@ -97,6 +97,11 @@
           "admin": "Addison"
         },
         {
+          "id": "60883248-6487-4a91-b16e-db07523d9d81",
+          "name": "Puerto Rico",
+          "admin": "Adjuntas"
+        },
+        {
           "id": "9291bfea-b1a3-431c-932a-a1fb68a5e78a",
           "name": "Minnesota",
           "admin": "Aitkin"
@@ -279,11 +284,6 @@
         {
           "id": "01ee6d07-ab86-44bc-9d61-6081f4ee994f",
           "name": "Northern Mariana Islands",
-          "admin": null
-        },
-        {
-          "id": "60883248-6487-4a91-b16e-db07523d9d81",
-          "name": "Puerto Rico",
           "admin": null
         },
         {
@@ -1217,6 +1217,11 @@
           "admin": null
         },
         {
+          "id": "0889715b-252d-477e-bb9e-899eb0457401",
+          "name": "Iwate",
+          "admin": null
+        },
+        {
           "id": "de1659eb-5a6b-411a-b97c-cc61d7372454",
           "name": "Kagawa",
           "admin": null
@@ -2047,11 +2052,6 @@
           "admin": null
         },
         {
-          "id": "d77154f5-193d-43c2-bd07-285dc480222f",
-          "name": "Unknown",
-          "admin": null
-        },
-        {
           "id": "dfcd5230-ccf6-47cb-ba5a-367c21145a36",
           "name": "Uttar Pradesh",
           "admin": null
@@ -2064,6 +2064,11 @@
         {
           "id": "f89d52f7-28b5-4aad-9026-f44ded8be123",
           "name": "West Bengal",
+          "admin": null
+        },
+        {
+          "id": "d77154f5-193d-43c2-bd07-285dc480222f",
+          "name": "Unknown",
           "admin": null
         }
       ],
