@@ -102,11 +102,6 @@
           "admin": "Adjuntas"
         },
         {
-          "id": "9291bfea-b1a3-431c-932a-a1fb68a5e78a",
-          "name": "Minnesota",
-          "admin": "Aitkin"
-        },
-        {
           "id": "63a845e2-8e4d-4018-b966-fd68067eed71",
           "name": "Florida",
           "admin": "Alachua"
@@ -295,6 +290,11 @@
           "id": "04f443d8-76fb-4439-a3ba-ce08623a2c16",
           "name": "Virgin Islands",
           "admin": null
+        },
+        {
+          "id": "9291bfea-b1a3-431c-932a-a1fb68a5e78a",
+          "name": "Minnesota",
+          "admin": "Aitkin"
         }
       ],
       "counties": []
