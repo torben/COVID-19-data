@@ -102,6 +102,11 @@
           "admin": "Adjuntas"
         },
         {
+          "id": "9291bfea-b1a3-431c-932a-a1fb68a5e78a",
+          "name": "Minnesota",
+          "admin": "Aitkin"
+        },
+        {
           "id": "63a845e2-8e4d-4018-b966-fd68067eed71",
           "name": "Florida",
           "admin": "Alachua"
@@ -134,7 +139,7 @@
         {
           "id": "a3184b63-3c90-4fdf-9ce2-a31ddd378686",
           "name": "Alaska",
-          "admin": "Aleutians West"
+          "admin": "Aleutians East"
         },
         {
           "id": "a879a8f6-eab5-4fca-a823-8cf77c960c21",
@@ -290,11 +295,6 @@
           "id": "04f443d8-76fb-4439-a3ba-ce08623a2c16",
           "name": "Virgin Islands",
           "admin": null
-        },
-        {
-          "id": "9291bfea-b1a3-431c-932a-a1fb68a5e78a",
-          "name": "Minnesota",
-          "admin": "Aitkin"
         }
       ],
       "counties": []
