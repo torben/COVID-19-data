@@ -2047,6 +2047,11 @@
           "admin": null
         },
         {
+          "id": "d77154f5-193d-43c2-bd07-285dc480222f",
+          "name": "Unknown",
+          "admin": null
+        },
+        {
           "id": "dfcd5230-ccf6-47cb-ba5a-367c21145a36",
           "name": "Uttar Pradesh",
           "admin": null
@@ -2064,11 +2069,6 @@
         {
           "id": "f8a3a9c1-3901-47f3-9797-a00ee44da167",
           "name": "Telangana",
-          "admin": null
-        },
-        {
-          "id": "d77154f5-193d-43c2-bd07-285dc480222f",
-          "name": "Unknown",
           "admin": null
         }
       ],
