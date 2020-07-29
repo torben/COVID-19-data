@@ -1982,6 +1982,11 @@
           "admin": null
         },
         {
+          "id": "49a21044-879d-4282-b7d0-74d675e263d8",
+          "name": "Lakshadweep",
+          "admin": null
+        },
+        {
           "id": "30cafaf5-fe80-420a-b2aa-1c6047d55e12",
           "name": "Madhya Pradesh",
           "admin": null
@@ -2042,6 +2047,11 @@
           "admin": null
         },
         {
+          "id": "f8a3a9c1-3901-47f3-9797-a00ee44da167",
+          "name": "Telangana",
+          "admin": null
+        },
+        {
           "id": "946da328-a9c2-4320-857d-890decdb3eeb",
           "name": "Tripura",
           "admin": null
@@ -2064,11 +2074,6 @@
         {
           "id": "f89d52f7-28b5-4aad-9026-f44ded8be123",
           "name": "West Bengal",
-          "admin": null
-        },
-        {
-          "id": "f8a3a9c1-3901-47f3-9797-a00ee44da167",
-          "name": "Telangana",
           "admin": null
         }
       ],
