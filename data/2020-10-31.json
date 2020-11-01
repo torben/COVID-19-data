@@ -1,0 +1,5655 @@
+{
+  "id": "285e9ff1-98ab-4cd3-886a-af6f937b5734",
+  "cases": 46062525,
+  "recovered": 30820223,
+  "deaths": 1195376,
+  "active": 14046907,
+  "countries": [
+    {
+      "id": "6bf5f296-134c-4af3-9a32-4dc11584d908",
+      "cases": 41425,
+      "deaths": 1536,
+      "recovered": 34321,
+      "active": 5568,
+      "per100": 0
+    },
+    {
+      "id": "450a1f35-96bd-4fa0-9e9d-eba049d5f3ba",
+      "cases": 20875,
+      "deaths": 509,
+      "recovered": 11189,
+      "active": 9177,
+      "per100": 0
+    },
+    {
+      "id": "145d449e-839e-4b01-a30a-34c9d77cabdf",
+      "cases": 57942,
+      "deaths": 1964,
+      "recovered": 40201,
+      "active": 15777,
+      "per100": 0
+    },
+    {
+      "id": "19e95990-e5b4-4902-b8e3-3e1e94c623eb",
+      "cases": 4756,
+      "deaths": 75,
+      "recovered": 3475,
+      "active": 1206,
+      "per100": 0
+    },
+    {
+      "id": "2a763f68-db39-443a-8bbc-e47791d1a88d",
+      "cases": 10805,
+      "deaths": 284,
+      "recovered": 4523,
+      "active": 5998,
+      "per100": 0
+    },
+    {
+      "id": "8082a147-243a-427e-ae84-a22d6a4acab5",
+      "cases": 128,
+      "deaths": 3,
+      "recovered": 117,
+      "active": 8,
+      "per100": 0
+    },
+    {
+      "id": "f72cc560-c098-4d4d-a485-1d4331436334",
+      "cases": 1166924,
+      "deaths": 31002,
+      "recovered": 973939,
+      "active": 161983,
+      "per100": 0
+    },
+    {
+      "id": "a5227d0f-7d5f-4360-ae1a-c00372064ea1",
+      "cases": 89813,
+      "deaths": 1341,
+      "recovered": 55317,
+      "active": 33155,
+      "per100": 0
+    },
+    {
+      "id": "b1b53ddb-53dc-45b2-a33e-8e3defad9181",
+      "cases": 27595,
+      "deaths": 907,
+      "recovered": 25336,
+      "active": 1352,
+      "per100": 0,
+      "provinces": [
+        {
+          "id": "b54eef3e-ecac-4ea3-8e7e-31802f14488f",
+          "cases": 114,
+          "deaths": 3,
+          "recovered": 111,
+          "per100": 0
+        },
+        {
+          "id": "4de3ea3d-1009-4adc-831c-00c2f50131cc",
+          "cases": 4425,
+          "deaths": 53,
+          "recovered": 3148,
+          "per100": 0
+        },
+        {
+          "id": "801a4bfe-f94a-47da-b959-3bffa3452b6b",
+          "cases": 38,
+          "deaths": 0,
+          "recovered": 33,
+          "per100": 0
+        },
+        {
+          "id": "3b2f4ef3-7a54-4aff-a635-bd44b0445d27",
+          "cases": 1172,
+          "deaths": 6,
+          "recovered": 1160,
+          "per100": 0
+        },
+        {
+          "id": "f8dcdfb9-38d9-4dd2-9da6-ad59bc38fd95",
+          "cases": 501,
+          "deaths": 4,
+          "recovered": 483,
+          "per100": 0
+        },
+        {
+          "id": "b4a79103-1386-4548-93cc-33c8d41a3fb9",
+          "cases": 230,
+          "deaths": 13,
+          "recovered": 217,
+          "per100": 0
+        },
+        {
+          "id": "fb107857-9a04-4e6d-b542-6c5c758904af",
+          "cases": 20346,
+          "deaths": 819,
+          "recovered": 19466,
+          "per100": 0
+        },
+        {
+          "id": "16274557-2122-4c8a-871e-93a7fccc1d8a",
+          "cases": 769,
+          "deaths": 9,
+          "recovered": 718,
+          "per100": 0
+        }
+      ],
+      "counties": []
+    },
+    {
+      "id": "850b3353-e797-4063-8209-0a6253e3eae4",
+      "cases": 104925,
+      "deaths": 1109,
+      "recovered": 67226,
+      "active": 36590,
+      "per100": 0
+    },
+    {
+      "id": "f21d5080-cd21-4190-87f3-416510423e68",
+      "cases": 55269,
+      "deaths": 730,
+      "recovered": 43543,
+      "active": 10996,
+      "per100": 0
+    },
+    {
+      "id": "edb7463c-b27e-41c4-a2b1-807d2b6a954b",
+      "cases": 6714,
+      "deaths": 144,
+      "recovered": 4422,
+      "active": 2148,
+      "per100": 0
+    },
+    {
+      "id": "4b6b8f72-5b05-4fad-928f-78cddd60212b",
+      "cases": 81645,
+      "deaths": 321,
+      "recovered": 78719,
+      "active": 2605,
+      "per100": 0
+    },
+    {
+      "id": "ce4328e9-d3ec-4183-b41a-89e52d111634",
+      "cases": 407684,
+      "deaths": 5923,
+      "recovered": 324145,
+      "active": 77616,
+      "per100": 0
+    },
+    {
+      "id": "e6dbb995-a968-4bc1-88b9-36ff451dff2e",
+      "cases": 237,
+      "deaths": 7,
+      "recovered": 221,
+      "active": 9,
+      "per100": 0
+    },
+    {
+      "id": "dfaff7ae-d841-4820-aac0-23be360a05a8",
+      "cases": 98482,
+      "deaths": 980,
+      "recovered": 86663,
+      "active": 10839,
+      "per100": 0
+    },
+    {
+      "id": "05843b63-8650-4cd5-a204-eb5a136af72b",
+      "cases": 429229,
+      "deaths": 11625,
+      "recovered": 25569,
+      "active": 392035,
+      "per100": 0
+    },
+    {
+      "id": "b65240d8-7e92-4634-bc6c-92a321c79abd",
+      "cases": 3487,
+      "deaths": 59,
+      "recovered": 2160,
+      "active": 1268,
+      "per100": 0
+    },
+    {
+      "id": "8e588dbc-3f0f-451f-a7dc-04515e3ac58a",
+      "cases": 2643,
+      "deaths": 41,
+      "recovered": 2418,
+      "active": 184,
+      "per100": 0
+    },
+    {
+      "id": "4f8fd9c6-253a-4e95-a11e-e26c964d2434",
+      "cases": 349,
+      "deaths": 0,
+      "recovered": 324,
+      "active": 25,
+      "per100": 0
+    },
+    {
+      "id": "855b8451-7d72-44cf-89dd-1e170be5f2dc",
+      "cases": 141757,
+      "deaths": 8725,
+      "recovered": 111503,
+      "active": 21529,
+      "per100": 0
+    },
+    {
+      "id": "e56be56f-04ef-41c0-9f3a-e904ceb939a1",
+      "cases": 50090,
+      "deaths": 1234,
+      "recovered": 28083,
+      "active": 20773,
+      "per100": 0
+    },
+    {
+      "id": "41b7bd85-f135-4b3e-b137-399b9099849c",
+      "cases": 6642,
+      "deaths": 24,
+      "recovered": 4676,
+      "active": 1942,
+      "per100": 0
+    },
+    {
+      "id": "21850b9e-ffcb-4bc8-a040-616e2c165fc6",
+      "cases": 5535605,
+      "deaths": 159884,
+      "recovered": 5005161,
+      "active": 370560,
+      "per100": 0,
+      "provinces": [
+        {
+          "id": "3905e54c-ecc2-4fd9-ab9f-b58a4946cf85",
+          "cases": 30796,
+          "deaths": 693,
+          "recovered": 28137,
+          "per100": 0
+        },
+        {
+          "id": "6eb74ac9-03f8-45dc-9348-86ad1aa96a94",
+          "cases": 90789,
+          "deaths": 2238,
+          "recovered": 87755,
+          "per100": 0
+        },
+        {
+          "id": "87f209b0-508e-4410-8b74-3cef81b4de23",
+          "cases": 52175,
+          "deaths": 748,
+          "recovered": 44104,
+          "per100": 0
+        },
+        {
+          "id": "47c774c0-deda-4fbc-996f-7d0e22894d71",
+          "cases": 161683,
+          "deaths": 4543,
+          "recovered": 137674,
+          "per100": 0
+        },
+        {
+          "id": "1556843b-4614-4d6f-a724-b1e1c5c703e5",
+          "cases": 353157,
+          "deaths": 7622,
+          "recovered": 338895,
+          "per100": 0
+        },
+        {
+          "id": "7dbc0f65-9016-4043-ba0f-781fbe7c967a",
+          "cases": 274185,
+          "deaths": 9353,
+          "recovered": 233895,
+          "per100": 0
+        },
+        {
+          "id": "a53d44fa-14ff-4bdb-9ac5-8d7c7a26e085",
+          "cases": 213245,
+          "deaths": 3683,
+          "recovered": 203684,
+          "per100": 0
+        },
+        {
+          "id": "2dab6da4-961f-464c-a7a8-788c41f7be84",
+          "cases": 155709,
+          "deaths": 3855,
+          "recovered": 143370,
+          "per100": 0
+        },
+        {
+          "id": "1c2b4dae-b1e1-4ed6-98b7-d748c4746707",
+          "cases": 255447,
+          "deaths": 5753,
+          "recovered": 245704,
+          "per100": 0
+        },
+        {
+          "id": "c9073f22-9e6a-4c3e-9e24-a0223749abfb",
+          "cases": 185827,
+          "deaths": 4053,
+          "recovered": 179315,
+          "per100": 0
+        },
+        {
+          "id": "82f31b24-0805-4eb5-9cc5-25372afaa806",
+          "cases": 142902,
+          "deaths": 3798,
+          "recovered": 134087,
+          "per100": 0
+        },
+        {
+          "id": "d72753b3-34de-4fb3-aa1b-b3368b99d39d",
+          "cases": 82344,
+          "deaths": 1592,
+          "recovered": 76819,
+          "per100": 0
+        },
+        {
+          "id": "eee6ad9d-b2b4-43fb-97cb-284029b9f0c4",
+          "cases": 358971,
+          "deaths": 9015,
+          "recovered": 328402,
+          "per100": 0
+        },
+        {
+          "id": "3644b1a0-2d8c-4185-ae63-f83ada216348",
+          "cases": 252919,
+          "deaths": 6743,
+          "recovered": 236350,
+          "per100": 0
+        },
+        {
+          "id": "7e29303a-132e-4e0d-bc9a-c82a7994a6b9",
+          "cases": 133149,
+          "deaths": 3101,
+          "recovered": 108665,
+          "per100": 0
+        },
+        {
+          "id": "591756d9-39f7-4927-b5c4-f905329a0af2",
+          "cases": 213482,
+          "deaths": 5216,
+          "recovered": 162131,
+          "per100": 0
+        },
+        {
+          "id": "01257eab-e68d-4279-9318-e1532fdb124e",
+          "cases": 162893,
+          "deaths": 8627,
+          "recovered": 144875,
+          "per100": 0
+        },
+        {
+          "id": "141e9a3f-5f20-4f02-9d5a-ea4011bea8a3",
+          "cases": 113291,
+          "deaths": 2400,
+          "recovered": 110431,
+          "per100": 0
+        },
+        {
+          "id": "f4190e6f-e041-4a56-91ff-fd4178d611fd",
+          "cases": 81176,
+          "deaths": 2577,
+          "recovered": 45546,
+          "per100": 0
+        },
+        {
+          "id": "896a33be-59d5-4212-aa3c-1364f834c3f9",
+          "cases": 247576,
+          "deaths": 5797,
+          "recovered": 230142,
+          "per100": 0
+        },
+        {
+          "id": "b1668fdd-ffd9-422a-8464-57eaee4bb878",
+          "cases": 309977,
+          "deaths": 20600,
+          "recovered": 284398,
+          "per100": 0
+        },
+        {
+          "id": "e2a0f524-6609-4b8d-ba60-dcd136de5dd7",
+          "cases": 71666,
+          "deaths": 1457,
+          "recovered": 64848,
+          "per100": 0
+        },
+        {
+          "id": "09c442e2-e3a9-4991-84b7-04d55d491fbf",
+          "cases": 57284,
+          "deaths": 692,
+          "recovered": 53124,
+          "per100": 0
+        },
+        {
+          "id": "37ca4734-80d4-4f75-987f-41a5627aeae7",
+          "cases": 258940,
+          "deaths": 3114,
+          "recovered": 242798,
+          "per100": 0
+        },
+        {
+          "id": "f505e327-12a8-44c2-ad1f-cec57351c9cf",
+          "cases": 1116127,
+          "deaths": 39311,
+          "recovered": 999718,
+          "per100": 0
+        },
+        {
+          "id": "8680734d-f179-46bd-95ee-9680dfe82db0",
+          "cases": 84326,
+          "deaths": 2206,
+          "recovered": 76489,
+          "per100": 0
+        },
+        {
+          "id": "55e5768b-69b1-40f0-971c-21e6859383af",
+          "cases": 75569,
+          "deaths": 1097,
+          "recovered": 63805,
+          "per100": 0
+        }
+      ],
+      "counties": []
+    },
+    {
+      "id": "8eb31b3d-0d3f-419f-952f-560002c9451d",
+      "cases": 148,
+      "deaths": 3,
+      "recovered": 143,
+      "active": 2,
+      "per100": 0
+    },
+    {
+      "id": "12823ff2-bdcb-4bc6-825b-77117ddf02d7",
+      "cases": 52844,
+      "deaths": 1279,
+      "recovered": 20045,
+      "active": 31520,
+      "per100": 0
+    },
+    {
+      "id": "9922e7ee-49cc-4876-a27a-716ef8ba417b",
+      "cases": 2500,
+      "deaths": 67,
+      "recovered": 2250,
+      "active": 183,
+      "per100": 0
+    },
+    {
+      "id": "f39c6fd1-775a-4921-a3b6-5894cb6c1a90",
+      "cases": 52706,
+      "deaths": 1237,
+      "recovered": 32774,
+      "active": 18695,
+      "per100": 0
+    },
+    {
+      "id": "bc60d099-6933-4204-9a48-64d7b260be2f",
+      "cases": 585,
+      "deaths": 1,
+      "recovered": 511,
+      "active": 73,
+      "per100": 0
+    },
+    {
+      "id": "d8b76a38-fab5-4c8e-af55-deafce0238ff",
+      "cases": 8793,
+      "deaths": 95,
+      "recovered": 7981,
+      "active": 717,
+      "per100": 0
+    },
+    {
+      "id": "9944775d-0208-4a11-ac96-7b18f5a75a98",
+      "cases": 291,
+      "deaths": 0,
+      "recovered": 283,
+      "active": 8,
+      "per100": 0
+    },
+    {
+      "id": "a17a27f8-0fb6-47a1-9963-d5257bbed038",
+      "cases": 21793,
+      "deaths": 426,
+      "recovered": 20117,
+      "active": 1250,
+      "per100": 0
+    },
+    {
+      "id": "79f0042a-fdf2-4c35-a204-410477e457dc",
+      "cases": 237313,
+      "deaths": 10187,
+      "recovered": 198952,
+      "active": 28175,
+      "per100": 0,
+      "provinces": [
+        {
+          "id": "fd342c3a-8ce4-4780-9535-2e9cdd5ee012",
+          "cases": 27664,
+          "deaths": 323,
+          "recovered": 22169,
+          "per100": 0
+        },
+        {
+          "id": "a65dc5a6-113e-456d-965f-d114ff5ff7a4",
+          "cases": 14381,
+          "deaths": 263,
+          "recovered": 11728,
+          "per100": 0
+        },
+        {
+          "id": "ecd7a6d5-2adf-4451-a348-8d65c88b87d5",
+          "cases": 0,
+          "deaths": 1,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "91d69de6-f681-40e1-8083-35044fd43f47",
+          "cases": 13,
+          "deaths": 0,
+          "recovered": 13,
+          "per100": 0
+        },
+        {
+          "id": "826b8e4e-c3e6-4a8d-a240-56fdf09cb205",
+          "cases": 5723,
+          "deaths": 67,
+          "recovered": 2646,
+          "per100": 0
+        },
+        {
+          "id": "8f8133c2-7cf7-42ad-9d6b-97108bca4f65",
+          "cases": 343,
+          "deaths": 6,
+          "recovered": 299,
+          "per100": 0
+        },
+        {
+          "id": "2bfd3fc3-ebe4-49b0-b966-00eb94f55fe0",
+          "cases": 291,
+          "deaths": 4,
+          "recovered": 284,
+          "per100": 0
+        },
+        {
+          "id": "ceb185b7-9dae-48ee-b410-533d83ef88ba",
+          "cases": 10,
+          "deaths": 0,
+          "recovered": 8,
+          "per100": 0
+        },
+        {
+          "id": "4e9485fd-9810-4461-8889-4a7af1d0f087",
+          "cases": 1109,
+          "deaths": 65,
+          "recovered": 1033,
+          "per100": 0
+        },
+        {
+          "id": "551ba3fc-e4a1-46f9-ac3a-1361d5d92544",
+          "cases": 78532,
+          "deaths": 3186,
+          "recovered": 67735,
+          "per100": 0
+        },
+        {
+          "id": "ab4a16a5-6323-484a-86c6-f569f7746ee9",
+          "cases": 64,
+          "deaths": 0,
+          "recovered": 64,
+          "per100": 0
+        },
+        {
+          "id": "0f59d3d4-24b9-4b70-8366-a11fa1cd74cf",
+          "cases": 106016,
+          "deaths": 6246,
+          "recovered": 90576,
+          "per100": 0
+        },
+        {
+          "id": "5fcb161e-92c2-4bb4-a192-f68cef24bea9",
+          "cases": 3144,
+          "deaths": 25,
+          "recovered": 2380,
+          "per100": 0
+        },
+        {
+          "id": "bc605c5b-c8d4-438a-9bc1-90c52ba0a2b8",
+          "cases": 23,
+          "deaths": 1,
+          "recovered": 17,
+          "per100": 0
+        }
+      ],
+      "counties": []
+    },
+    {
+      "id": "e8586d83-a607-4e1f-a857-db686f169594",
+      "cases": 4866,
+      "deaths": 62,
+      "recovered": 1924,
+      "active": 2880,
+      "per100": 0
+    },
+    {
+      "id": "5ecebda7-6085-4cde-91e1-3d7035b2d53a",
+      "cases": 1483,
+      "deaths": 98,
+      "recovered": 1314,
+      "active": 71,
+      "per100": 0
+    },
+    {
+      "id": "7c3dec52-8408-468a-b00d-026eb88ef37a",
+      "cases": 510256,
+      "deaths": 14207,
+      "recovered": 486642,
+      "active": 9408,
+      "per100": 0,
+      "provinces": [
+        {
+          "id": "3f5d491c-b76d-479d-aceb-144174796a5e",
+          "cases": 21358,
+          "deaths": 537,
+          "recovered": 20545,
+          "per100": 0
+        },
+        {
+          "id": "e28262a9-c829-4708-9030-5e529a26500d",
+          "cases": 12370,
+          "deaths": 157,
+          "recovered": 11188,
+          "per100": 0
+        },
+        {
+          "id": "deefc4e0-d50d-4807-a8ef-2662257917cf",
+          "cases": 9603,
+          "deaths": 183,
+          "recovered": 9158,
+          "per100": 0
+        },
+        {
+          "id": "8435edd1-826d-4f3b-889b-d78aa1071913",
+          "cases": 7867,
+          "deaths": 87,
+          "recovered": 7634,
+          "per100": 0
+        },
+        {
+          "id": "628fb403-0496-40d2-aa21-96e90ff18ce9",
+          "cases": 1035,
+          "deaths": 5,
+          "recovered": 963,
+          "per100": 0
+        },
+        {
+          "id": "689a35af-5bc9-48b7-83d5-c4bcf88a2333",
+          "cases": 29535,
+          "deaths": 482,
+          "recovered": 27743,
+          "per100": 0
+        },
+        {
+          "id": "38fd6df8-dee4-4d3c-9cf0-596a0134cab8",
+          "cases": 12678,
+          "deaths": 246,
+          "recovered": 12346,
+          "per100": 0
+        },
+        {
+          "id": "c6e3c188-e4a7-4a90-b922-e9c238569f9d",
+          "cases": 14894,
+          "deaths": 130,
+          "recovered": 13576,
+          "per100": 0
+        },
+        {
+          "id": "0e0626f3-f2e1-487e-9956-795829ba6e61",
+          "cases": 3509,
+          "deaths": 31,
+          "recovered": 3014,
+          "per100": 0
+        },
+        {
+          "id": "c68847b1-7cff-4606-9721-5d0a730b948d",
+          "cases": 12272,
+          "deaths": 135,
+          "recovered": 11690,
+          "per100": 0
+        },
+        {
+          "id": "40a2414a-b219-41dd-bc5e-bfb6a8dbc040",
+          "cases": 18905,
+          "deaths": 421,
+          "recovered": 17886,
+          "per100": 0
+        },
+        {
+          "id": "05dd5d2b-5ca6-4f20-a718-8d7afdae2c28",
+          "cases": 296812,
+          "deaths": 9847,
+          "recovered": 284745,
+          "per100": 0
+        },
+        {
+          "id": "fb02572a-5f93-4ff8-99e3-bd281d72055b",
+          "cases": 7465,
+          "deaths": 149,
+          "recovered": 7078,
+          "per100": 0
+        },
+        {
+          "id": "a37a7daa-b84d-42bb-9480-6d2c242663b5",
+          "cases": 18655,
+          "deaths": 495,
+          "recovered": 17862,
+          "per100": 0
+        },
+        {
+          "id": "99fd9837-22d9-42b2-a582-95a579b17fde",
+          "cases": 12907,
+          "deaths": 244,
+          "recovered": 12347,
+          "per100": 0
+        },
+        {
+          "id": "fcc9dcf8-b7fc-4b79-bb0b-233ed631c5bb",
+          "cases": 49,
+          "deaths": 1,
+          "recovered": 49,
+          "per100": 0
+        },
+        {
+          "id": "71377830-d7ff-47f7-a911-fa5245a04b78",
+          "cases": 30342,
+          "deaths": 1057,
+          "recovered": 28818,
+          "per100": 0
+        }
+      ],
+      "counties": []
+    },
+    {
+      "id": "f261405c-efc7-481d-ad67-74ece8c457cf",
+      "cases": 91366,
+      "deaths": 4739,
+      "recovered": 86135,
+      "active": 492,
+      "per100": 0,
+      "provinces": [
+        {
+          "id": "f9254046-e73d-49ef-8dec-3ad315558358",
+          "cases": 991,
+          "deaths": 6,
+          "recovered": 985,
+          "per100": 0
+        },
+        {
+          "id": "3522830f-9837-4de5-b0ca-18cbfd24b5ba",
+          "cases": 942,
+          "deaths": 9,
+          "recovered": 929,
+          "per100": 0
+        },
+        {
+          "id": "8cbc0403-cdef-47b9-ba8b-1c1d65eee985",
+          "cases": 589,
+          "deaths": 6,
+          "recovered": 579,
+          "per100": 0
+        },
+        {
+          "id": "3f1be892-ae52-4f4f-8a84-3252399f8ebd",
+          "cases": 437,
+          "deaths": 1,
+          "recovered": 411,
+          "per100": 0
+        },
+        {
+          "id": "9593f489-3fa6-4e8b-86d6-b3a4adc3a4b1",
+          "cases": 177,
+          "deaths": 2,
+          "recovered": 168,
+          "per100": 0
+        },
+        {
+          "id": "faed6b5a-7e39-4e01-b8ba-e47879136536",
+          "cases": 1922,
+          "deaths": 8,
+          "recovered": 1882,
+          "per100": 0
+        },
+        {
+          "id": "c2fd64dc-5d15-4592-ae50-3c8ae67cf0f8",
+          "cases": 260,
+          "deaths": 2,
+          "recovered": 258,
+          "per100": 0
+        },
+        {
+          "id": "5da34843-b7f5-4b5d-a0c7-dafe39fab6b9",
+          "cases": 147,
+          "deaths": 2,
+          "recovered": 145,
+          "per100": 0
+        },
+        {
+          "id": "88d25904-d125-4781-a864-aceddf8c932b",
+          "cases": 171,
+          "deaths": 6,
+          "recovered": 165,
+          "per100": 0
+        },
+        {
+          "id": "e3c02c79-a3be-4669-a5b3-2df704854462",
+          "cases": 373,
+          "deaths": 6,
+          "recovered": 359,
+          "per100": 0
+        },
+        {
+          "id": "43c17bae-0d77-4c7f-9c78-6dce6832b9ac",
+          "cases": 949,
+          "deaths": 13,
+          "recovered": 935,
+          "per100": 0
+        },
+        {
+          "id": "cd4d067e-d45a-4aff-adc4-ed6046983bca",
+          "cases": 1284,
+          "deaths": 22,
+          "recovered": 1258,
+          "per100": 0
+        },
+        {
+          "id": "743fba7b-f942-41ba-b19a-c05186161eed",
+          "cases": 5323,
+          "deaths": 105,
+          "recovered": 5089,
+          "per100": 0
+        },
+        {
+          "id": "52482c13-c250-40c3-8dcf-d4b1755f7885",
+          "cases": 68139,
+          "deaths": 4512,
+          "recovered": 63627,
+          "per100": 0
+        },
+        {
+          "id": "51fed832-6ec9-4bb6-9054-7b50dc56a344",
+          "cases": 1020,
+          "deaths": 4,
+          "recovered": 1015,
+          "per100": 0
+        },
+        {
+          "id": "5cd98d5b-a3dd-4c97-b871-4677b149406f",
+          "cases": 291,
+          "deaths": 1,
+          "recovered": 270,
+          "per100": 0
+        },
+        {
+          "id": "ab0f130b-c709-4572-ac6c-a23305b8e3bb",
+          "cases": 672,
+          "deaths": 0,
+          "recovered": 666,
+          "per100": 0
+        },
+        {
+          "id": "ac18d2ec-dc21-4e79-867c-416a6f3030ac",
+          "cases": 935,
+          "deaths": 1,
+          "recovered": 934,
+          "per100": 0
+        },
+        {
+          "id": "c3901d28-6e9b-43eb-9ea1-0479b6f73293",
+          "cases": 157,
+          "deaths": 2,
+          "recovered": 155,
+          "per100": 0
+        },
+        {
+          "id": "2b911927-5505-4817-bcaa-c6d25e2c5bd6",
+          "cases": 283,
+          "deaths": 2,
+          "recovered": 278,
+          "per100": 0
+        },
+        {
+          "id": "31072231-c93d-45be-a18b-7a7b6834e419",
+          "cases": 46,
+          "deaths": 0,
+          "recovered": 46,
+          "per100": 0
+        },
+        {
+          "id": "203feb52-9fe6-46c4-a37f-940ccb850d75",
+          "cases": 75,
+          "deaths": 0,
+          "recovered": 75,
+          "per100": 0
+        },
+        {
+          "id": "2aababce-427f-48e1-9c06-77760767bbf9",
+          "cases": 18,
+          "deaths": 0,
+          "recovered": 18,
+          "per100": 0
+        },
+        {
+          "id": "6d047530-6b56-4731-a147-22ebd9e6b4a9",
+          "cases": 455,
+          "deaths": 3,
+          "recovered": 423,
+          "per100": 0
+        },
+        {
+          "id": "987af200-6e4e-4457-a78b-de8a14b7b58c",
+          "cases": 847,
+          "deaths": 7,
+          "recovered": 835,
+          "per100": 0
+        },
+        {
+          "id": "2ed01f59-2fd6-4581-8e88-23414435072a",
+          "cases": 1181,
+          "deaths": 7,
+          "recovered": 1074,
+          "per100": 0
+        },
+        {
+          "id": "ca2eabc3-dee0-41f6-ba79-72a86ceb2c1e",
+          "cases": 212,
+          "deaths": 0,
+          "recovered": 208,
+          "per100": 0
+        },
+        {
+          "id": "de2e84d2-b40a-449a-8267-4383c6efe528",
+          "cases": 744,
+          "deaths": 3,
+          "recovered": 710,
+          "per100": 0
+        },
+        {
+          "id": "56c55b5a-859e-4d84-82ea-be6d1563a102",
+          "cases": 270,
+          "deaths": 3,
+          "recovered": 251,
+          "per100": 0
+        },
+        {
+          "id": "084555c2-4291-4abb-bdb1-b423a7e37034",
+          "cases": 1,
+          "deaths": 0,
+          "recovered": 1,
+          "per100": 0
+        },
+        {
+          "id": "ee5d6037-e4a2-4b91-aaf1-6225bd788fa2",
+          "cases": 956,
+          "deaths": 3,
+          "recovered": 899,
+          "per100": 0
+        },
+        {
+          "id": "3b23567c-01eb-4513-bf85-f8c7530ae867",
+          "cases": 213,
+          "deaths": 2,
+          "recovered": 208,
+          "per100": 0
+        },
+        {
+          "id": "0e3849e5-fb4c-4a08-9546-df04f981eecd",
+          "cases": 1286,
+          "deaths": 1,
+          "recovered": 1279,
+          "per100": 0
+        }
+      ],
+      "counties": []
+    },
+    {
+      "id": "152773b8-dd43-4ca4-9815-178903ebb419",
+      "cases": 1073809,
+      "deaths": 31598,
+      "recovered": 968927,
+      "active": 73284,
+      "per100": 0,
+      "provinces": [
+        {
+          "id": "6040d221-cf2b-44ff-a802-a5dd64bec2a5",
+          "cases": 2908,
+          "deaths": 117,
+          "recovered": 2773,
+          "per100": 0
+        },
+        {
+          "id": "cbdc26d2-3218-4b3e-91ed-ae7c4a9ef86f",
+          "cases": 169425,
+          "deaths": 3221,
+          "recovered": 154986,
+          "per100": 0
+        },
+        {
+          "id": "52f39edc-cb42-46d7-b2fe-e19f8d1d4cbb",
+          "cases": 3347,
+          "deaths": 94,
+          "recovered": 2936,
+          "per100": 0
+        },
+        {
+          "id": "4cf3b3bb-07b3-4a36-b5f9-91876e7e9e36",
+          "cases": 71870,
+          "deaths": 3131,
+          "recovered": 67249,
+          "per100": 0
+        },
+        {
+          "id": "18f1e5a3-88c6-487b-86f1-f03c82996bd7",
+          "cases": 33019,
+          "deaths": 846,
+          "recovered": 31211,
+          "per100": 0
+        },
+        {
+          "id": "4b1905fa-7159-4af9-ac05-c7980ec0170e",
+          "cases": 14440,
+          "deaths": 300,
+          "recovered": 11941,
+          "per100": 0
+        },
+        {
+          "id": "219776b4-62a9-4b46-81ca-7ff5cd67eeb3",
+          "cases": 13817,
+          "deaths": 278,
+          "recovered": 10870,
+          "per100": 0
+        },
+        {
+          "id": "d3fac4ab-d1e2-4100-b80e-d12d09690882",
+          "cases": 321596,
+          "deaths": 7650,
+          "recovered": 291598,
+          "per100": 0
+        },
+        {
+          "id": "4cf5dba0-4d75-46ef-991a-992a33416694",
+          "cases": 11331,
+          "deaths": 396,
+          "recovered": 10032,
+          "per100": 0
+        },
+        {
+          "id": "f0e8bb49-dc7c-4b7d-a6c7-4660d28518dd",
+          "cases": 5069,
+          "deaths": 94,
+          "recovered": 4279,
+          "per100": 0
+        },
+        {
+          "id": "67ee5fa9-4a47-4127-a5c5-373ae664d020",
+          "cases": 13261,
+          "deaths": 373,
+          "recovered": 11600,
+          "per100": 0
+        },
+        {
+          "id": "1b3cfbcf-09fc-4adc-8881-c77108403ed6",
+          "cases": 25971,
+          "deaths": 813,
+          "recovered": 23177,
+          "per100": 0
+        },
+        {
+          "id": "8bf133eb-d8c8-4bb8-87c0-a9766db3910d",
+          "cases": 4192,
+          "deaths": 163,
+          "recovered": 3915,
+          "per100": 0
+        },
+        {
+          "id": "7a9cd10b-81bb-4f6a-8413-bdc47f447b18",
+          "cases": 26319,
+          "deaths": 1613,
+          "recovered": 23567,
+          "per100": 0
+        },
+        {
+          "id": "2687f3c3-4f88-4f7a-9c2d-7264c45edbf7",
+          "cases": 42455,
+          "deaths": 1210,
+          "recovered": 38697,
+          "per100": 0
+        },
+        {
+          "id": "b1c2eac4-fa0e-4c59-b29b-7cd7391d7a40",
+          "cases": 1132,
+          "deaths": 18,
+          "recovered": 1098,
+          "per100": 0
+        },
+        {
+          "id": "1dfc84f1-4ed6-4f1d-a891-ddd76f6c54e8",
+          "cases": 1461,
+          "deaths": 23,
+          "recovered": 1325,
+          "per100": 0
+        },
+        {
+          "id": "0730ecb3-0758-4be2-bf06-fb523444ff72",
+          "cases": 22648,
+          "deaths": 650,
+          "recovered": 19664,
+          "per100": 0
+        },
+        {
+          "id": "d8c4e6c0-8e20-48cd-aa17-f334f114128c",
+          "cases": 10060,
+          "deaths": 407,
+          "recovered": 9014,
+          "per100": 0
+        },
+        {
+          "id": "ae5df635-2a5d-41c3-83c2-266077d7c8d6",
+          "cases": 17299,
+          "deaths": 900,
+          "recovered": 15627,
+          "per100": 0
+        },
+        {
+          "id": "037bd641-287a-4612-aa0a-f2704b7f8888",
+          "cases": 22880,
+          "deaths": 526,
+          "recovered": 20984,
+          "per100": 0
+        },
+        {
+          "id": "c2aa8993-c954-4f16-8925-c02cf2ac5861",
+          "cases": 21515,
+          "deaths": 758,
+          "recovered": 19300,
+          "per100": 0
+        },
+        {
+          "id": "d7d5fd46-df89-449a-87b6-f1ab0c3d74db",
+          "cases": 21341,
+          "deaths": 1088,
+          "recovered": 18976,
+          "per100": 0
+        },
+        {
+          "id": "25ea7ae6-caaf-477c-acb7-10bfabe2253f",
+          "cases": 4388,
+          "deaths": 206,
+          "recovered": 3841,
+          "per100": 0
+        },
+        {
+          "id": "fab62a15-11f4-4f93-9b79-8e5a8ac8d671",
+          "cases": 10024,
+          "deaths": 251,
+          "recovered": 8218,
+          "per100": 0
+        },
+        {
+          "id": "7348249c-5a17-4da5-8444-45265c1580ba",
+          "cases": 17378,
+          "deaths": 406,
+          "recovered": 15515,
+          "per100": 0
+        },
+        {
+          "id": "dfdb7ddf-f8b6-4ed8-9a19-adc5d8cbb62b",
+          "cases": 1887,
+          "deaths": 31,
+          "recovered": 1791,
+          "per100": 0
+        },
+        {
+          "id": "0a604525-2b56-4127-83aa-b0b6efd0d19e",
+          "cases": 42328,
+          "deaths": 1693,
+          "recovered": 37101,
+          "per100": 0
+        },
+        {
+          "id": "efa4309a-8def-4b6d-a16d-ad4d37c4450c",
+          "cases": 15433,
+          "deaths": 614,
+          "recovered": 14352,
+          "per100": 0
+        },
+        {
+          "id": "20b089c9-70da-48ae-9d3a-05333f1a2da1",
+          "cases": 19814,
+          "deaths": 612,
+          "recovered": 17034,
+          "per100": 0
+        },
+        {
+          "id": "3826ae91-7c76-49e0-bb3f-ea16b3bd1ffc",
+          "cases": 0,
+          "deaths": 296,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "6bc257e4-90b8-4a5b-9baf-755b68a34c67",
+          "cases": 83342,
+          "deaths": 2799,
+          "recovered": 74460,
+          "per100": 0
+        },
+        {
+          "id": "2ce9c272-062c-49b7-83fa-111fc3f56b88",
+          "cases": 1065,
+          "deaths": 12,
+          "recovered": 1027,
+          "per100": 0
+        },
+        {
+          "id": "dea587a1-5fa2-476c-a420-8ca4f92a7a9b",
+          "cases": 794,
+          "deaths": 9,
+          "recovered": 769,
+          "per100": 0
+        }
+      ],
+      "counties": []
+    },
+    {
+      "id": "15d28b62-b567-40a5-80f1-d2508900c996",
+      "cases": 545,
+      "deaths": 7,
+      "recovered": 498,
+      "active": 40,
+      "per100": 0
+    },
+    {
+      "id": "2be0cd71-d585-47a5-aab3-a24fefc4d152",
+      "cases": 5290,
+      "deaths": 92,
+      "recovered": 3887,
+      "active": 1311,
+      "per100": 0
+    },
+    {
+      "id": "c03d4351-0327-4fe6-a618-1779e61ce6b0",
+      "cases": 11306,
+      "deaths": 307,
+      "recovered": 10585,
+      "active": 414,
+      "per100": 0
+    },
+    {
+      "id": "b5d3f6c8-d30c-48b1-b808-c71651a11fd9",
+      "cases": 109971,
+      "deaths": 1385,
+      "recovered": 66719,
+      "active": 41867,
+      "per100": 0
+    },
+    {
+      "id": "80711eca-01bf-4321-9e14-32c7b5e37f0a",
+      "cases": 20716,
+      "deaths": 126,
+      "recovered": 20365,
+      "active": 225,
+      "per100": 0
+    },
+    {
+      "id": "d82bca47-5006-4ef9-9437-5a52273e2f65",
+      "cases": 49316,
+      "deaths": 546,
+      "recovered": 32818,
+      "active": 15952,
+      "per100": 0
+    },
+    {
+      "id": "663ae6f9-dc26-430e-8da6-56e76d016b46",
+      "cases": 6887,
+      "deaths": 128,
+      "recovered": 6245,
+      "active": 514,
+      "per100": 0
+    },
+    {
+      "id": "0bb610b1-31a3-4fb1-8df6-5952359bbbff",
+      "cases": 4366,
+      "deaths": 26,
+      "recovered": 1882,
+      "active": 2458,
+      "per100": 0
+    },
+    {
+      "id": "7a28f328-ed15-4c8d-8028-fe9c6466c2a2",
+      "cases": 335102,
+      "deaths": 3251,
+      "recovered": 143359,
+      "active": 188492,
+      "per100": 0
+    },
+    {
+      "id": "15a9c74b-774c-4889-a484-f5b437db031b",
+      "cases": 46351,
+      "deaths": 721,
+      "recovered": 34523,
+      "active": 11107,
+      "per100": 0,
+      "provinces": [
+        {
+          "id": "8e0ad7e1-b4e5-4aca-8c56-4d5e942f3596",
+          "cases": 495,
+          "deaths": 0,
+          "recovered": 481,
+          "per100": 0
+        },
+        {
+          "id": "f4eb418c-cdcf-44ed-994a-644423abe51e",
+          "cases": 17,
+          "deaths": 0,
+          "recovered": 16,
+          "per100": 0
+        }
+      ],
+      "counties": []
+    },
+    {
+      "id": "ef06d561-c93f-4bfc-ada0-90f0dc8ca8de",
+      "cases": 712,
+      "deaths": 13,
+      "recovered": 659,
+      "active": 40,
+      "per100": 0
+    },
+    {
+      "id": "49c7f0af-7017-407c-b79b-444eee540284",
+      "cases": 5561,
+      "deaths": 61,
+      "recovered": 5441,
+      "active": 59,
+      "per100": 0
+    },
+    {
+      "id": "a8e189dd-698a-41ce-9c3c-098207c9426b",
+      "cases": 50,
+      "deaths": 0,
+      "recovered": 33,
+      "active": 17,
+      "per100": 0
+    },
+    {
+      "id": "a39281d5-53f3-43cd-8097-eb39e614badc",
+      "cases": 127018,
+      "deaths": 2245,
+      "recovered": 104862,
+      "active": 19911,
+      "per100": 0
+    },
+    {
+      "id": "aa86bfa7-dda9-4c3e-b6ca-23adf9956dd0",
+      "cases": 168192,
+      "deaths": 12670,
+      "recovered": 141759,
+      "active": 13763,
+      "per100": 0
+    },
+    {
+      "id": "acb817c5-6074-494b-9b8b-377f9addf5ac",
+      "cases": 107555,
+      "deaths": 6266,
+      "recovered": 99452,
+      "active": 1837,
+      "per100": 0
+    },
+    {
+      "id": "2b45f0da-c38a-429b-af71-a66d9391c756",
+      "cases": 33445,
+      "deaths": 975,
+      "recovered": 29186,
+      "active": 3284,
+      "per100": 0
+    },
+    {
+      "id": "467e4f4b-1574-426e-97e9-17512eee7566",
+      "cases": 5088,
+      "deaths": 83,
+      "recovered": 4965,
+      "active": 40,
+      "per100": 0
+    },
+    {
+      "id": "53ebb667-31a5-46f3-9b64-0b317c89d4d4",
+      "cases": 463,
+      "deaths": 0,
+      "recovered": 412,
+      "active": 51,
+      "per100": 0
+    },
+    {
+      "id": "b56434ba-4d70-414a-84d0-76a0f4db1601",
+      "cases": 4905,
+      "deaths": 73,
+      "recovered": 3811,
+      "active": 1021,
+      "per100": 0
+    },
+    {
+      "id": "dbf2db5a-0818-4f3c-adcd-40805fc0a46b",
+      "cases": 5917,
+      "deaths": 117,
+      "recovered": 5646,
+      "active": 154,
+      "per100": 0
+    },
+    {
+      "id": "568f3458-531e-4cd0-a892-745b30279ac9",
+      "cases": 96169,
+      "deaths": 1469,
+      "recovered": 52517,
+      "active": 42183,
+      "per100": 0
+    },
+    {
+      "id": "a70f92d8-079e-4ecf-a310-5663166cfb92",
+      "cases": 34,
+      "deaths": 2,
+      "recovered": 31,
+      "active": 1,
+      "per100": 0
+    },
+    {
+      "id": "ab4ecd6a-8597-44cd-936b-642750e528c5",
+      "cases": 16113,
+      "deaths": 358,
+      "recovered": 11300,
+      "active": 4455,
+      "per100": 0
+    },
+    {
+      "id": "3567507f-440b-4642-aee3-7520fe1ede4e",
+      "cases": 1373036,
+      "deaths": 36494,
+      "recovered": 97475,
+      "active": 1239067,
+      "per100": 0,
+      "provinces": [
+        {
+          "id": "db6e63e8-dfd3-41bb-9601-6b67c73b1f64",
+          "cases": 10536,
+          "deaths": 70,
+          "recovered": 9995,
+          "per100": 0
+        },
+        {
+          "id": "05a108a0-6b5d-44ba-af28-077cb623ac6f",
+          "cases": 7262,
+          "deaths": 29,
+          "recovered": 4842,
+          "per100": 0
+        },
+        {
+          "id": "1e55c7ad-25ca-4a47-8b6a-3dfb8579efa8",
+          "cases": 7605,
+          "deaths": 126,
+          "recovered": 2242,
+          "per100": 0
+        },
+        {
+          "id": "f2e06a6d-c69d-4976-8a20-354f4cca2eff",
+          "cases": 3552,
+          "deaths": 30,
+          "recovered": 98,
+          "per100": 0
+        },
+        {
+          "id": "05e93f8c-9383-4773-b866-faf2e79169eb",
+          "cases": 4366,
+          "deaths": 44,
+          "recovered": 2964,
+          "per100": 0
+        },
+        {
+          "id": "3eb71598-aaa5-490c-9fe4-ff0d914171fe",
+          "cases": 28,
+          "deaths": 0,
+          "recovered": 28,
+          "per100": 0
+        },
+        {
+          "id": "927871ba-d356-462e-b992-b1c76f4061cc",
+          "cases": 5659,
+          "deaths": 24,
+          "recovered": 4884,
+          "per100": 0
+        },
+        {
+          "id": "dfbcdb99-79c0-4507-8219-d257a462401b",
+          "cases": 83,
+          "deaths": 0,
+          "recovered": 67,
+          "per100": 0
+        },
+        {
+          "id": "7c0c1271-479b-4bb1-91cc-0f1b390d7d8d",
+          "cases": 16,
+          "deaths": 0,
+          "recovered": 12,
+          "per100": 0
+        },
+        {
+          "id": "92519aa7-9bfa-4ac5-a264-dbb5c9f2d287",
+          "cases": 566,
+          "deaths": 9,
+          "recovered": 488,
+          "per100": 0
+        }
+      ],
+      "counties": []
+    },
+    {
+      "id": "96dc48c7-0946-4547-81fa-d24234dafee3",
+      "cases": 8968,
+      "deaths": 55,
+      "recovered": 8698,
+      "active": 215,
+      "per100": 0
+    },
+    {
+      "id": "9d4dacf1-c1e7-48a9-bf5d-7a657b4b8b07",
+      "cases": 3672,
+      "deaths": 119,
+      "recovered": 3196,
+      "active": 357,
+      "per100": 0
+    },
+    {
+      "id": "39d962f4-43ec-431c-8750-964d1389919f",
+      "cases": 38936,
+      "deaths": 307,
+      "recovered": 22691,
+      "active": 15938,
+      "per100": 0
+    },
+    {
+      "id": "950d628c-252f-4846-86d7-c05fd5cd9f44",
+      "cases": 525943,
+      "deaths": 10483,
+      "recovered": 356410,
+      "active": 159050,
+      "per100": 0,
+      "provinces": [
+        {
+          "id": "af5759c7-c47d-4177-9cff-2a13f462d559",
+          "cases": 82334,
+          "deaths": 2028,
+          "recovered": 56653,
+          "per100": 0
+        },
+        {
+          "id": "8cfe9d10-f98c-4129-a704-3156c6843a2a",
+          "cases": 105330,
+          "deaths": 2804,
+          "recovered": 77609,
+          "per100": 0
+        },
+        {
+          "id": "9afc3a8c-057f-4c5b-a2a9-4ab14be3d25d",
+          "cases": 32230,
+          "deaths": 261,
+          "recovered": 20814,
+          "per100": 0
+        },
+        {
+          "id": "2b4e99b8-82e4-4fc4-8ec2-f04d09ee9964",
+          "cases": 8448,
+          "deaths": 206,
+          "recovered": 5846,
+          "per100": 0
+        },
+        {
+          "id": "55682476-fcbf-46e7-b93d-b363f3def145",
+          "cases": 5527,
+          "deaths": 72,
+          "recovered": 3347,
+          "per100": 0
+        },
+        {
+          "id": "37319bba-e311-4f3e-adc3-ec13579c36ae",
+          "cases": 13752,
+          "deaths": 283,
+          "recovered": 9007,
+          "per100": 0
+        },
+        {
+          "id": "69d2b34f-9427-41ee-a1e5-b0d757caf03b",
+          "cases": 40998,
+          "deaths": 646,
+          "recovered": 25417,
+          "per100": 0
+        },
+        {
+          "id": "6b53e257-85cb-4a7d-a0f8-a9e76996fffa",
+          "cases": 2876,
+          "deaths": 23,
+          "recovered": 1760,
+          "per100": 0
+        },
+        {
+          "id": "f30d13b2-755a-49c1-8659-1dbeed311fed",
+          "cases": 36912,
+          "deaths": 748,
+          "recovered": 26002,
+          "per100": 0
+        },
+        {
+          "id": "d9087d95-11ee-47ac-958b-faa4c9db60fd",
+          "cases": 132479,
+          "deaths": 2155,
+          "recovered": 88154,
+          "per100": 0
+        },
+        {
+          "id": "91f95e86-fb5a-4cc8-9b61-474c0ca8fd44",
+          "cases": 20559,
+          "deaths": 285,
+          "recovered": 13363,
+          "per100": 0
+        },
+        {
+          "id": "f5cbcf73-4f10-4e67-adeb-4a839be2fb40",
+          "cases": 7102,
+          "deaths": 194,
+          "recovered": 4719,
+          "per100": 0
+        },
+        {
+          "id": "b2939cfe-785a-4fe9-8110-3ef31e8a976c",
+          "cases": 17196,
+          "deaths": 317,
+          "recovered": 9650,
+          "per100": 0
+        },
+        {
+          "id": "d44f35a9-e30d-44b5-a1e1-03bc78b5d7a7",
+          "cases": 5219,
+          "deaths": 79,
+          "recovered": 3268,
+          "per100": 0
+        },
+        {
+          "id": "fabb21e4-ac8e-4322-afbd-200df4e68323",
+          "cases": 8028,
+          "deaths": 175,
+          "recovered": 5771,
+          "per100": 0
+        },
+        {
+          "id": "948c7d95-4615-439f-8be1-af0e977060d6",
+          "cases": 6953,
+          "deaths": 207,
+          "recovered": 5030,
+          "per100": 0
+        }
+      ],
+      "counties": [
+        {
+          "id": "82162f99-6dec-4649-8a52-a76df79544f8",
+          "cases": 1282,
+          "recovered": 0,
+          "deaths": 9,
+          "per100": 541,
+          "per100last7days": 120.3
+        },
+        {
+          "id": "b01c61f6-8956-43d8-aa97-4a40ef7571fd",
+          "cases": 1360,
+          "recovered": 0,
+          "deaths": 15,
+          "per100": 441,
+          "per100last7days": 101.8
+        },
+        {
+          "id": "ff5031f8-3d2e-4c32-86f9-27eec45f043a",
+          "cases": 8074,
+          "recovered": 0,
+          "deaths": 102,
+          "per100": 1058,
+          "per100last7days": 198.2
+        },
+        {
+          "id": "0bb8d4d5-ea38-4414-af07-6fbadd769698",
+          "cases": 1394,
+          "recovered": 0,
+          "deaths": 26,
+          "per100": 632,
+          "per100last7days": 72.1
+        },
+        {
+          "id": "6e42420e-a895-4114-bec1-4ebe4aac35f7",
+          "cases": 1846,
+          "recovered": 0,
+          "deaths": 15,
+          "per100": 586,
+          "per100last7days": 104.7
+        },
+        {
+          "id": "962b8a14-5a86-418e-9557-63179fba4cf7",
+          "cases": 2820,
+          "recovered": 0,
+          "deaths": 98,
+          "per100": 629,
+          "per100last7days": 94.8
+        }
+      ]
+    },
+    {
+      "id": "904cfe7a-afaa-4d41-9b19-2a22d99f9050",
+      "cases": 48055,
+      "deaths": 320,
+      "recovered": 47169,
+      "active": 566,
+      "per100": 0
+    },
+    {
+      "id": "8eb69f89-8f70-4884-8402-6455d5f36625",
+      "cases": 39251,
+      "deaths": 626,
+      "recovered": 23074,
+      "active": 15551,
+      "per100": 0
+    },
+    {
+      "id": "a77e2806-6690-4865-99b2-ae9599932c6a",
+      "cases": 28,
+      "deaths": 0,
+      "recovered": 24,
+      "active": 4,
+      "per100": 0
+    },
+    {
+      "id": "b164c86b-2853-4344-a556-8d9137d13522",
+      "cases": 107939,
+      "deaths": 3729,
+      "recovered": 97289,
+      "active": 6921,
+      "per100": 0
+    },
+    {
+      "id": "c0287a23-814b-46e2-81ed-b25958fa909a",
+      "cases": 12072,
+      "deaths": 72,
+      "recovered": 10550,
+      "active": 1450,
+      "per100": 0
+    },
+    {
+      "id": "bc9f9208-bd0d-46f4-b6db-2102559cb4e8",
+      "cases": 2413,
+      "deaths": 41,
+      "recovered": 1818,
+      "active": 554,
+      "per100": 0
+    },
+    {
+      "id": "e3dc84fe-f377-4896-b868-e241406ca0ce",
+      "cases": 4162,
+      "deaths": 124,
+      "recovered": 3228,
+      "active": 810,
+      "per100": 0
+    },
+    {
+      "id": "10bb32d5-7014-467f-9ccf-a3eb17ae89cf",
+      "cases": 9057,
+      "deaths": 232,
+      "recovered": 7429,
+      "active": 1396,
+      "per100": 0
+    },
+    {
+      "id": "66365563-4c7f-4dcc-9e2f-c01842312d01",
+      "cases": 27,
+      "deaths": 0,
+      "recovered": 15,
+      "active": 12,
+      "per100": 0
+    },
+    {
+      "id": "9b173d2e-f5cb-43e9-b888-66c673a1768d",
+      "cases": 96888,
+      "deaths": 2669,
+      "recovered": 40129,
+      "active": 54090,
+      "per100": 0
+    },
+    {
+      "id": "8fe86e11-f663-49fb-8b1d-9658e41da806",
+      "cases": 75321,
+      "deaths": 1750,
+      "recovered": 19032,
+      "active": 54539,
+      "per100": 0
+    },
+    {
+      "id": "d3fb55d1-bbda-4bda-bb96-a7b6e5260815",
+      "cases": 4865,
+      "deaths": 12,
+      "recovered": 3873,
+      "active": 980,
+      "per100": 0
+    },
+    {
+      "id": "b57e1974-e3ac-44ba-b5a2-e6e1e6f10d88",
+      "cases": 8184082,
+      "deaths": 122111,
+      "recovered": 7491513,
+      "active": 570458,
+      "per100": 0,
+      "provinces": [
+        {
+          "id": "5e17f90e-577c-4abe-b3eb-3e05a61d52ce",
+          "cases": 4332,
+          "deaths": 59,
+          "recovered": 4100,
+          "per100": 0
+        },
+        {
+          "id": "f77e0c5e-5856-4f73-9518-d8e4e00ca16e",
+          "cases": 823348,
+          "deaths": 6690,
+          "recovered": 792083,
+          "per100": 0
+        },
+        {
+          "id": "24648943-fa54-48c3-9980-d5faa727ed57",
+          "cases": 14852,
+          "deaths": 37,
+          "recovered": 12959,
+          "per100": 0
+        },
+        {
+          "id": "7409a965-fa60-4d3c-9c56-7d125d461458",
+          "cases": 206351,
+          "deaths": 930,
+          "recovered": 196054,
+          "per100": 0
+        },
+        {
+          "id": "d81962c5-957b-4fbd-ab1e-0a5b3ce2e841",
+          "cases": 216086,
+          "deaths": 1090,
+          "recovered": 207480,
+          "per100": 0
+        },
+        {
+          "id": "c5067389-5610-4551-ad4d-a4c4aca2df1c",
+          "cases": 14418,
+          "deaths": 226,
+          "recovered": 13551,
+          "per100": 0
+        },
+        {
+          "id": "34eb6b95-9be3-4bfd-bc96-d50301d9c664",
+          "cases": 187270,
+          "deaths": 2101,
+          "recovered": 163079,
+          "per100": 0
+        },
+        {
+          "id": "9ae64038-3ecd-4cab-b151-778fd8ac9697",
+          "cases": 3251,
+          "deaths": 2,
+          "recovered": 3210,
+          "per100": 0
+        },
+        {
+          "id": "f3bd1bc6-b4d6-41f6-8b3d-72db8c9ebe57",
+          "cases": 386706,
+          "deaths": 6511,
+          "recovered": 347476,
+          "per100": 0
+        },
+        {
+          "id": "6fdcf689-ab80-498f-96a5-c89d11b05737",
+          "cases": 43626,
+          "deaths": 604,
+          "recovered": 40678,
+          "per100": 0
+        },
+        {
+          "id": "1b707c17-4d7e-4d21-95df-259901fe14d3",
+          "cases": 172782,
+          "deaths": 3716,
+          "recovered": 155982,
+          "per100": 0
+        },
+        {
+          "id": "c6b0b0de-7ca0-4630-b2fe-10b3e8b61b93",
+          "cases": 167210,
+          "deaths": 1789,
+          "recovered": 153230,
+          "per100": 0
+        },
+        {
+          "id": "4da3804e-a5d2-429d-afba-3ecf6b026475",
+          "cases": 22059,
+          "deaths": 317,
+          "recovered": 18862,
+          "per100": 0
+        },
+        {
+          "id": "e94ef4b0-59d1-479a-819f-fa595aabad69",
+          "cases": 94785,
+          "deaths": 1478,
+          "recovered": 86888,
+          "per100": 0
+        },
+        {
+          "id": "fd80d30b-bc30-4909-91be-485a02e4b2b0",
+          "cases": 101761,
+          "deaths": 884,
+          "recovered": 95575,
+          "per100": 0
+        },
+        {
+          "id": "ec6cc28d-b33c-4978-a7f4-6f273b33369c",
+          "cases": 823412,
+          "deaths": 11168,
+          "recovered": 757208,
+          "per100": 0
+        },
+        {
+          "id": "fa35cbf8-ea18-4533-b9ca-7e6278be4e90",
+          "cases": 433105,
+          "deaths": 1484,
+          "recovered": 340324,
+          "per100": 0
+        },
+        {
+          "id": "8fb89e37-32f4-42b0-8214-ae32d49c4286",
+          "cases": 6270,
+          "deaths": 75,
+          "recovered": 5539,
+          "per100": 0
+        },
+        {
+          "id": "49a21044-879d-4282-b7d0-74d675e263d8",
+          "cases": 0,
+          "deaths": 0,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "30cafaf5-fe80-420a-b2aa-1c6047d55e12",
+          "cases": 171359,
+          "deaths": 2951,
+          "recovered": 159479,
+          "per100": 0
+        },
+        {
+          "id": "4c34be6f-77c1-455b-8735-b455a14f402c",
+          "cases": 1678406,
+          "deaths": 43911,
+          "recovered": 1510353,
+          "per100": 0
+        },
+        {
+          "id": "57f46770-5250-4797-b3d2-8275b22b21e7",
+          "cases": 18502,
+          "deaths": 168,
+          "recovered": 14862,
+          "per100": 0
+        },
+        {
+          "id": "825d854c-b78c-426f-ad7d-3486270db635",
+          "cases": 9452,
+          "deaths": 88,
+          "recovered": 8345,
+          "per100": 0
+        },
+        {
+          "id": "a5c963d7-dcd2-46cd-9fea-6fb15950407e",
+          "cases": 2753,
+          "deaths": 1,
+          "recovered": 2291,
+          "per100": 0
+        },
+        {
+          "id": "37a98b8e-d4b1-4a6e-86bd-1ca5a9b0d682",
+          "cases": 9047,
+          "deaths": 39,
+          "recovered": 7454,
+          "per100": 0
+        },
+        {
+          "id": "cbb01d00-e595-4453-8ccb-6d939bce7682",
+          "cases": 290116,
+          "deaths": 1320,
+          "recovered": 275749,
+          "per100": 0
+        },
+        {
+          "id": "ca12d2e7-4b83-4526-8156-9a388c4856c3",
+          "cases": 35013,
+          "deaths": 592,
+          "recovered": 30724,
+          "per100": 0
+        },
+        {
+          "id": "61f6c19e-f478-461a-bf8e-3397cf29a6a0",
+          "cases": 133658,
+          "deaths": 4203,
+          "recovered": 125198,
+          "per100": 0
+        },
+        {
+          "id": "5851579e-7b5c-4775-8490-d42065eeaf52",
+          "cases": 196993,
+          "deaths": 1907,
+          "recovered": 179984,
+          "per100": 0
+        },
+        {
+          "id": "39604ce1-e26d-419c-a9aa-773ad9bf2acf",
+          "cases": 3940,
+          "deaths": 72,
+          "recovered": 3617,
+          "per100": 0
+        },
+        {
+          "id": "67a1adea-12b4-4eab-a9e5-dfe458b70b22",
+          "cases": 724522,
+          "deaths": 11122,
+          "recovered": 691236,
+          "per100": 0
+        },
+        {
+          "id": "f8a3a9c1-3901-47f3-9797-a00ee44da167",
+          "cases": 240048,
+          "deaths": 1341,
+          "recovered": 220466,
+          "per100": 0
+        },
+        {
+          "id": "946da328-a9c2-4320-857d-890decdb3eeb",
+          "cases": 30794,
+          "deaths": 346,
+          "recovered": 29048,
+          "per100": 0
+        },
+        {
+          "id": "d77154f5-193d-43c2-bd07-285dc480222f",
+          "cases": 0,
+          "deaths": 0,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "dfcd5230-ccf6-47cb-ba5a-367c21145a36",
+          "cases": 481863,
+          "deaths": 7025,
+          "recovered": 451070,
+          "per100": 0
+        },
+        {
+          "id": "2d61e19f-a1fe-428f-9871-aaaedc0fefcf",
+          "cases": 62328,
+          "deaths": 1023,
+          "recovered": 57422,
+          "per100": 0
+        },
+        {
+          "id": "f89d52f7-28b5-4aad-9026-f44ded8be123",
+          "cases": 373664,
+          "deaths": 6841,
+          "recovered": 329937,
+          "per100": 0
+        }
+      ],
+      "counties": []
+    },
+    {
+      "id": "32019ef5-5c2d-4a59-8ce3-9b01c9f123b5",
+      "cases": 410088,
+      "deaths": 13869,
+      "recovered": 337801,
+      "active": 58418,
+      "per100": 0
+    },
+    {
+      "id": "850cd05a-6699-44a9-9c7e-2bc1b4bb5e5e",
+      "cases": 612772,
+      "deaths": 34864,
+      "recovered": 481930,
+      "active": 95978,
+      "per100": 0
+    },
+    {
+      "id": "f1a76e38-5579-4130-97c7-4ee9e582e922",
+      "cases": 472630,
+      "deaths": 10910,
+      "recovered": 399655,
+      "active": 62065,
+      "per100": 0
+    },
+    {
+      "id": "27b6a573-965b-4347-9c06-938ad42e74c2",
+      "cases": 61456,
+      "deaths": 1913,
+      "recovered": 23364,
+      "active": 36179,
+      "per100": 0
+    },
+    {
+      "id": "c3ecdcfe-7566-4444-af4a-a75a4b5d13d4",
+      "cases": 314422,
+      "deaths": 2539,
+      "recovered": 301241,
+      "active": 10642,
+      "per100": 0
+    },
+    {
+      "id": "b70448fe-d1b9-4018-a967-7c287c12892e",
+      "cases": 679430,
+      "deaths": 38618,
+      "recovered": 289426,
+      "active": 351386,
+      "per100": 0,
+      "provinces": [
+        {
+          "id": "b13e39a6-336f-4a42-8c86-b5ff4af9ebf9",
+          "cases": 10552,
+          "deaths": 550,
+          "recovered": 3799,
+          "per100": 0
+        },
+        {
+          "id": "2fa000c2-78ac-4d2b-82a3-6fedfd52bb24",
+          "cases": 2199,
+          "deaths": 49,
+          "recovered": 704,
+          "per100": 0
+        },
+        {
+          "id": "3eba7c3f-3e4e-40d5-a763-e679b660bf6d",
+          "cases": 5065,
+          "deaths": 116,
+          "recovered": 1825,
+          "per100": 0
+        },
+        {
+          "id": "3f73ecd4-9a84-40ff-b81b-198353577e15",
+          "cases": 55740,
+          "deaths": 673,
+          "recovered": 11337,
+          "per100": 0
+        },
+        {
+          "id": "610e4f10-f697-4b5f-8144-b9d9393d0775",
+          "cases": 55841,
+          "deaths": 4631,
+          "recovered": 27997,
+          "per100": 0
+        },
+        {
+          "id": "9a63da2e-d9dc-4fa7-a054-d92d1457f36e",
+          "cases": 10841,
+          "deaths": 397,
+          "recovered": 5312,
+          "per100": 0
+        },
+        {
+          "id": "971175d0-c8e0-473b-bb9d-77fe7246294d",
+          "cases": 46422,
+          "deaths": 1212,
+          "recovered": 11304,
+          "per100": 0
+        },
+        {
+          "id": "874e0050-905e-4304-838b-6d5db13bd99e",
+          "cases": 28608,
+          "deaths": 1774,
+          "recovered": 18403,
+          "per100": 0
+        },
+        {
+          "id": "6e9d8dcf-230b-4d46-ada0-c8215706fe81",
+          "cases": 195744,
+          "deaths": 17535,
+          "recovered": 96198,
+          "per100": 0
+        },
+        {
+          "id": "92e49954-67d5-4bd8-a578-c6cd01b2d6af",
+          "cases": 14121,
+          "deaths": 1019,
+          "recovered": 6997,
+          "per100": 0
+        },
+        {
+          "id": "ef8a84e2-a5e5-4ff3-91be-ac91d1287141",
+          "cases": 1695,
+          "deaths": 37,
+          "recovered": 702,
+          "per100": 0
+        },
+        {
+          "id": "2df7e6b5-7f4a-4d4a-99c5-0fc99c79d73d",
+          "cases": 8382,
+          "deaths": 312,
+          "recovered": 2970,
+          "per100": 0
+        },
+        {
+          "id": "93a158c3-8c7f-4eeb-97d3-e229c64356d5",
+          "cases": 9138,
+          "deaths": 438,
+          "recovered": 6775,
+          "per100": 0
+        },
+        {
+          "id": "a48a29bf-d402-439d-955e-c484bc01902b",
+          "cases": 70636,
+          "deaths": 4383,
+          "recovered": 33429,
+          "per100": 0
+        },
+        {
+          "id": "554e7070-ea03-4d2e-b4e5-0cfcacdcfbd4",
+          "cases": 18622,
+          "deaths": 723,
+          "recovered": 6506,
+          "per100": 0
+        },
+        {
+          "id": "bfdabe5c-a3bd-4423-af8d-483449a303d9",
+          "cases": 9431,
+          "deaths": 227,
+          "recovered": 3149,
+          "per100": 0
+        },
+        {
+          "id": "0d3985e9-7238-4b44-9711-92c8f7bf8bb7",
+          "cases": 21758,
+          "deaths": 502,
+          "recovered": 6814,
+          "per100": 0
+        },
+        {
+          "id": "5d311126-4633-4b5d-89b4-1e0eb834e0d1",
+          "cases": 44263,
+          "deaths": 1345,
+          "recovered": 15074,
+          "per100": 0
+        },
+        {
+          "id": "89a989ca-b80d-4924-aeaa-a85f634d36e5",
+          "cases": 10179,
+          "deaths": 126,
+          "recovered": 3499,
+          "per100": 0
+        },
+        {
+          "id": "6e12d967-4af9-42a2-bbf8-88df59b2dd23",
+          "cases": 3240,
+          "deaths": 168,
+          "recovered": 1259,
+          "per100": 0
+        },
+        {
+          "id": "c4131d92-afec-47ae-a3d5-a4c7249ae1ce",
+          "cases": 56953,
+          "deaths": 2401,
+          "recovered": 25373,
+          "per100": 0
+        }
+      ],
+      "counties": []
+    },
+    {
+      "id": "70f93a5b-1d28-40cd-9245-377ea4f3a862",
+      "cases": 9094,
+      "deaths": 206,
+      "recovered": 4510,
+      "active": 4378,
+      "per100": 0
+    },
+    {
+      "id": "b94eed75-6ef6-4fb5-b25e-937812377d34",
+      "cases": 101327,
+      "deaths": 1769,
+      "recovered": 89765,
+      "active": 9793,
+      "per100": 0,
+      "provinces": [
+        {
+          "id": "4fe71a02-9006-4d6d-b18d-0d5e297cd1c3",
+          "cases": 6234,
+          "deaths": 94,
+          "recovered": 5600,
+          "per100": 0
+        },
+        {
+          "id": "b63d6bf9-d493-4e20-a6f2-d2a8c00ce054",
+          "cases": 63,
+          "deaths": 0,
+          "recovered": 59,
+          "per100": 0
+        },
+        {
+          "id": "f4985653-f429-4f90-84c5-d9cd6ae0753a",
+          "cases": 227,
+          "deaths": 4,
+          "recovered": 120,
+          "per100": 0
+        },
+        {
+          "id": "25eab40c-1d04-410b-8d1b-4138ef395b27",
+          "cases": 5035,
+          "deaths": 80,
+          "recovered": 2534,
+          "per100": 0
+        },
+        {
+          "id": "fa25280f-8a92-40fc-acea-1f8fb5b1b1eb",
+          "cases": 116,
+          "deaths": 6,
+          "recovered": 110,
+          "per100": 0
+        },
+        {
+          "id": "bcc5c944-3752-44ac-a714-6e4c44f0d202",
+          "cases": 257,
+          "deaths": 11,
+          "recovered": 244,
+          "per100": 0
+        },
+        {
+          "id": "923ab6b1-0042-4f01-92d3-bbdbcbb9a8d8",
+          "cases": 5219,
+          "deaths": 102,
+          "recovered": 5041,
+          "per100": 0
+        },
+        {
+          "id": "47009ae7-94cf-4b8d-b4b1-35a639dee25a",
+          "cases": 388,
+          "deaths": 6,
+          "recovered": 350,
+          "per100": 0
+        },
+        {
+          "id": "af2205b4-9b9d-44cd-a70d-571b6ccb5a46",
+          "cases": 686,
+          "deaths": 11,
+          "recovered": 636,
+          "per100": 0
+        },
+        {
+          "id": "cbb531ae-b5ab-4820-a4ca-cdef1e028c26",
+          "cases": 900,
+          "deaths": 19,
+          "recovered": 782,
+          "per100": 0
+        },
+        {
+          "id": "6dba6332-9e36-4b0e-a0e5-e736e1f83f19",
+          "cases": 659,
+          "deaths": 5,
+          "recovered": 643,
+          "per100": 0
+        },
+        {
+          "id": "a4ec37ab-5a09-40cf-9fb0-2b5eaf547f6e",
+          "cases": 3125,
+          "deaths": 110,
+          "recovered": 2494,
+          "per100": 0
+        },
+        {
+          "id": "5eb14d18-2a4a-4a5c-9788-cf2fbfb305e5",
+          "cases": 3250,
+          "deaths": 62,
+          "recovered": 2981,
+          "per100": 0
+        },
+        {
+          "id": "216e8a01-5ff3-4e15-a945-fcec536e48c2",
+          "cases": 768,
+          "deaths": 19,
+          "recovered": 717,
+          "per100": 0
+        },
+        {
+          "id": "7702b400-7381-4816-a06c-0976738eea57",
+          "cases": 810,
+          "deaths": 49,
+          "recovered": 743,
+          "per100": 0
+        },
+        {
+          "id": "0889715b-252d-477e-bb9e-899eb0457401",
+          "cases": 27,
+          "deaths": 0,
+          "recovered": 25,
+          "per100": 0
+        },
+        {
+          "id": "de1659eb-5a6b-411a-b97c-cc61d7372454",
+          "cases": 102,
+          "deaths": 2,
+          "recovered": 95,
+          "per100": 0
+        },
+        {
+          "id": "acb16f4c-6de8-4e20-9e80-818396260121",
+          "cases": 470,
+          "deaths": 13,
+          "recovered": 459,
+          "per100": 0
+        },
+        {
+          "id": "c30e77ef-e6cb-4c80-98f0-1281709b1c4f",
+          "cases": 8724,
+          "deaths": 172,
+          "recovered": 7922,
+          "per100": 0
+        },
+        {
+          "id": "9ae477b7-0316-46b3-9070-2c0a60ff5fa5",
+          "cases": 144,
+          "deaths": 4,
+          "recovered": 137,
+          "per100": 0
+        },
+        {
+          "id": "393a0d9a-0343-4e79-af7f-bfaffe422050",
+          "cases": 797,
+          "deaths": 8,
+          "recovered": 736,
+          "per100": 0
+        },
+        {
+          "id": "9ef9c89c-7b5f-47d1-bc5d-876a702c908d",
+          "cases": 2046,
+          "deaths": 30,
+          "recovered": 1911,
+          "per100": 0
+        },
+        {
+          "id": "fe41de2a-6e33-4285-bcba-a705158e1a0b",
+          "cases": 564,
+          "deaths": 6,
+          "recovered": 547,
+          "per100": 0
+        },
+        {
+          "id": "b517b925-f273-4442-aaa1-e3208a233e6a",
+          "cases": 726,
+          "deaths": 2,
+          "recovered": 538,
+          "per100": 0
+        },
+        {
+          "id": "27d5d8d5-13e4-49ec-b894-90f41cdc5667",
+          "cases": 367,
+          "deaths": 1,
+          "recovered": 366,
+          "per100": 0
+        },
+        {
+          "id": "cb1848f4-5a76-48f3-9d53-486d5849d14d",
+          "cases": 340,
+          "deaths": 4,
+          "recovered": 329,
+          "per100": 0
+        },
+        {
+          "id": "7b0468fb-de28-4232-b3c6-66b65136732e",
+          "cases": 245,
+          "deaths": 3,
+          "recovered": 240,
+          "per100": 0
+        },
+        {
+          "id": "20f61452-d067-4d70-848b-4cf79e64aa7c",
+          "cases": 648,
+          "deaths": 10,
+          "recovered": 607,
+          "per100": 0
+        },
+        {
+          "id": "c2e2ae8c-518e-4770-820d-cb743b72a4b9",
+          "cases": 184,
+          "deaths": 0,
+          "recovered": 179,
+          "per100": 0
+        },
+        {
+          "id": "26cde426-9592-4d87-90c5-f9464c3b1755",
+          "cases": 159,
+          "deaths": 3,
+          "recovered": 156,
+          "per100": 0
+        },
+        {
+          "id": "7b94796c-154c-401f-9f9c-12545fbfa5ff",
+          "cases": 286,
+          "deaths": 4,
+          "recovered": 172,
+          "per100": 0
+        },
+        {
+          "id": "91619097-d3f3-4036-b74a-10e0cacc1a8c",
+          "cases": 3339,
+          "deaths": 63,
+          "recovered": 2906,
+          "per100": 0
+        },
+        {
+          "id": "c7175cca-d16a-42db-b85f-292abf5e94f3",
+          "cases": 12753,
+          "deaths": 241,
+          "recovered": 11540,
+          "per100": 0
+        },
+        {
+          "id": "fefa853b-e540-4b1c-bfc1-815ecb4e9839",
+          "cases": 1179,
+          "deaths": 1,
+          "recovered": 514,
+          "per100": 0
+        },
+        {
+          "id": "06fb9ccd-6218-4d8e-90f0-23e279795eef",
+          "cases": 252,
+          "deaths": 0,
+          "recovered": 256,
+          "per100": 0
+        },
+        {
+          "id": "4d4b6496-3d82-44ca-955b-1a23d5fa3c50",
+          "cases": 5857,
+          "deaths": 107,
+          "recovered": 5318,
+          "per100": 0
+        },
+        {
+          "id": "618b22cc-edf6-4193-9b3a-8490a85c190c",
+          "cases": 552,
+          "deaths": 9,
+          "recovered": 521,
+          "per100": 0
+        },
+        {
+          "id": "3656c668-d27d-4e9c-b33a-bef4f2110ffe",
+          "cases": 141,
+          "deaths": 0,
+          "recovered": 140,
+          "per100": 0
+        },
+        {
+          "id": "fb456d4d-b978-4075-93af-e17a5b6835f4",
+          "cases": 656,
+          "deaths": 2,
+          "recovered": 582,
+          "per100": 0
+        },
+        {
+          "id": "f3e9805d-f712-42c5-bdb9-e3a75d5c7082",
+          "cases": 489,
+          "deaths": 1,
+          "recovered": 464,
+          "per100": 0
+        },
+        {
+          "id": "a17b713f-d299-4318-888e-e7db2bea9bc7",
+          "cases": 164,
+          "deaths": 9,
+          "recovered": 155,
+          "per100": 0
+        },
+        {
+          "id": "4e62057b-8cd3-469a-b9c8-7b6cf789b464",
+          "cases": 31120,
+          "deaths": 457,
+          "recovered": 28718,
+          "per100": 0
+        },
+        {
+          "id": "5a149af5-f3ec-41a3-aee7-85c01c52deca",
+          "cases": 38,
+          "deaths": 0,
+          "recovered": 35,
+          "per100": 0
+        },
+        {
+          "id": "7f8a9838-07de-4cab-abb3-a946df15cf88",
+          "cases": 423,
+          "deaths": 26,
+          "recovered": 396,
+          "per100": 0
+        },
+        {
+          "id": "d5bd5f45-3f56-4663-b7f8-5dceababf1cb",
+          "cases": 8,
+          "deaths": 0,
+          "recovered": 8,
+          "per100": 0
+        },
+        {
+          "id": "0e63212d-d868-458c-9f52-db5950b4545e",
+          "cases": 275,
+          "deaths": 4,
+          "recovered": 256,
+          "per100": 0
+        },
+        {
+          "id": "14a71b26-f6fe-4eea-84bc-a4eba209f267",
+          "cases": 86,
+          "deaths": 1,
+          "recovered": 80,
+          "per100": 0
+        },
+        {
+          "id": "15e36384-ffaa-42f5-9a99-5b2ae1daba63",
+          "cases": 213,
+          "deaths": 2,
+          "recovered": 207,
+          "per100": 0
+        },
+        {
+          "id": "7b6c0a81-2125-489c-8999-220973c8a0d2",
+          "cases": 216,
+          "deaths": 6,
+          "recovered": 196,
+          "per100": 0
+        }
+      ],
+      "counties": []
+    },
+    {
+      "id": "552460d7-6b10-4727-baec-914931e881de",
+      "cases": 72607,
+      "deaths": 829,
+      "recovered": 7600,
+      "active": 64178,
+      "per100": 0
+    },
+    {
+      "id": "4913c4bc-5eb0-49e1-b0ed-35def775f0bb",
+      "cases": 112418,
+      "deaths": 1825,
+      "recovered": 106400,
+      "active": 4193,
+      "per100": 0
+    },
+    {
+      "id": "e49a4e47-42f0-49c6-bce1-34ec2ebf891a",
+      "cases": 55192,
+      "deaths": 981,
+      "recovered": 35876,
+      "active": 18335,
+      "per100": 0
+    },
+    {
+      "id": "862d4ef0-7a62-4962-8074-7afbc9e76083",
+      "cases": 26635,
+      "deaths": 466,
+      "recovered": 24357,
+      "active": 1812,
+      "per100": 0
+    },
+    {
+      "id": "87aca3a9-19a4-4498-a8f7-d3252a9ee9aa",
+      "cases": 19328,
+      "deaths": 678,
+      "recovered": 15429,
+      "active": 3221,
+      "per100": 0
+    },
+    {
+      "id": "a2614e78-f1ac-4c89-a530-4e86a1721114",
+      "cases": 125926,
+      "deaths": 779,
+      "recovered": 116862,
+      "active": 8285,
+      "per100": 0
+    },
+    {
+      "id": "ba8a5362-ee30-4bd0-96af-d11e503ece1e",
+      "cases": 58878,
+      "deaths": 1144,
+      "recovered": 49983,
+      "active": 7751,
+      "per100": 0
+    },
+    {
+      "id": "b10acbdc-1f29-409e-a443-f527216e632a",
+      "cases": 24,
+      "deaths": 0,
+      "recovered": 22,
+      "active": 2,
+      "per100": 0
+    },
+    {
+      "id": "41d7f14f-f267-49e1-901c-9b8d574278c3",
+      "cases": 5894,
+      "deaths": 71,
+      "recovered": 1406,
+      "active": 4417,
+      "per100": 0
+    },
+    {
+      "id": "b991c86b-693c-4eb1-aeba-7592f1890526",
+      "cases": 81228,
+      "deaths": 637,
+      "recovered": 41624,
+      "active": 38967,
+      "per100": 0
+    },
+    {
+      "id": "dc550f4d-d0b6-45de-a431-7ddb9c779fcc",
+      "cases": 1953,
+      "deaths": 44,
+      "recovered": 975,
+      "active": 934,
+      "per100": 0
+    },
+    {
+      "id": "bf206776-48e9-4f01-b8da-e8975450e9b3",
+      "cases": 1426,
+      "deaths": 82,
+      "recovered": 1279,
+      "active": 65,
+      "per100": 0
+    },
+    {
+      "id": "e008b2e5-98d6-4377-aa1b-0907db5faef5",
+      "cases": 61095,
+      "deaths": 857,
+      "recovered": 35030,
+      "active": 25208,
+      "per100": 0
+    },
+    {
+      "id": "db232475-c263-4a84-a68e-44273e227043",
+      "cases": 533,
+      "deaths": 3,
+      "recovered": 347,
+      "active": 183,
+      "per100": 0
+    },
+    {
+      "id": "9a4a7dad-dc1a-4f6b-9da0-2bd2189d16fc",
+      "cases": 14824,
+      "deaths": 165,
+      "recovered": 4872,
+      "active": 9787,
+      "per100": 0
+    },
+    {
+      "id": "dbee09bb-ca7b-4a00-be9a-ce81d6fd287f",
+      "cases": 17134,
+      "deaths": 152,
+      "recovered": 10081,
+      "active": 6901,
+      "per100": 0
+    },
+    {
+      "id": "257517d1-7581-43a2-b3a7-2b4b0a713035",
+      "cases": 9,
+      "deaths": 2,
+      "recovered": 0,
+      "active": 7,
+      "per100": 0
+    },
+    {
+      "id": "99393b29-a471-4b14-839f-620ef723281c",
+      "cases": 17111,
+      "deaths": 244,
+      "recovered": 16409,
+      "active": 458,
+      "per100": 0
+    },
+    {
+      "id": "2b6876c1-f50f-4afd-968b-5d2b146b83fc",
+      "cases": 5930,
+      "deaths": 184,
+      "recovered": 5323,
+      "active": 423,
+      "per100": 0
+    },
+    {
+      "id": "742143b6-c870-43d2-95c4-ed8b1c69360c",
+      "cases": 31548,
+      "deaths": 249,
+      "recovered": 21248,
+      "active": 10051,
+      "per100": 0
+    },
+    {
+      "id": "e923fc53-ef14-462c-9f02-16f1f4abd11a",
+      "cases": 11659,
+      "deaths": 38,
+      "recovered": 10814,
+      "active": 807,
+      "per100": 0
+    },
+    {
+      "id": "80d90386-9eb3-44f8-890a-925a3cf9ee83",
+      "cases": 3554,
+      "deaths": 136,
+      "recovered": 2753,
+      "active": 665,
+      "per100": 0
+    },
+    {
+      "id": "687ea485-5e89-4b6c-bd56-2fa77115a1cd",
+      "cases": 6042,
+      "deaths": 62,
+      "recovered": 4155,
+      "active": 1825,
+      "per100": 0
+    },
+    {
+      "id": "797f2dda-df2b-4a7f-a4bd-2bdaa3d49c14",
+      "cases": 2,
+      "deaths": 0,
+      "recovered": 0,
+      "active": 2,
+      "per100": 0
+    },
+    {
+      "id": "7fd030d7-eea5-4359-896a-b96ff46b6af4",
+      "cases": 7703,
+      "deaths": 163,
+      "recovered": 7433,
+      "active": 107,
+      "per100": 0
+    },
+    {
+      "id": "d12c3ae4-37ef-43a0-b2a1-eb9ff807c485",
+      "cases": 441,
+      "deaths": 10,
+      "recovered": 398,
+      "active": 33,
+      "per100": 0
+    },
+    {
+      "id": "1691af50-fba7-4b21-b69c-3441f00cd976",
+      "cases": 924962,
+      "deaths": 91753,
+      "recovered": 779371,
+      "active": 53838,
+      "per100": 0,
+      "provinces": [
+        {
+          "id": "4c0cb0ff-a352-489d-bdcd-8aea368d1e65",
+          "cases": 9560,
+          "deaths": 851,
+          "recovered": 7937,
+          "per100": 0
+        },
+        {
+          "id": "8ff84879-2d4e-4996-9c4f-464dd2b5ef22",
+          "cases": 23114,
+          "deaths": 3838,
+          "recovered": 18057,
+          "per100": 0
+        },
+        {
+          "id": "0c03f2e0-03c5-4df0-9103-0847db2b7e5d",
+          "cases": 12614,
+          "deaths": 608,
+          "recovered": 11179,
+          "per100": 0
+        },
+        {
+          "id": "c19952b4-1f0f-4b20-9e3a-0ecdf0fd54a6",
+          "cases": 6488,
+          "deaths": 862,
+          "recovered": 5526,
+          "per100": 0
+        },
+        {
+          "id": "fe4952ac-abd1-416c-99b8-2caf31b20212",
+          "cases": 7541,
+          "deaths": 1069,
+          "recovered": 6339,
+          "per100": 0
+        },
+        {
+          "id": "ca44ad2b-4ad1-4510-8aa5-a901e8a5b4a8",
+          "cases": 18425,
+          "deaths": 1993,
+          "recovered": 14095,
+          "per100": 0
+        },
+        {
+          "id": "9ddaaee0-9584-4e9c-a5f7-586c3ce3a87f",
+          "cases": 162016,
+          "deaths": 15173,
+          "recovered": 133843,
+          "per100": 0
+        },
+        {
+          "id": "074ba27a-a5dd-4b95-b635-1923da73cd3d",
+          "cases": 34171,
+          "deaths": 2428,
+          "recovered": 28480,
+          "per100": 0
+        },
+        {
+          "id": "1a8347ef-4975-4e7d-8841-4e838e4e041b",
+          "cases": 6554,
+          "deaths": 744,
+          "recovered": 5467,
+          "per100": 0
+        },
+        {
+          "id": "af2942e9-5cb9-42c3-a7b8-a38941f9c856",
+          "cases": 14218,
+          "deaths": 803,
+          "recovered": 10779,
+          "per100": 0
+        },
+        {
+          "id": "63bfcf23-c5a2-4823-8846-7887d17fc78d",
+          "cases": 48997,
+          "deaths": 3450,
+          "recovered": 42224,
+          "per100": 0
+        },
+        {
+          "id": "a277cdef-7bbf-41b4-9775-8767dcc9823f",
+          "cases": 22163,
+          "deaths": 2174,
+          "recovered": 19475,
+          "per100": 0
+        },
+        {
+          "id": "d08e6d52-9098-4e4e-bfc0-0d4fe6965df8",
+          "cases": 15797,
+          "deaths": 2286,
+          "recovered": 12500,
+          "per100": 0
+        },
+        {
+          "id": "0ac61518-975c-4ba1-8194-29a01f206e22",
+          "cases": 34396,
+          "deaths": 4063,
+          "recovered": 28060,
+          "per100": 0
+        },
+        {
+          "id": "432f0ac1-4772-4068-aa0f-2c14bd704268",
+          "cases": 24999,
+          "deaths": 1997,
+          "recovered": 22120,
+          "per100": 0
+        },
+        {
+          "id": "22d3b5ed-4925-41c1-b1cb-5640501bbebc",
+          "cases": 6923,
+          "deaths": 1191,
+          "recovered": 5445,
+          "per100": 0
+        },
+        {
+          "id": "072daa28-7067-46cb-a86a-3872d03e2067",
+          "cases": 6721,
+          "deaths": 867,
+          "recovered": 5566,
+          "per100": 0
+        },
+        {
+          "id": "b84b38b5-368a-4b6d-8ffc-e8f74be7ef5e",
+          "cases": 53495,
+          "deaths": 3898,
+          "recovered": 45917,
+          "per100": 0
+        },
+        {
+          "id": "3c420695-d29c-49d7-b8b3-a4d83ae5e656",
+          "cases": 21331,
+          "deaths": 1645,
+          "recovered": 18753,
+          "per100": 0
+        },
+        {
+          "id": "2acb8c66-751f-4901-b0f9-9243f9fb8a37",
+          "cases": 35726,
+          "deaths": 4777,
+          "recovered": 29871,
+          "per100": 0
+        },
+        {
+          "id": "732836d4-43f1-4743-ba33-7a8ab72a40f4",
+          "cases": 13911,
+          "deaths": 1221,
+          "recovered": 10842,
+          "per100": 0
+        },
+        {
+          "id": "f81bca7c-77d2-48d7-aa13-5e4602e7795a",
+          "cases": 13491,
+          "deaths": 1829,
+          "recovered": 11317,
+          "per100": 0
+        },
+        {
+          "id": "f7fa6d97-ebf2-4677-8b81-30171df17023",
+          "cases": 28742,
+          "deaths": 2079,
+          "recovered": 25235,
+          "per100": 0
+        },
+        {
+          "id": "eb3454f4-d103-46e0-a91d-61e35a4afffc",
+          "cases": 21890,
+          "deaths": 3607,
+          "recovered": 17536,
+          "per100": 0
+        },
+        {
+          "id": "71bfe08e-9a8d-4f31-99d3-b7ffd1a1ab39",
+          "cases": 38314,
+          "deaths": 3170,
+          "recovered": 34116,
+          "per100": 0
+        },
+        {
+          "id": "62e8c7c8-388b-4cda-811e-664bcf160ecb",
+          "cases": 34517,
+          "deaths": 3039,
+          "recovered": 30789,
+          "per100": 0
+        },
+        {
+          "id": "004dd9e4-c96c-42d3-ae1e-dbfcff468290",
+          "cases": 32343,
+          "deaths": 2674,
+          "recovered": 28441,
+          "per100": 0
+        },
+        {
+          "id": "b355adc7-5383-4b29-9370-26dfb291cb4b",
+          "cases": 8478,
+          "deaths": 1146,
+          "recovered": 7122,
+          "per100": 0
+        },
+        {
+          "id": "517df2a0-b58c-426d-ae37-71ab77478d1b",
+          "cases": 37105,
+          "deaths": 4838,
+          "recovered": 31528,
+          "per100": 0
+        },
+        {
+          "id": "5a1874d5-48e4-4c6f-9b8c-e1cc2139339f",
+          "cases": 21616,
+          "deaths": 1789,
+          "recovered": 18689,
+          "per100": 0
+        },
+        {
+          "id": "efe23066-ac93-40f5-8c10-8fb2fc682f7b",
+          "cases": 11183,
+          "deaths": 940,
+          "recovered": 8753,
+          "per100": 0
+        }
+      ],
+      "counties": []
+    },
+    {
+      "id": "d03341d3-63ad-44de-95fb-b060c7326240",
+      "cases": 76040,
+      "deaths": 1785,
+      "recovered": 55782,
+      "active": 18473,
+      "per100": 0
+    },
+    {
+      "id": "edf1d8c8-c16c-428b-add8-c164a7361495",
+      "cases": 359,
+      "deaths": 2,
+      "recovered": 273,
+      "active": 84,
+      "per100": 0
+    },
+    {
+      "id": "10d16bc8-e5a6-4bae-9d46-8039e20a2aba",
+      "cases": 346,
+      "deaths": 0,
+      "recovered": 313,
+      "active": 33,
+      "per100": 0
+    },
+    {
+      "id": "5c8113d6-373a-4af0-aa56-ec39859ee32a",
+      "cases": 18341,
+      "deaths": 301,
+      "recovered": 14084,
+      "active": 3956,
+      "per100": 0
+    },
+    {
+      "id": "b3b8feab-7bcb-4bcb-a0dd-782fbc0f1c74",
+      "cases": 219084,
+      "deaths": 3695,
+      "recovered": 181275,
+      "active": 34114,
+      "per100": 0
+    },
+    {
+      "id": "a9c3af19-adbd-4cd6-814d-8abfbd0167cf",
+      "cases": 12869,
+      "deaths": 92,
+      "recovered": 10437,
+      "active": 2340,
+      "per100": 0
+    },
+    {
+      "id": "fcadfa84-b9e1-4293-852f-538e5f4dde46",
+      "cases": 12935,
+      "deaths": 133,
+      "recovered": 11036,
+      "active": 1766,
+      "per100": 0
+    },
+    {
+      "id": "02ba0a55-c943-48ae-b485-ced489dff5c5",
+      "cases": 170743,
+      "deaths": 937,
+      "recovered": 131222,
+      "active": 38584,
+      "per100": 0
+    },
+    {
+      "id": "6f8fba5c-c409-4408-8bf5-01345bb5ed00",
+      "cases": 357640,
+      "deaths": 7459,
+      "recovered": 5882,
+      "active": 344299,
+      "per100": 0,
+      "provinces": [
+        {
+          "id": "1711f5e0-769c-4448-9849-601b6e532ea0",
+          "cases": 4513,
+          "deaths": 38,
+          "recovered": 4319,
+          "per100": 0
+        },
+        {
+          "id": "6aaae7cb-f82e-44ad-a9b5-c5d09959346c",
+          "cases": 153,
+          "deaths": 3,
+          "recovered": 145,
+          "per100": 0
+        },
+        {
+          "id": "c33d8171-39af-46e2-8362-99435fe78761",
+          "cases": 970,
+          "deaths": 1,
+          "recovered": 665,
+          "per100": 0
+        },
+        {
+          "id": "f9e727ef-5c04-4ffe-9b1e-844469b8ab88",
+          "cases": 5141,
+          "deaths": 78,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "9effddaf-1ac2-4d63-b422-558442a10ed9",
+          "cases": 6397,
+          "deaths": 110,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "6c9053ab-d81d-436a-9dcd-4e8de5d7aab1",
+          "cases": 5763,
+          "deaths": 86,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "0ca803cd-a13d-4cd7-8f82-3a00c5aa9cb5",
+          "cases": 33544,
+          "deaths": 798,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "fa012141-143b-4771-8553-e3b260279621",
+          "cases": 6020,
+          "deaths": 31,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "635213fb-3abf-49fe-a161-ab88f194666c",
+          "cases": 15610,
+          "deaths": 796,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "92f6c2b3-fb46-4d84-bac1-858bd9c9e379",
+          "cases": 52889,
+          "deaths": 1729,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "72ec1d7b-c566-4f47-be28-277916ea1202",
+          "cases": 66979,
+          "deaths": 1020,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "151d1475-b664-477e-b481-4c3aaa276177",
+          "cases": 19650,
+          "deaths": 406,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "a125b4d0-1a2b-4d5d-80ea-e245cfc05396",
+          "cases": 826,
+          "deaths": 22,
+          "recovered": 753,
+          "per100": 0
+        },
+        {
+          "id": "e632c0e8-f731-4982-b1e3-9ce03472e814",
+          "cases": 2383,
+          "deaths": 25,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "b88871ca-31ad-445e-903c-574ac169a701",
+          "cases": 30744,
+          "deaths": 514,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "130f36c8-79b5-4711-900c-542e099d541e",
+          "cases": 3491,
+          "deaths": 81,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "586179c1-ff40-43d0-bbac-d8a105ac2c47",
+          "cases": 102567,
+          "deaths": 1721,
+          "recovered": 0,
+          "per100": 0
+        }
+      ],
+      "counties": []
+    },
+    {
+      "id": "24a504ce-18df-4876-bab4-aa8f0cfe4ba5",
+      "cases": 1959,
+      "deaths": 25,
+      "recovered": 1857,
+      "active": 77,
+      "per100": 0
+    },
+    {
+      "id": "8c8bb6e9-e888-4a5f-8e22-0de9d0ac51f6",
+      "cases": 5514,
+      "deaths": 156,
+      "recovered": 4225,
+      "active": 1133,
+      "per100": 0
+    },
+    {
+      "id": "9c0461c3-d246-4410-bc21-46447e190f70",
+      "cases": 1220,
+      "deaths": 69,
+      "recovered": 1137,
+      "active": 14,
+      "per100": 0
+    },
+    {
+      "id": "073df460-1c82-442c-9509-7f57e244c5ff",
+      "cases": 62853,
+      "deaths": 1144,
+      "recovered": 58675,
+      "active": 3034,
+      "per100": 0
+    },
+    {
+      "id": "e74d0c6e-1056-4dba-95b5-7b933b7de866",
+      "cases": 31572,
+      "deaths": 994,
+      "recovered": 20731,
+      "active": 9847,
+      "per100": 0
+    },
+    {
+      "id": "f6d7c167-6871-4fd4-b120-5665e321f6f8",
+      "cases": 20331,
+      "deaths": 282,
+      "recovered": 11863,
+      "active": 8186,
+      "per100": 0
+    },
+    {
+      "id": "6d1b5eff-651d-4e7c-8435-db64c9c253c4",
+      "cases": 114434,
+      "deaths": 1208,
+      "recovered": 103060,
+      "active": 10166,
+      "per100": 0
+    },
+    {
+      "id": "be2914e8-0b97-442a-b1ea-a89037339194",
+      "cases": 333970,
+      "deaths": 6823,
+      "recovered": 314555,
+      "active": 12592,
+      "per100": 0,
+      "provinces": [
+        {
+          "id": "23ae22f4-8429-4124-b804-4a043ab06d8b",
+          "cases": 4133,
+          "deaths": 92,
+          "recovered": 3249,
+          "per100": 0
+        },
+        {
+          "id": "df558c64-20c7-4b81-b719-5dcff6efe0b9",
+          "cases": 15920,
+          "deaths": 151,
+          "recovered": 15553,
+          "per100": 0
+        },
+        {
+          "id": "a0fffe73-fc80-4884-aa35-64694904a46b",
+          "cases": 4261,
+          "deaths": 92,
+          "recovered": 3986,
+          "per100": 0
+        },
+        {
+          "id": "53a387ed-0500-4c30-8bb5-3d37bec7c715",
+          "cases": 19970,
+          "deaths": 222,
+          "recovered": 18059,
+          "per100": 0
+        },
+        {
+          "id": "fa7c1f8a-3808-4c9c-a184-2486244e2262",
+          "cases": 39564,
+          "deaths": 1277,
+          "recovered": 37583,
+          "per100": 0
+        },
+        {
+          "id": "a9245ce3-54e1-4a2e-a859-1127e76661eb",
+          "cases": 104271,
+          "deaths": 2362,
+          "recovered": 97456,
+          "per100": 0
+        },
+        {
+          "id": "3e94251b-5aef-4c96-92c6-e3f869f877b2",
+          "cases": 145851,
+          "deaths": 2627,
+          "recovered": 138669,
+          "per100": 0
+        }
+      ],
+      "counties": []
+    },
+    {
+      "id": "8d619b47-ce82-435d-8a70-ee8addf2c95a",
+      "cases": 133598,
+      "deaths": 2700,
+      "recovered": 110552,
+      "active": 20346,
+      "per100": 0
+    },
+    {
+      "id": "1af0e44d-6aae-4d1f-8e26-c00522ae868b",
+      "cases": 589,
+      "deaths": 7,
+      "recovered": 575,
+      "active": 7,
+      "per100": 0
+    },
+    {
+      "id": "e4ff8db7-d292-4d3a-8e34-79f2441ca3f2",
+      "cases": 63185,
+      "deaths": 1404,
+      "recovered": 42900,
+      "active": 18881,
+      "per100": 0
+    },
+    {
+      "id": "66d235b0-b206-479f-9345-51b7c11e598c",
+      "cases": 900180,
+      "deaths": 34411,
+      "recovered": 822316,
+      "active": 43453,
+      "per100": 0,
+      "provinces": [
+        {
+          "id": "c47d63bb-75b3-4b11-8fdc-a6afa4f8a2a5",
+          "cases": 16647,
+          "deaths": 226,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "72d1c707-bfa6-4d2a-b766-b37bc3a65964",
+          "cases": 26133,
+          "deaths": 1363,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "fa01e349-f4cc-4283-8cb2-9b8518e50855",
+          "cases": 5750,
+          "deaths": 112,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "dc131dfc-5457-41b3-be4a-420cd09c007e",
+          "cases": 44600,
+          "deaths": 1454,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "7981cca2-b848-49bf-8c8a-26b49bf09084",
+          "cases": 13228,
+          "deaths": 333,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "86b5f198-e7d2-43df-bc88-5eddf63d13b8",
+          "cases": 22164,
+          "deaths": 517,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "0afc6ef7-4aaf-45a1-8a30-4c9cb5474f7f",
+          "cases": 37131,
+          "deaths": 1837,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "7ac2a4ac-aeb9-48b4-8cba-bcfb5dfa56d4",
+          "cases": 22365,
+          "deaths": 462,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "1b13bd50-337c-483d-8d90-7caa3e9fb3ac",
+          "cases": 7245,
+          "deaths": 125,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "f4352b48-cbef-4a8e-b953-be2837a11c54",
+          "cases": 17335,
+          "deaths": 420,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "a6d66210-cbc5-499c-97f5-7c578377fedb",
+          "cases": 29663,
+          "deaths": 1676,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "7d0bb364-88b5-40ba-bdd4-7f27eade3d78",
+          "cases": 23030,
+          "deaths": 839,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "1aeaf2f8-c5aa-4dca-8a6f-9604e614f494",
+          "cases": 32725,
+          "deaths": 2294,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "ecdb70a1-71c5-4391-bb14-94185fafffa9",
+          "cases": 28662,
+          "deaths": 1777,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "e90957fe-b211-4bbc-8f8c-6eddac37a684",
+          "cases": 406667,
+          "deaths": 15473,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "4f85e1ad-4adc-40a8-87fd-735f1f841fea",
+          "cases": 22115,
+          "deaths": 971,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "13bdc502-0c62-4f5d-a9eb-1de4f91094ca",
+          "cases": 8762,
+          "deaths": 145,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "bf325d08-ce16-4ec9-bad6-4038a61a12c2",
+          "cases": 14297,
+          "deaths": 279,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "c3d7cdb8-1230-4001-a3ac-e90073a8bd71",
+          "cases": 5667,
+          "deaths": 114,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "60cfe08b-07b8-47a8-8835-8f91a88501ef",
+          "cases": 38324,
+          "deaths": 2028,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "e7701225-786a-492d-95f3-84493ddd1f81",
+          "cases": 17123,
+          "deaths": 341,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "44dd9442-b6e2-4402-b6fe-433f2e05b40f",
+          "cases": 21231,
+          "deaths": 735,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "65ce097c-dd48-4ab1-97eb-40e28dc8b7ae",
+          "cases": 13055,
+          "deaths": 235,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "1f37523c-cbf6-4a82-b5e4-2198f17d0f72",
+          "cases": 8441,
+          "deaths": 316,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "8091ba18-f892-4edc-9402-7d062cf7cf7d",
+          "cases": 17820,
+          "deaths": 339,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "715a48ab-7f5b-45b4-ae85-ab1584bd8a4f",
+          "cases": 0,
+          "deaths": 0,
+          "recovered": 822316,
+          "per100": 0
+        }
+      ],
+      "counties": []
+    },
+    {
+      "id": "c4a967d4-857f-4024-a296-3c71eedbe1ce",
+      "cases": 380729,
+      "deaths": 7221,
+      "recovered": 331046,
+      "active": 42462,
+      "per100": 0
+    },
+    {
+      "id": "ebcb6b92-4822-4e78-b1ca-0393c5f4c2d4",
+      "cases": 362731,
+      "deaths": 5631,
+      "recovered": 140280,
+      "active": 216820,
+      "per100": 0
+    },
+    {
+      "id": "29b56917-e52c-4be6-8417-d396428a9473",
+      "cases": 141279,
+      "deaths": 2507,
+      "recovered": 80280,
+      "active": 58492,
+      "per100": 0
+    },
+    {
+      "id": "6113506a-aa13-4c02-b09f-69cbcd79bda7",
+      "cases": 132556,
+      "deaths": 232,
+      "recovered": 129583,
+      "active": 2741,
+      "per100": 0
+    },
+    {
+      "id": "4b9c97d6-867e-48ed-abe2-a8f168b3631d",
+      "cases": 241339,
+      "deaths": 6968,
+      "recovered": 172513,
+      "active": 61858,
+      "per100": 0
+    },
+    {
+      "id": "7ed2f587-baa1-4bc4-adab-32e7ceec27df",
+      "cases": 1606267,
+      "deaths": 27787,
+      "recovered": 1208440,
+      "active": 370040,
+      "per100": 0,
+      "provinces": [
+        {
+          "id": "5f0e977b-5c64-4d6b-bab2-b9a5b436cddb",
+          "cases": 5770,
+          "deaths": 51,
+          "recovered": 4580,
+          "per100": 0
+        },
+        {
+          "id": "3757d11f-0cdf-43df-80b5-a3892d02da53",
+          "cases": 19217,
+          "deaths": 335,
+          "recovered": 17958,
+          "per100": 0
+        },
+        {
+          "id": "2f8ad704-d8ea-4f81-b36b-6e5302883148",
+          "cases": 7449,
+          "deaths": 20,
+          "recovered": 5110,
+          "per100": 0
+        },
+        {
+          "id": "89af198a-15f1-4a2b-9956-2b0262078a8c",
+          "cases": 6602,
+          "deaths": 63,
+          "recovered": 5655,
+          "per100": 0
+        },
+        {
+          "id": "28ef5474-34d9-41ff-b94c-b63e538dd6b7",
+          "cases": 20580,
+          "deaths": 287,
+          "recovered": 11966,
+          "per100": 0
+        },
+        {
+          "id": "6d74a8a3-9819-47ae-90b7-0a5ddbe9edb5",
+          "cases": 9570,
+          "deaths": 170,
+          "recovered": 7331,
+          "per100": 0
+        },
+        {
+          "id": "f753734e-ca74-43d7-b580-c715de4d9938",
+          "cases": 10768,
+          "deaths": 53,
+          "recovered": 9755,
+          "per100": 0
+        },
+        {
+          "id": "ce509bbd-4686-493b-8e03-60b17c53ee2d",
+          "cases": 11575,
+          "deaths": 61,
+          "recovered": 10198,
+          "per100": 0
+        },
+        {
+          "id": "216e40a6-f9e8-46fa-bd11-8512e17ad191",
+          "cases": 12786,
+          "deaths": 64,
+          "recovered": 9404,
+          "per100": 0
+        },
+        {
+          "id": "127f05e4-611c-40e0-b07b-2b6d330f417d",
+          "cases": 11331,
+          "deaths": 133,
+          "recovered": 9247,
+          "per100": 0
+        },
+        {
+          "id": "e9f0b2a2-a075-47b4-8c6e-ef10de8ef73c",
+          "cases": 2643,
+          "deaths": 47,
+          "recovered": 2102,
+          "per100": 0
+        },
+        {
+          "id": "607a43b8-7365-4582-9b37-5dad04f98e9c",
+          "cases": 18995,
+          "deaths": 163,
+          "recovered": 14678,
+          "per100": 0
+        },
+        {
+          "id": "27c5cc96-cece-4640-920a-baa174a9a03e",
+          "cases": 241,
+          "deaths": 2,
+          "recovered": 216,
+          "per100": 0
+        },
+        {
+          "id": "ae5ba7bd-d3e4-4b89-9bd1-23e2e1f85051",
+          "cases": 9898,
+          "deaths": 145,
+          "recovered": 8497,
+          "per100": 0
+        },
+        {
+          "id": "a5a5d3ea-a6a7-4610-a62f-7f1c9ba38f49",
+          "cases": 16046,
+          "deaths": 779,
+          "recovered": 14386,
+          "per100": 0
+        },
+        {
+          "id": "91815168-bc0d-4577-bef0-e62f452d80ad",
+          "cases": 7344,
+          "deaths": 96,
+          "recovered": 5881,
+          "per100": 0
+        },
+        {
+          "id": "e7fbb1e8-fe83-423e-ad36-a4235204913e",
+          "cases": 24311,
+          "deaths": 424,
+          "recovered": 20479,
+          "per100": 0
+        },
+        {
+          "id": "b0ab598a-7437-4d54-be55-c2d6dd68d252",
+          "cases": 11481,
+          "deaths": 174,
+          "recovered": 8357,
+          "per100": 0
+        },
+        {
+          "id": "65737489-0ffa-4033-aa3d-c31ecb301177",
+          "cases": 1956,
+          "deaths": 27,
+          "recovered": 912,
+          "per100": 0
+        },
+        {
+          "id": "fb666685-9099-4973-9bac-aec9052124ec",
+          "cases": 10096,
+          "deaths": 140,
+          "recovered": 7404,
+          "per100": 0
+        },
+        {
+          "id": "525e2a84-2154-47e7-b6fa-c473d8109212",
+          "cases": 6841,
+          "deaths": 98,
+          "recovered": 4553,
+          "per100": 0
+        },
+        {
+          "id": "8f764fe5-a8db-4e2b-b9d8-9aff996ff755",
+          "cases": 9095,
+          "deaths": 103,
+          "recovered": 6011,
+          "per100": 0
+        },
+        {
+          "id": "3220f6d8-16b7-4bd1-820a-48a18c1bc32c",
+          "cases": 11941,
+          "deaths": 82,
+          "recovered": 9158,
+          "per100": 0
+        },
+        {
+          "id": "a544c3e6-a6db-4563-ae35-a09e04e86a51",
+          "cases": 5778,
+          "deaths": 70,
+          "recovered": 3708,
+          "per100": 0
+        },
+        {
+          "id": "1fe5d7b1-a798-4326-85f9-1316ff2a55cc",
+          "cases": 9610,
+          "deaths": 33,
+          "recovered": 5623,
+          "per100": 0
+        },
+        {
+          "id": "637c219c-4b3c-4b18-ad1a-93f25bce9bcc",
+          "cases": 6475,
+          "deaths": 47,
+          "recovered": 4574,
+          "per100": 0
+        },
+        {
+          "id": "033166c8-b41a-499b-bd53-ab2288bb207f",
+          "cases": 15239,
+          "deaths": 227,
+          "recovered": 10924,
+          "per100": 0
+        },
+        {
+          "id": "3b466efe-e140-4d56-a8a1-5a5d20ecf4f5",
+          "cases": 16294,
+          "deaths": 134,
+          "recovered": 11373,
+          "per100": 0
+        },
+        {
+          "id": "c5874a7d-533d-44e8-aba3-d6757364e15c",
+          "cases": 6961,
+          "deaths": 65,
+          "recovered": 5220,
+          "per100": 0
+        },
+        {
+          "id": "e7bf7c96-6ffc-471d-aaa2-6f89c59f6938",
+          "cases": 28271,
+          "deaths": 244,
+          "recovered": 24104,
+          "per100": 0
+        },
+        {
+          "id": "7149ab49-16f8-45eb-af6c-e8670c43575e",
+          "cases": 11920,
+          "deaths": 168,
+          "recovered": 7197,
+          "per100": 0
+        },
+        {
+          "id": "788c4381-09b9-4534-89ec-04c8a10b3975",
+          "cases": 13393,
+          "deaths": 221,
+          "recovered": 10002,
+          "per100": 0
+        },
+        {
+          "id": "944e15d2-984a-4156-bab2-b519b2dc11d4",
+          "cases": 7341,
+          "deaths": 137,
+          "recovered": 4810,
+          "per100": 0
+        },
+        {
+          "id": "13fa36f4-46e2-4962-90b9-fc182836145a",
+          "cases": 17393,
+          "deaths": 421,
+          "recovered": 11684,
+          "per100": 0
+        },
+        {
+          "id": "77fad558-07c8-4a21-8cb5-d1bd3ee58945",
+          "cases": 26445,
+          "deaths": 669,
+          "recovered": 19352,
+          "per100": 0
+        },
+        {
+          "id": "8c8c1df2-0094-4619-a1b2-36f40fcbf5c4",
+          "cases": 5853,
+          "deaths": 87,
+          "recovered": 4570,
+          "per100": 0
+        },
+        {
+          "id": "7f6c1d08-318e-4eee-8b45-de61dd209346",
+          "cases": 10898,
+          "deaths": 99,
+          "recovered": 8152,
+          "per100": 0
+        },
+        {
+          "id": "f220f2c2-e00b-449e-b843-3d895674a2f1",
+          "cases": 11451,
+          "deaths": 116,
+          "recovered": 6616,
+          "per100": 0
+        },
+        {
+          "id": "a8c6eda8-2a4e-4f3d-b9fa-d51e02ac0eae",
+          "cases": 8107,
+          "deaths": 70,
+          "recovered": 6685,
+          "per100": 0
+        },
+        {
+          "id": "30469006-5444-48d5-ad43-cdf4cb1b1b3a",
+          "cases": 4333,
+          "deaths": 38,
+          "recovered": 3172,
+          "per100": 0
+        },
+        {
+          "id": "e25ee7ea-29ca-45bc-934c-eb529d36daf5",
+          "cases": 6120,
+          "deaths": 64,
+          "recovered": 5037,
+          "per100": 0
+        },
+        {
+          "id": "0c970574-6d3c-4185-9872-5d151a0d3b0f",
+          "cases": 8254,
+          "deaths": 51,
+          "recovered": 6904,
+          "per100": 0
+        },
+        {
+          "id": "9a017e08-d58f-426d-b53c-24ce5ee561ed",
+          "cases": 424148,
+          "deaths": 6768,
+          "recovered": 311450,
+          "per100": 0
+        },
+        {
+          "id": "97bcbb3a-9d47-48e3-be83-f45e40a662de",
+          "cases": 86821,
+          "deaths": 1608,
+          "recovered": 64649,
+          "per100": 0
+        },
+        {
+          "id": "933a179f-c0a7-41d7-af49-06922e1bb96c",
+          "cases": 19852,
+          "deaths": 297,
+          "recovered": 16008,
+          "per100": 0
+        },
+        {
+          "id": "6217369f-2c26-4a5f-90c3-106a743cacd9",
+          "cases": 468,
+          "deaths": 0,
+          "recovered": 161,
+          "per100": 0
+        },
+        {
+          "id": "9ff4df47-b130-437c-8bb7-ec5c45bb7246",
+          "cases": 41566,
+          "deaths": 783,
+          "recovered": 35270,
+          "per100": 0
+        },
+        {
+          "id": "9f64cc37-1acc-4371-b62e-c06a19c287ca",
+          "cases": 7215,
+          "deaths": 70,
+          "recovered": 5375,
+          "per100": 0
+        },
+        {
+          "id": "166dfa5e-3b9a-403d-8874-f5f0ce53ef93",
+          "cases": 7361,
+          "deaths": 87,
+          "recovered": 4949,
+          "per100": 0
+        },
+        {
+          "id": "0b1c9ce3-370f-45cb-885b-f2cb6537b80f",
+          "cases": 17306,
+          "deaths": 586,
+          "recovered": 14391,
+          "per100": 0
+        },
+        {
+          "id": "f6e99528-6d31-48bc-8886-5400bfe555ed",
+          "cases": 15783,
+          "deaths": 412,
+          "recovered": 12532,
+          "per100": 0
+        },
+        {
+          "id": "51040ae8-0124-477d-94bf-72c88a2ac6d8",
+          "cases": 11973,
+          "deaths": 157,
+          "recovered": 8990,
+          "per100": 0
+        },
+        {
+          "id": "739421cc-2b6c-4e30-988e-f05d66dae8df",
+          "cases": 17567,
+          "deaths": 122,
+          "recovered": 15055,
+          "per100": 0
+        },
+        {
+          "id": "28862880-6ee5-4fd9-9219-e14bdb93fb7e",
+          "cases": 15258,
+          "deaths": 183,
+          "recovered": 11147,
+          "per100": 0
+        },
+        {
+          "id": "9fd7d57a-24c4-4c3f-8029-92cab67f9ad5",
+          "cases": 13541,
+          "deaths": 402,
+          "recovered": 8983,
+          "per100": 0
+        },
+        {
+          "id": "1f05c424-ae79-41b0-af64-87cee0712677",
+          "cases": 15369,
+          "deaths": 154,
+          "recovered": 12316,
+          "per100": 0
+        },
+        {
+          "id": "f58d0ca9-5e39-41e3-a478-2ca902f82856",
+          "cases": 7799,
+          "deaths": 70,
+          "recovered": 4668,
+          "per100": 0
+        },
+        {
+          "id": "a9d6082c-cafe-4d19-90f4-78602de8b099",
+          "cases": 30618,
+          "deaths": 833,
+          "recovered": 24410,
+          "per100": 0
+        },
+        {
+          "id": "79450e71-f3d9-4654-9960-129c6c80b717",
+          "cases": 10723,
+          "deaths": 63,
+          "recovered": 7701,
+          "per100": 0
+        },
+        {
+          "id": "23121039-a22b-4c21-abdd-9c87e4a95e49",
+          "cases": 61376,
+          "deaths": 3843,
+          "recovered": 38530,
+          "per100": 0
+        },
+        {
+          "id": "35c2335b-7620-4bcf-922e-235c81a9b984",
+          "cases": 13661,
+          "deaths": 134,
+          "recovered": 8590,
+          "per100": 0
+        },
+        {
+          "id": "4c6b9af0-6fef-4de4-b666-723db2baa59c",
+          "cases": 7807,
+          "deaths": 2,
+          "recovered": 5528,
+          "per100": 0
+        },
+        {
+          "id": "da86f2a0-303f-4e6f-a9de-74ce2f833ea6",
+          "cases": 15968,
+          "deaths": 278,
+          "recovered": 13467,
+          "per100": 0
+        },
+        {
+          "id": "6a5c208f-6cc6-4229-a55e-cb4f7521c7fe",
+          "cases": 20513,
+          "deaths": 154,
+          "recovered": 13750,
+          "per100": 0
+        },
+        {
+          "id": "6d8bfd49-e1a8-420b-9a3d-1a63ed36b6c2",
+          "cases": 8804,
+          "deaths": 236,
+          "recovered": 6351,
+          "per100": 0
+        },
+        {
+          "id": "a2e95ff4-05b0-4713-9fee-599bbf31b474",
+          "cases": 21277,
+          "deaths": 425,
+          "recovered": 16400,
+          "per100": 0
+        },
+        {
+          "id": "788ad706-c74c-4ab7-8fbf-2a44dadc0ae7",
+          "cases": 36212,
+          "deaths": 772,
+          "recovered": 28303,
+          "per100": 0
+        },
+        {
+          "id": "9fe927cf-ee5c-439b-9b35-db490443b4db",
+          "cases": 9845,
+          "deaths": 50,
+          "recovered": 7808,
+          "per100": 0
+        },
+        {
+          "id": "068eb84e-39f0-4d97-9fae-92f4e278371d",
+          "cases": 8417,
+          "deaths": 109,
+          "recovered": 7486,
+          "per100": 0
+        },
+        {
+          "id": "cab23f74-9a6d-4dc3-b9ac-903b1fe0fae7",
+          "cases": 12371,
+          "deaths": 123,
+          "recovered": 8241,
+          "per100": 0
+        },
+        {
+          "id": "c2c2b693-3af3-4949-a1f8-abfcaa73a14b",
+          "cases": 12366,
+          "deaths": 425,
+          "recovered": 10748,
+          "per100": 0
+        },
+        {
+          "id": "44ffa8e1-d859-4d9f-b2da-004233c4fea1",
+          "cases": 9574,
+          "deaths": 324,
+          "recovered": 5561,
+          "per100": 0
+        },
+        {
+          "id": "82f37b6c-2a2c-46ae-85d1-084ca12915eb",
+          "cases": 13398,
+          "deaths": 75,
+          "recovered": 8782,
+          "per100": 0
+        },
+        {
+          "id": "06822e37-5c33-459c-b179-71b2fa781ce8",
+          "cases": 9427,
+          "deaths": 118,
+          "recovered": 8361,
+          "per100": 0
+        },
+        {
+          "id": "908c3d32-a118-4e96-9d92-b0f244d2b13b",
+          "cases": 8870,
+          "deaths": 170,
+          "recovered": 7325,
+          "per100": 0
+        },
+        {
+          "id": "c7c8bc5c-8704-4c12-929f-50d4f960b674",
+          "cases": 20797,
+          "deaths": 261,
+          "recovered": 16511,
+          "per100": 0
+        },
+        {
+          "id": "27587c87-ccc4-4069-b2aa-a6fcf0ef8b0f",
+          "cases": 9607,
+          "deaths": 264,
+          "recovered": 6915,
+          "per100": 0
+        },
+        {
+          "id": "6e5a3a8b-9462-46f6-8c21-0c2fe44f2776",
+          "cases": 20324,
+          "deaths": 207,
+          "recovered": 17620,
+          "per100": 0
+        },
+        {
+          "id": "d8fab2a4-ec77-4b63-8aad-5101569826fd",
+          "cases": 7015,
+          "deaths": 70,
+          "recovered": 5311,
+          "per100": 0
+        },
+        {
+          "id": "2683bbea-031b-429e-a265-f8239a8d936f",
+          "cases": 25071,
+          "deaths": 329,
+          "recovered": 22333,
+          "per100": 0
+        },
+        {
+          "id": "9a1fa1b1-57ca-47b6-a725-0ca0b4c944d8",
+          "cases": 20557,
+          "deaths": 145,
+          "recovered": 14546,
+          "per100": 0
+        },
+        {
+          "id": "7b827589-a4ea-4a9a-aae8-ecfdaf6b4b49",
+          "cases": 11414,
+          "deaths": 59,
+          "recovered": 10354,
+          "per100": 0
+        },
+        {
+          "id": "cc26902a-f787-4ea1-ade1-8f883ecf6997",
+          "cases": 11556,
+          "deaths": 141,
+          "recovered": 8019,
+          "per100": 0
+        }
+      ],
+      "counties": []
+    },
+    {
+      "id": "c639bc8a-3616-4442-b675-7ffa1662c77c",
+      "cases": 5137,
+      "deaths": 35,
+      "recovered": 4879,
+      "active": 223,
+      "per100": 0
+    },
+    {
+      "id": "948537fc-4ebe-49c1-b178-281835fff5f3",
+      "cases": 19,
+      "deaths": 0,
+      "recovered": 19,
+      "active": 0,
+      "per100": 0
+    },
+    {
+      "id": "0a2243fa-6a75-4b1c-a269-c622e572489d",
+      "cases": 78,
+      "deaths": 0,
+      "recovered": 28,
+      "active": 50,
+      "per100": 0
+    },
+    {
+      "id": "d40e57a6-16d1-4a08-910e-df0f0484900f",
+      "cases": 74,
+      "deaths": 0,
+      "recovered": 70,
+      "active": 4,
+      "per100": 0
+    },
+    {
+      "id": "616d951c-30c5-4465-88cd-212f9de1af60",
+      "cases": 928,
+      "deaths": 42,
+      "recovered": 721,
+      "active": 165,
+      "per100": 0
+    },
+    {
+      "id": "ac9f66b2-c914-4c72-b89b-bb8b456d9a05",
+      "cases": 945,
+      "deaths": 16,
+      "recovered": 904,
+      "active": 25,
+      "per100": 0
+    },
+    {
+      "id": "219ff349-1073-42cd-b9f0-06f289889dd6",
+      "cases": 347282,
+      "deaths": 5402,
+      "recovered": 333842,
+      "active": 8038,
+      "per100": 0
+    },
+    {
+      "id": "265cfdc7-0849-44ea-8041-2b2e792801d4",
+      "cases": 15616,
+      "deaths": 324,
+      "recovered": 14853,
+      "active": 439,
+      "per100": 0
+    },
+    {
+      "id": "959af412-0cf4-4355-8957-ccf0174a88e0",
+      "cases": 46954,
+      "deaths": 820,
+      "recovered": 0,
+      "active": 46134,
+      "per100": 0
+    },
+    {
+      "id": "0be68267-212f-47c7-bad0-3678f3ebafb2",
+      "cases": 153,
+      "deaths": 0,
+      "recovered": 149,
+      "active": 4,
+      "per100": 0
+    },
+    {
+      "id": "45f0391f-dedf-434d-8f61-5a0a479e544d",
+      "cases": 2366,
+      "deaths": 74,
+      "recovered": 1800,
+      "active": 492,
+      "per100": 0
+    },
+    {
+      "id": "02211f22-1a9e-4e25-89fe-ace7f9655c7a",
+      "cases": 58015,
+      "deaths": 28,
+      "recovered": 57913,
+      "active": 74,
+      "per100": 0
+    },
+    {
+      "id": "f3223601-b112-4833-8f1e-5a8d9eb7dc89",
+      "cases": 57664,
+      "deaths": 219,
+      "recovered": 12617,
+      "active": 44828,
+      "per100": 0
+    },
+    {
+      "id": "a3486d24-27f2-4930-9c13-133e51acfdd1",
+      "cases": 34307,
+      "deaths": 338,
+      "recovered": 12091,
+      "active": 21878,
+      "per100": 0
+    },
+    {
+      "id": "667bb762-49de-45de-a454-78cd62308da5",
+      "cases": 8,
+      "deaths": 0,
+      "recovered": 4,
+      "active": 4,
+      "per100": 0
+    },
+    {
+      "id": "fd3ab563-1ae6-468d-abc9-8eb19f30f544",
+      "cases": 3941,
+      "deaths": 104,
+      "recovered": 3185,
+      "active": 652,
+      "per100": 0
+    },
+    {
+      "id": "1822aba5-43bc-4078-9331-53ba9ad37616",
+      "cases": 725452,
+      "deaths": 19276,
+      "recovered": 654182,
+      "active": 51994,
+      "per100": 0
+    },
+    {
+      "id": "6a364802-fb4e-43f2-85f5-31c5cf727479",
+      "cases": 2905,
+      "deaths": 58,
+      "recovered": 1290,
+      "active": 1557,
+      "per100": 0
+    },
+    {
+      "id": "39f204e9-2eb7-4171-bef3-7ab07297144b",
+      "cases": 1185678,
+      "deaths": 35878,
+      "recovered": 150376,
+      "active": 999424,
+      "per100": 0,
+      "provinces": [
+        {
+          "id": "0f4e39c2-57f8-49cc-8014-0c7d89b522ad",
+          "cases": 130191,
+          "deaths": 2470,
+          "recovered": 10671,
+          "per100": 0
+        },
+        {
+          "id": "d7a9fe49-e779-4f73-84cd-ad77293a3114",
+          "cases": 56181,
+          "deaths": 1654,
+          "recovered": 3772,
+          "per100": 0
+        },
+        {
+          "id": "6c7b04cd-3f87-477b-a74e-dd6cfaf5b9b4",
+          "cases": 11795,
+          "deaths": 437,
+          "recovered": 1063,
+          "per100": 0
+        },
+        {
+          "id": "476dc7f4-01b9-498a-a9dc-a20e417f0265",
+          "cases": 18361,
+          "deaths": 362,
+          "recovered": 1533,
+          "per100": 0
+        },
+        {
+          "id": "d054615e-e740-4564-adab-73c1ec24e6f7",
+          "cases": 61592,
+          "deaths": 1773,
+          "recovered": 9970,
+          "per100": 0
+        },
+        {
+          "id": "1fc08d1b-a264-4a3a-9023-8ff83512cd43",
+          "cases": 17263,
+          "deaths": 282,
+          "recovered": 1537,
+          "per100": 0
+        },
+        {
+          "id": "2478c26a-78ec-43ba-8f12-ffd92bfb1c9d",
+          "cases": 9699,
+          "deaths": 252,
+          "recovered": 2287,
+          "per100": 0
+        },
+        {
+          "id": "83f26206-02f1-4aec-b2fa-4bd571439975",
+          "cases": 64042,
+          "deaths": 3425,
+          "recovered": 6392,
+          "per100": 0
+        },
+        {
+          "id": "346201fc-41ff-47f8-89e1-294e99ff1d6b",
+          "cases": 81036,
+          "deaths": 3599,
+          "recovered": 8716,
+          "per100": 0
+        },
+        {
+          "id": "0b05626c-7450-4024-9fa4-8eaf445eb842",
+          "cases": 228000,
+          "deaths": 5991,
+          "recovered": 26203,
+          "per100": 0
+        },
+        {
+          "id": "6dc3701c-9b23-4854-903d-42a69f7c2b65",
+          "cases": 1571,
+          "deaths": 19,
+          "recovered": 163,
+          "per100": 0
+        },
+        {
+          "id": "c16226d4-817f-4483-bfde-a444402279ff",
+          "cases": 19307,
+          "deaths": 714,
+          "recovered": 2652,
+          "per100": 0
+        },
+        {
+          "id": "1ba49000-9b38-4ae5-ae9f-43b1616bfe9e",
+          "cases": 33222,
+          "deaths": 904,
+          "recovered": 9204,
+          "per100": 0
+        },
+        {
+          "id": "1babe414-8ba9-4cc5-ae83-b5d9ac3701ad",
+          "cases": 12510,
+          "deaths": 463,
+          "recovered": 3107,
+          "per100": 0
+        },
+        {
+          "id": "1a964f83-c0ae-4993-851c-3441104b8db3",
+          "cases": 306335,
+          "deaths": 10419,
+          "recovered": 40736,
+          "per100": 0
+        },
+        {
+          "id": "6bc86c88-587e-4e14-8eaa-7cce6a18149f",
+          "cases": 2745,
+          "deaths": 12,
+          "recovered": 125,
+          "per100": 0
+        },
+        {
+          "id": "0eb5f13c-b841-412f-8e22-2596f01f4028",
+          "cases": 34363,
+          "deaths": 317,
+          "recovered": 2180,
+          "per100": 0
+        },
+        {
+          "id": "225af700-6e07-46fb-ad2c-000cceb5ff09",
+          "cases": 32150,
+          "deaths": 703,
+          "recovered": 3905,
+          "per100": 0
+        },
+        {
+          "id": "089e9f92-21ac-43be-b6da-c15fddbffd70",
+          "cases": 65315,
+          "deaths": 2082,
+          "recovered": 16160,
+          "per100": 0
+        },
+        {
+          "id": "099f2d13-3b84-4fa8-bd60-11d1cc33d223",
+          "cases": 0,
+          "deaths": 0,
+          "recovered": 0,
+          "per100": 0
+        }
+      ],
+      "counties": []
+    },
+    {
+      "id": "9f4e2903-ebc0-4ea5-af0f-73d4c7224f3d",
+      "cases": 10663,
+      "deaths": 20,
+      "recovered": 4399,
+      "active": 6244,
+      "per100": 0
+    },
+    {
+      "id": "8ed8c6e7-76bc-496b-b867-fed26b3cba20",
+      "cases": 13804,
+      "deaths": 837,
+      "recovered": 6764,
+      "active": 6203,
+      "per100": 0
+    },
+    {
+      "id": "35f9145f-8a0b-4210-9fd5-b35427d555d0",
+      "cases": 5203,
+      "deaths": 111,
+      "recovered": 5060,
+      "active": 32,
+      "per100": 0
+    },
+    {
+      "id": "d48f29da-f3de-4de8-938e-a7c8412e4eb3",
+      "cases": 124355,
+      "deaths": 5938,
+      "recovered": 0,
+      "active": 118417,
+      "per100": 0,
+      "provinces": [
+        {
+          "id": "3b8b8754-9033-4fdf-a79f-a805be49f57b",
+          "cases": 999,
+          "deaths": 18,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "ecb073f7-320e-4384-887e-8e1dc403419d",
+          "cases": 3306,
+          "deaths": 185,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "78c70634-4572-4251-85c2-080438ad465e",
+          "cases": 3831,
+          "deaths": 171,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "67165b6f-c9b1-48bf-8e59-fe0734271090",
+          "cases": 418,
+          "deaths": 7,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "7d3c034d-1178-40eb-8452-398f30fe8313",
+          "cases": 3435,
+          "deaths": 89,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "dd9f3012-fc68-49ae-a858-a454cb64282b",
+          "cases": 1650,
+          "deaths": 64,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "37d72d4b-f77f-4c70-ba2f-337ea86f30a9",
+          "cases": 6636,
+          "deaths": 185,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "af3cfac6-4f73-4994-a6a4-c7cef7d657e6",
+          "cases": 1187,
+          "deaths": 64,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "940f62d2-59e7-4639-b42d-6f80a7482b65",
+          "cases": 2464,
+          "deaths": 112,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "eab56685-95bf-4ebf-809c-0dbebe48fea0",
+          "cases": 2224,
+          "deaths": 88,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "ee207603-c42e-4df4-b211-f5b362e498d3",
+          "cases": 4828,
+          "deaths": 173,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "07e2ddf2-defd-45c6-9fc7-2408cb3894b7",
+          "cases": 5636,
+          "deaths": 251,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "1a877b68-119f-4505-a8d5-07d966211d61",
+          "cases": 9981,
+          "deaths": 287,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "32a2e153-7abe-4a94-91e9-4aacb0a7b80c",
+          "cases": 3071,
+          "deaths": 255,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "a7741efb-e739-4a20-ac48-8e71e9ded30c",
+          "cases": 34937,
+          "deaths": 2429,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "560cdff1-38d9-4075-9ad8-e8a4dbd5f9d1",
+          "cases": 5789,
+          "deaths": 255,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "71d25e1e-7a46-45a8-ab32-9754558dc3ab",
+          "cases": 1659,
+          "deaths": 75,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "9fde129a-c207-4bac-bd60-cfbbab1aff1b",
+          "cases": 1362,
+          "deaths": 31,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "321d8dc7-385a-4cdd-8f37-7a680263fb9f",
+          "cases": 2139,
+          "deaths": 137,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "7d205341-71d0-4558-b7de-d2ab60552cdf",
+          "cases": 3907,
+          "deaths": 185,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "38b0fc41-f595-47f8-a2ea-37607f55275f",
+          "cases": 24896,
+          "deaths": 877,
+          "recovered": 0,
+          "per100": 0
+        }
+      ],
+      "counties": []
+    },
+    {
+      "id": "a299b2ab-81da-426e-8083-45370669e8a5",
+      "cases": 154251,
+      "deaths": 2297,
+      "recovered": 65200,
+      "active": 86754,
+      "per100": 0
+    },
+    {
+      "id": "b34938c0-e315-4336-be55-690433d67b4b",
+      "cases": 5728,
+      "deaths": 288,
+      "recovered": 1976,
+      "active": 3464,
+      "per100": 0
+    },
+    {
+      "id": "62ba995c-e6c1-45aa-b06c-6f9d2e38fb05",
+      "cases": 555,
+      "deaths": 7,
+      "recovered": 515,
+      "active": 33,
+      "per100": 0
+    },
+    {
+      "id": "63fd622d-36a5-42db-b3f7-33b10fe3e86a",
+      "cases": 11017,
+      "deaths": 82,
+      "recovered": 10233,
+      "active": 702,
+      "per100": 0
+    },
+    {
+      "id": "7221c07a-fcd1-4443-9937-7e441482a6a2",
+      "cases": 509,
+      "deaths": 21,
+      "recovered": 183,
+      "active": 305,
+      "per100": 0
+    },
+    {
+      "id": "dfd209df-3103-4c20-b831-5e6264eabdc9",
+      "cases": 3784,
+      "deaths": 59,
+      "recovered": 3592,
+      "active": 133,
+      "per100": 0
+    },
+    {
+      "id": "ea4c3141-340d-4a99-804a-235dbc39b68d",
+      "cases": 30,
+      "deaths": 0,
+      "recovered": 29,
+      "active": 1,
+      "per100": 0
+    },
+    {
+      "id": "c0cfeb56-84d0-4c9d-a864-301e51a963c0",
+      "cases": 2331,
+      "deaths": 57,
+      "recovered": 1660,
+      "active": 614,
+      "per100": 0
+    },
+    {
+      "id": "8e24a191-f2a1-4828-bf99-838acb005180",
+      "cases": 5692,
+      "deaths": 108,
+      "recovered": 4610,
+      "active": 974,
+      "per100": 0
+    },
+    {
+      "id": "e2dc295b-016c-46a1-bac9-aa426eef6896",
+      "cases": 59813,
+      "deaths": 1317,
+      "recovered": 5032,
+      "active": 53464,
+      "per100": 0
+    },
+    {
+      "id": "ce7459e0-1202-4cfb-b55f-145b68377a17",
+      "cases": 375367,
+      "deaths": 10252,
+      "recovered": 323971,
+      "active": 41144,
+      "per100": 0
+    },
+    {
+      "id": "70a29af0-7641-4cd0-98da-30e44356879f",
+      "cases": 9125482,
+      "deaths": 230548,
+      "recovered": 3612478,
+      "active": 5282435,
+      "per100": 0,
+      "provinces": [
+        {
+          "id": "c9b606e1-611e-4368-b46d-54b03f7f2362",
+          "cases": 192285,
+          "deaths": 2967,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "a3184b63-3c90-4fdf-9ce2-a31ddd378686",
+          "cases": 16355,
+          "deaths": 82,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "9a21e0e0-b5ba-42b9-88ce-37487c41967f",
+          "cases": 245946,
+          "deaths": 5979,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "8e1d4b2a-231f-42b4-b8c4-4179166bdd5d",
+          "cases": 112190,
+          "deaths": 1925,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "8ff75f8e-8621-47ac-9a07-bcfe305d4ca8",
+          "cases": 932143,
+          "deaths": 17659,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "d5cf975c-2841-4884-ae63-6e6afecbbcea",
+          "cases": 107327,
+          "deaths": 2285,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "7dcb9d87-ea57-4e16-b9ff-df67d03ddd98",
+          "cases": 71207,
+          "deaths": 4616,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "89923b5d-d084-43a8-b43c-cc81458383fa",
+          "cases": 24951,
+          "deaths": 708,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "803f576b-5ce5-4c8e-a5be-0df7c2aaab25",
+          "cases": 49,
+          "deaths": 0,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "0a9630da-293e-4caa-8653-eb5c5c3f3df9",
+          "cases": 17266,
+          "deaths": 646,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "63a845e2-8e4d-4018-b966-fd68067eed71",
+          "cases": 802547,
+          "deaths": 16761,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "7d50947d-3ce6-45ae-b07f-4afbbfc453ad",
+          "cases": 360790,
+          "deaths": 7979,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "44d779cc-1aa6-40a9-88f8-9023a26a3409",
+          "cases": 103,
+          "deaths": 3,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "ac1a9f63-3bf6-4687-a042-85af60c1611e",
+          "cases": 4628,
+          "deaths": 79,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "9da00c26-bc9c-4641-9bda-c538c00a281d",
+          "cases": 15071,
+          "deaths": 219,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "7a40bb08-cf1d-4ae5-8acd-a82e12136019",
+          "cases": 64608,
+          "deaths": 629,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "5a0640bc-320c-4cd5-aa16-354330ee3669",
+          "cases": 408648,
+          "deaths": 9994,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "7d876338-d64c-4f11-a9e2-1ae71e30c4e0",
+          "cases": 179358,
+          "deaths": 4332,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "c0944c0c-f817-4cca-89f5-da1f8febe9b6",
+          "cases": 128510,
+          "deaths": 1716,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "b91ff2bf-9dc5-47e0-932e-1f67588c4601",
+          "cases": 82783,
+          "deaths": 1025,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "aec21115-36be-4716-a71e-7ae386ddb761",
+          "cases": 107219,
+          "deaths": 1485,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "fd029dd7-4b13-4302-9cdc-8776adc9774a",
+          "cases": 182270,
+          "deaths": 5919,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "b3b572b3-2ea7-4ed2-94c6-95b60a29a55f",
+          "cases": 6662,
+          "deaths": 147,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "a879a8f6-eab5-4fca-a823-8cf77c960c21",
+          "cases": 145281,
+          "deaths": 4147,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "32dcde6d-84b1-42a6-a187-86704aa9d7f4",
+          "cases": 158576,
+          "deaths": 9991,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "26344968-929a-4b0a-93f0-9c8e19292347",
+          "cases": 197406,
+          "deaths": 7699,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "9291bfea-b1a3-431c-932a-a1fb68a5e78a",
+          "cases": 148472,
+          "deaths": 2511,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "bd262d1d-45aa-47ee-843e-a02ca98c0e37",
+          "cases": 120160,
+          "deaths": 3334,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "7bd0a907-0f07-4a18-8a45-29b0631e3757",
+          "cases": 185992,
+          "deaths": 3037,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "20af30b5-7f3a-4591-9764-9671a54e435e",
+          "cases": 32801,
+          "deaths": 375,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "0f3b5247-4b7e-4105-9baf-8e79a9d3522e",
+          "cases": 70732,
+          "deaths": 652,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "2e9edb86-d407-4e14-8685-798a69bd5a64",
+          "cases": 100761,
+          "deaths": 1773,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "2f06a231-57b5-4602-8598-234f7d979c47",
+          "cases": 11084,
+          "deaths": 483,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "80509741-3713-49a3-b0b5-d293c6fd26f6",
+          "cases": 237886,
+          "deaths": 16350,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "10712f7a-bf67-4fc0-965b-4b5db67102b2",
+          "cases": 46490,
+          "deaths": 1018,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "ad4c9a3f-d8af-40ab-81d4-a8ea9bcd604a",
+          "cases": 507543,
+          "deaths": 33511,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "372d0152-b5f3-4599-8d1e-a861595f0762",
+          "cases": 274635,
+          "deaths": 4378,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "936bd26d-884f-4b3e-a355-3bb0ed2624d4",
+          "cases": 43916,
+          "deaths": 524,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "01ee6d07-ab86-44bc-9d61-6081f4ee994f",
+          "cases": 92,
+          "deaths": 2,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "2609eaa0-9c34-458d-af51-8d1f6c2f3c39",
+          "cases": 215697,
+          "deaths": 5301,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "1153a932-cbe6-4a25-9820-7c60f1ab26a3",
+          "cases": 122762,
+          "deaths": 1337,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "5f14a0b5-94ab-4e30-af29-9d86882eb6fa",
+          "cases": 44921,
+          "deaths": 689,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "74b7116b-ec71-4a5c-8648-310f61c2b23c",
+          "cases": 212791,
+          "deaths": 8800,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "60883248-6487-4a91-b16e-db07523d9d81",
+          "cases": 66128,
+          "deaths": 822,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "aed63645-80be-427c-9f91-d21e73b73468",
+          "cases": 0,
+          "deaths": 0,
+          "recovered": 3612478,
+          "per100": 0
+        },
+        {
+          "id": "8aa4ade6-ca92-4de7-972e-f35ca8b7d87f",
+          "cases": 32874,
+          "deaths": 1201,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "5f1ebf9b-f4cf-4081-bb27-1971dea33483",
+          "cases": 176612,
+          "deaths": 3935,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "88927c02-722e-4ac2-b52b-8200df1ab5c8",
+          "cases": 45992,
+          "deaths": 425,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "22e08008-ba1f-4674-9dae-3462433dd712",
+          "cases": 260672,
+          "deaths": 3353,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "1cf72771-96e9-453a-a6a1-058cf388332a",
+          "cases": 932261,
+          "deaths": 18465,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "c1d153cb-7b6c-4503-a0ca-4d1354e6da7e",
+          "cases": 114656,
+          "deaths": 604,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "7d060e9c-48d5-431e-b2b7-451c4868dd92",
+          "cases": 2179,
+          "deaths": 58,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "04f443d8-76fb-4439-a3ba-ce08623a2c16",
+          "cases": 1376,
+          "deaths": 21,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "f48402d4-a648-4a82-88e8-24ebdc72d4d3",
+          "cases": 181190,
+          "deaths": 3654,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "64d87aa5-719d-4b6f-82e2-652c6837fad8",
+          "cases": 107501,
+          "deaths": 2366,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "9b4edf14-8ef6-417a-925b-eaad7bc0d342",
+          "cases": 24460,
+          "deaths": 459,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "f06956d1-2ee3-475b-a7dc-004e66657ca2",
+          "cases": 225369,
+          "deaths": 2031,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "49a1a9a3-e166-4817-8429-348043c3c6fd",
+          "cases": 13298,
+          "deaths": 87,
+          "recovered": 0,
+          "per100": 0
+        }
+      ],
+      "counties": []
+    },
+    {
+      "id": "45e62466-9c12-4e16-9129-bb1f30794286",
+      "cases": 12495,
+      "deaths": 111,
+      "recovered": 7503,
+      "active": 4881,
+      "per100": 0
+    },
+    {
+      "id": "f825b90b-5a44-408f-92c5-8f9c622270dc",
+      "cases": 399330,
+      "deaths": 7399,
+      "recovered": 165902,
+      "active": 226029,
+      "per100": 0,
+      "provinces": [
+        {
+          "id": "f225b459-04fb-47e0-be52-0250d8e9f8aa",
+          "cases": 9157,
+          "deaths": 99,
+          "recovered": 4506,
+          "per100": 0
+        },
+        {
+          "id": "8125f67d-2697-41b2-92c6-735685d7fd8f",
+          "cases": 8763,
+          "deaths": 88,
+          "recovered": 1742,
+          "per100": 0
+        },
+        {
+          "id": "6a9802fd-afcc-4732-a1ef-0dc6b4cdaab2",
+          "cases": 21658,
+          "deaths": 462,
+          "recovered": 10452,
+          "per100": 0
+        },
+        {
+          "id": "de970f00-0d9b-4489-9fd8-30f67e09e143",
+          "cases": 9452,
+          "deaths": 135,
+          "recovered": 5405,
+          "per100": 0
+        },
+        {
+          "id": "6dd7794a-134a-42e0-a363-dd86e20f574b",
+          "cases": 15071,
+          "deaths": 368,
+          "recovered": 6057,
+          "per100": 0
+        },
+        {
+          "id": "1846d40e-63f1-465b-88fc-dc053231b175",
+          "cases": 10392,
+          "deaths": 106,
+          "recovered": 1525,
+          "per100": 0
+        },
+        {
+          "id": "9995348f-3f28-44ac-a300-776b077b76ff",
+          "cases": 20392,
+          "deaths": 434,
+          "recovered": 10153,
+          "per100": 0
+        },
+        {
+          "id": "72ad7af9-d2e5-41ac-81a6-c22e8801291a",
+          "cases": 36297,
+          "deaths": 529,
+          "recovered": 6710,
+          "per100": 0
+        },
+        {
+          "id": "ffed24b8-9716-44bf-9fe4-da7de9212fe4",
+          "cases": 3960,
+          "deaths": 83,
+          "recovered": 1694,
+          "per100": 0
+        },
+        {
+          "id": "53e2dd93-ca65-4013-ac61-ce2e925f1d7c",
+          "cases": 15724,
+          "deaths": 222,
+          "recovered": 6797,
+          "per100": 0
+        },
+        {
+          "id": "08142dc3-00ad-4dfb-a138-942e58d1b6d3",
+          "cases": 37549,
+          "deaths": 766,
+          "recovered": 12862,
+          "per100": 0
+        },
+        {
+          "id": "e34f97a7-c16e-45fe-8b10-8d092031d85c",
+          "cases": 16464,
+          "deaths": 396,
+          "recovered": 7933,
+          "per100": 0
+        },
+        {
+          "id": "b5f3d1b5-5e22-4db9-9644-867645d7a772",
+          "cases": 2514,
+          "deaths": 91,
+          "recovered": 1238,
+          "per100": 0
+        },
+        {
+          "id": "7ac1f809-2e42-4fcd-91e7-6b3557d45c4e",
+          "cases": 3635,
+          "deaths": 76,
+          "recovered": 1302,
+          "per100": 0
+        },
+        {
+          "id": "55d020f8-8281-44c1-a764-3ef1be3ebcff",
+          "cases": 29828,
+          "deaths": 861,
+          "recovered": 11633,
+          "per100": 0
+        },
+        {
+          "id": "136f2648-4891-4bba-9a56-6c3e3f82286a",
+          "cases": 7782,
+          "deaths": 160,
+          "recovered": 2039,
+          "per100": 0
+        },
+        {
+          "id": "59955cc2-bba4-4515-8535-38a3e0af69ed",
+          "cases": 24623,
+          "deaths": 379,
+          "recovered": 3633,
+          "per100": 0
+        },
+        {
+          "id": "e104d4f0-17d3-4098-8410-8041f823d351",
+          "cases": 9563,
+          "deaths": 185,
+          "recovered": 3966,
+          "per100": 0
+        },
+        {
+          "id": "d0d90fa3-2d82-41fb-862f-be673dd419d9",
+          "cases": 19158,
+          "deaths": 245,
+          "recovered": 14401,
+          "per100": 0
+        },
+        {
+          "id": "bca9c87a-9712-4c0d-ada6-5075e6ce25c7",
+          "cases": 2397,
+          "deaths": 68,
+          "recovered": 1569,
+          "per100": 0
+        },
+        {
+          "id": "358421fe-89ff-4079-95bd-e9146ae48132",
+          "cases": 11750,
+          "deaths": 190,
+          "recovered": 4034,
+          "per100": 0
+        },
+        {
+          "id": "c5c5d56b-771c-49ba-8587-e083c3d1557a",
+          "cases": 20669,
+          "deaths": 257,
+          "recovered": 15670,
+          "per100": 0
+        },
+        {
+          "id": "119f4f24-ebd1-44f2-9702-648eec2ce4e9",
+          "cases": 10342,
+          "deaths": 182,
+          "recovered": 6250,
+          "per100": 0
+        },
+        {
+          "id": "b01fd933-fbae-4839-99b0-2bc171cc6f1c",
+          "cases": 13554,
+          "deaths": 271,
+          "recovered": 7779,
+          "per100": 0
+        },
+        {
+          "id": "f4a53bdd-1357-4d18-9fcf-2c2b3ffcbea8",
+          "cases": 14470,
+          "deaths": 373,
+          "recovered": 6644,
+          "per100": 0
+        },
+        {
+          "id": "1ecb5727-1c49-4d7c-a8c9-a92098da4bc3",
+          "cases": 9909,
+          "deaths": 118,
+          "recovered": 2311,
+          "per100": 0
+        },
+        {
+          "id": "5be4dea7-8996-4a54-b4fc-b7016482cc65",
+          "cases": 14257,
+          "deaths": 255,
+          "recovered": 7597,
+          "per100": 0
+        }
+      ],
+      "counties": []
+    },
+    {
+      "id": "2d2691bb-05fe-46f4-88c2-db0c33d37191",
+      "cases": 132629,
+      "deaths": 495,
+      "recovered": 128902,
+      "active": 3232,
+      "per100": 0
+    },
+    {
+      "id": "f54c19f9-d5f3-4999-9794-91198b14a552",
+      "cases": 1014793,
+      "deaths": 46645,
+      "recovered": 2839,
+      "active": 965309,
+      "per100": 0,
+      "provinces": [
+        {
+          "id": "53952ca4-dab9-4cd6-96bd-679288a71d46",
+          "cases": 3,
+          "deaths": 0,
+          "recovered": 3,
+          "per100": 0
+        },
+        {
+          "id": "ab5a19d5-ee27-4f1d-9a1c-d09b5a4023df",
+          "cases": 199,
+          "deaths": 9,
+          "recovered": 176,
+          "per100": 0
+        },
+        {
+          "id": "0bce38f1-8379-4a88-a192-878955babbaf",
+          "cases": 71,
+          "deaths": 1,
+          "recovered": 70,
+          "per100": 0
+        },
+        {
+          "id": "0c9058d4-c47a-452b-aeef-b2d65caa2a2f",
+          "cases": 240,
+          "deaths": 1,
+          "recovered": 221,
+          "per100": 0
+        },
+        {
+          "id": "eb37669d-46c2-4203-ba10-097dde434728",
+          "cases": 841,
+          "deaths": 48,
+          "recovered": 713,
+          "per100": 0
+        },
+        {
+          "id": "6e2cbe1c-bd24-42da-9c5d-78bba5f491d9",
+          "cases": 858444,
+          "deaths": 41132,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "7e47fc0b-0bea-4ba6-8c74-9bd2a88a5f95",
+          "cases": 13,
+          "deaths": 0,
+          "recovered": 13,
+          "per100": 0
+        },
+        {
+          "id": "d3b7cac8-90e8-43c7-a544-52cc95db1fd3",
+          "cases": 697,
+          "deaths": 0,
+          "recovered": 618,
+          "per100": 0
+        },
+        {
+          "id": "18d264d6-d20f-4118-8a80-107e017aaadd",
+          "cases": 353,
+          "deaths": 24,
+          "recovered": 324,
+          "per100": 0
+        },
+        {
+          "id": "ba8044f1-7205-47ac-a474-6da904e3d848",
+          "cases": 13,
+          "deaths": 1,
+          "recovered": 12,
+          "per100": 0
+        },
+        {
+          "id": "c9a1d853-9254-4e6a-a365-ca57bc66da92",
+          "cases": 38431,
+          "deaths": 708,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "4261008c-a274-476e-932d-9ab028bece22",
+          "cases": 63913,
+          "deaths": 2843,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "b5a53bf4-43cd-4fc5-b61b-ab5a487284e6",
+          "cases": 703,
+          "deaths": 6,
+          "recovered": 689,
+          "per100": 0
+        },
+        {
+          "id": "3bf88b6f-45bc-47fc-a982-543d6d7299c1",
+          "cases": 0,
+          "deaths": 0,
+          "recovered": 0,
+          "per100": 0
+        },
+        {
+          "id": "da7aa77a-e399-407e-a7d2-50243d539caf",
+          "cases": 50872,
+          "deaths": 1872,
+          "recovered": 0,
+          "per100": 0
+        }
+      ],
+      "counties": []
+    },
+    {
+      "id": "7da13781-79bd-4a8b-b6c3-c7dfed796576",
+      "cases": 3124,
+      "deaths": 58,
+      "recovered": 2560,
+      "active": 506,
+      "per100": 0
+    },
+    {
+      "id": "3c7b1e51-9969-4504-a8fb-f87231224206",
+      "cases": 66932,
+      "deaths": 566,
+      "recovered": 64235,
+      "active": 2131,
+      "per100": 0
+    },
+    {
+      "id": "ea24587b-3638-4069-b76a-d84ff5e2317a",
+      "cases": 92013,
+      "deaths": 798,
+      "recovered": 86773,
+      "active": 4442,
+      "per100": 0
+    },
+    {
+      "id": "db985572-357c-4146-af3c-f4c02169bde6",
+      "cases": 1180,
+      "deaths": 35,
+      "recovered": 1062,
+      "active": 83,
+      "per100": 0
+    },
+    {
+      "id": "3892679e-d654-477d-8928-12a523a3c5b6",
+      "cases": 53520,
+      "deaths": 483,
+      "recovered": 46309,
+      "active": 6728,
+      "per100": 0
+    },
+    {
+      "id": "8cf3c4ea-4a7e-4808-b89a-fd9a302a0a84",
+      "cases": 10,
+      "deaths": 1,
+      "recovered": 8,
+      "active": 1,
+      "per100": 0
+    },
+    {
+      "id": "88aa1ce1-7309-4cc8-b3d7-65d8235ae458",
+      "cases": 2063,
+      "deaths": 599,
+      "recovered": 1366,
+      "active": 98,
+      "per100": 0
+    },
+    {
+      "id": "88ab0a53-d11a-4ff6-8fad-f40647047fa2",
+      "cases": 16432,
+      "deaths": 349,
+      "recovered": 15680,
+      "active": 403,
+      "per100": 0
+    },
+    {
+      "id": "a97dd6f0-7cc2-4a4a-bac9-a2408fb16c6e",
+      "cases": 8367,
+      "deaths": 243,
+      "recovered": 7894,
+      "active": 230,
+      "per100": 0
+    }
+  ]
+}
