@@ -142,7 +142,68 @@
     {
       "id": "05843b63-8650-4cd5-a204-eb5a136af72b",
       "name": "Belgium",
-      "provinces": [],
+      "provinces": [
+        {
+          "id": "5431d30c-cbb7-4076-9504-852b6892be4c",
+          "name": "Antwerp",
+          "admin": null
+        },
+        {
+          "id": "93220ef0-32b6-4a82-a60c-c9e3a8b33e37",
+          "name": "Brussels",
+          "admin": null
+        },
+        {
+          "id": "47b788da-4a68-4ed2-bf34-83a4af67e70f",
+          "name": "East Flanders",
+          "admin": null
+        },
+        {
+          "id": "6103aab9-6dc5-4bff-9c9d-60672a2debcd",
+          "name": "Flemish Brabant",
+          "admin": null
+        },
+        {
+          "id": "cb1f25e3-48fc-4d50-97a3-de15a55e74dc",
+          "name": "Hainaut",
+          "admin": null
+        },
+        {
+          "id": "b274be5f-a074-4b98-a469-4c4081b67816",
+          "name": "Liege",
+          "admin": null
+        },
+        {
+          "id": "683ecf9f-6fc9-4f6e-95b1-bb046b1fb924",
+          "name": "Limburg",
+          "admin": null
+        },
+        {
+          "id": "b3507a09-b792-4ce9-9b71-670630746897",
+          "name": "Luxembourg",
+          "admin": null
+        },
+        {
+          "id": "c11da025-2599-40f0-9ba9-306956178390",
+          "name": "Namur",
+          "admin": null
+        },
+        {
+          "id": "bd07635e-77c5-4941-9e28-38b20bffd1c3",
+          "name": "Unknown",
+          "admin": null
+        },
+        {
+          "id": "3a83e391-51d7-4c73-8562-677d5966ced3",
+          "name": "Walloon Brabant",
+          "admin": null
+        },
+        {
+          "id": "e9f8f874-9a40-4fd1-8639-36c0febabe07",
+          "name": "West Flanders",
+          "admin": null
+        }
+      ],
       "counties": []
     },
     {
@@ -2205,6 +2266,11 @@
         {
           "id": "b355adc7-5383-4b29-9370-26dfb291cb4b",
           "name": "Tlaxcala",
+          "admin": null
+        },
+        {
+          "id": "860c3735-1e04-4f42-82b3-cc6635a8c06b",
+          "name": "Unknown",
           "admin": null
         },
         {
