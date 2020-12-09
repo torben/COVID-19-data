@@ -3157,6 +3157,12 @@
       "counties": []
     },
     {
+      "id": "405ba2d4-c798-4d50-9c0d-8ffea62ca982",
+      "name": "Samoa",
+      "provinces": [],
+      "counties": []
+    },
+    {
       "id": "616d951c-30c5-4465-88cd-212f9de1af60",
       "name": "San Marino",
       "provinces": [],
@@ -4109,12 +4115,6 @@
     {
       "id": "3892679e-d654-477d-8928-12a523a3c5b6",
       "name": "West Bank and Gaza",
-      "provinces": [],
-      "counties": []
-    },
-    {
-      "id": "8cf3c4ea-4a7e-4808-b89a-fd9a302a0a84",
-      "name": "Western Sahara",
       "provinces": [],
       "counties": []
     },
