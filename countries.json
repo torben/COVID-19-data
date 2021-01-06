@@ -1180,6 +1180,11 @@
           "id": "92519aa7-9bfa-4ac5-a264-dbb5c9f2d287",
           "name": "St Martin",
           "admin": null
+        },
+        {
+          "id": "8660e9f0-de2d-48f6-adee-d6c25dc7c612",
+          "name": "Wallis and Futuna",
+          "admin": null
         }
       ],
       "counties": []
