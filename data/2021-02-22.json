@@ -1,0 +1,6581 @@
+{
+  "id": "285e9ff1-98ab-4cd3-886a-af6f937b5734",
+  "cases": 111720297,
+  "recovered": 63016510,
+  "deaths": 2474112,
+  "active": 48417385,
+  "countries": [
+    {
+      "id": "6bf5f296-134c-4af3-9a32-4dc11584d908",
+      "cases": 55617,
+      "deaths": 2433,
+      "recovered": 48895,
+      "active": 4289,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "450a1f35-96bd-4fa0-9e9d-eba049d5f3ba",
+      "cases": 101285,
+      "deaths": 1681,
+      "recovered": 64318,
+      "active": 35286,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "145d449e-839e-4b01-a30a-34c9d77cabdf",
+      "cases": 112094,
+      "deaths": 2964,
+      "recovered": 77225,
+      "active": 31905,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "19e95990-e5b4-4902-b8e3-3e1e94c623eb",
+      "cases": 10712,
+      "deaths": 109,
+      "recovered": 10245,
+      "active": 358,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "2a763f68-db39-443a-8bbc-e47791d1a88d",
+      "cases": 20548,
+      "deaths": 499,
+      "recovered": 19190,
+      "active": 859,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "8082a147-243a-427e-ae84-a22d6a4acab5",
+      "cases": 614,
+      "deaths": 14,
+      "recovered": 222,
+      "active": 378,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "f72cc560-c098-4d4d-a485-1d4331436334",
+      "cases": 2069751,
+      "deaths": 51359,
+      "recovered": 1872213,
+      "active": 146179,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "a5227d0f-7d5f-4360-ae1a-c00372064ea1",
+      "cases": 170506,
+      "deaths": 3167,
+      "recovered": 162098,
+      "active": 5241,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "b1b53ddb-53dc-45b2-a33e-8e3defad9181",
+      "cases": 28937,
+      "deaths": 909,
+      "recovered": 22885,
+      "active": 5143,
+      "per100": 0,
+      "vaccinations": 0,
+      "provinces": [
+        {
+          "id": "b54eef3e-ecac-4ea3-8e7e-31802f14488f",
+          "cases": 118,
+          "deaths": 3,
+          "recovered": 115,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "4de3ea3d-1009-4adc-831c-00c2f50131cc",
+          "cases": 5154,
+          "deaths": 54,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "801a4bfe-f94a-47da-b959-3bffa3452b6b",
+          "cases": 104,
+          "deaths": 0,
+          "recovered": 101,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "3b2f4ef3-7a54-4aff-a635-bd44b0445d27",
+          "cases": 1323,
+          "deaths": 6,
+          "recovered": 1309,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "f8dcdfb9-38d9-4dd2-9da6-ad59bc38fd95",
+          "cases": 612,
+          "deaths": 4,
+          "recovered": 604,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "b4a79103-1386-4548-93cc-33c8d41a3fb9",
+          "cases": 234,
+          "deaths": 13,
+          "recovered": 221,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "fb107857-9a04-4e6d-b542-6c5c758904af",
+          "cases": 20479,
+          "deaths": 820,
+          "recovered": 19634,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "16274557-2122-4c8a-871e-93a7fccc1d8a",
+          "cases": 913,
+          "deaths": 9,
+          "recovered": 901,
+          "per100": 0,
+          "vaccinations": 0
+        }
+      ],
+      "counties": []
+    },
+    {
+      "id": "850b3353-e797-4063-8209-0a6253e3eae4",
+      "cases": 446644,
+      "deaths": 8397,
+      "recovered": 421811,
+      "active": 16436,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "f21d5080-cd21-4190-87f3-416510423e68",
+      "cases": 233201,
+      "deaths": 3202,
+      "recovered": 227836,
+      "active": 2163,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "edb7463c-b27e-41c4-a2b1-807d2b6a954b",
+      "cases": 8471,
+      "deaths": 179,
+      "recovered": 7181,
+      "active": 1111,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "4b6b8f72-5b05-4fad-928f-78cddd60212b",
+      "cases": 118530,
+      "deaths": 429,
+      "recovered": 110827,
+      "active": 7274,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "ce4328e9-d3ec-4183-b41a-89e52d111634",
+      "cases": 543717,
+      "deaths": 8356,
+      "recovered": 492059,
+      "active": 43302,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "e6dbb995-a968-4bc1-88b9-36ff451dff2e",
+      "cases": 2791,
+      "deaths": 31,
+      "recovered": 2035,
+      "active": 725,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "dfaff7ae-d841-4820-aac0-23be360a05a8",
+      "cases": 279456,
+      "deaths": 1921,
+      "recovered": 269428,
+      "active": 8107,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "05843b63-8650-4cd5-a204-eb5a136af72b",
+      "cases": 755594,
+      "deaths": 21923,
+      "recovered": 0,
+      "active": 733671,
+      "per100": 0,
+      "vaccinations": 0,
+      "provinces": [
+        {
+          "id": "5431d30c-cbb7-4076-9504-852b6892be4c",
+          "cases": 94879,
+          "deaths": 0,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "93220ef0-32b6-4a82-a60c-c9e3a8b33e37",
+          "cases": 93319,
+          "deaths": 0,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "47b788da-4a68-4ed2-bf34-83a4af67e70f",
+          "cases": 80904,
+          "deaths": 0,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "6103aab9-6dc5-4bff-9c9d-60672a2debcd",
+          "cases": 58236,
+          "deaths": 0,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "cb1f25e3-48fc-4d50-97a3-de15a55e74dc",
+          "cases": 114487,
+          "deaths": 0,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "b274be5f-a074-4b98-a469-4c4081b67816",
+          "cases": 104559,
+          "deaths": 0,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "683ecf9f-6fc9-4f6e-95b1-bb046b1fb924",
+          "cases": 37669,
+          "deaths": 0,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "b3507a09-b792-4ce9-9b71-670630746897",
+          "cases": 21393,
+          "deaths": 0,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "c11da025-2599-40f0-9ba9-306956178390",
+          "cases": 39631,
+          "deaths": 0,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "bd07635e-77c5-4941-9e28-38b20bffd1c3",
+          "cases": 13749,
+          "deaths": 21923,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "3a83e391-51d7-4c73-8562-677d5966ced3",
+          "cases": 29282,
+          "deaths": 0,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "e9f8f874-9a40-4fd1-8639-36c0febabe07",
+          "cases": 67486,
+          "deaths": 0,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        }
+      ],
+      "counties": []
+    },
+    {
+      "id": "b65240d8-7e92-4634-bc6c-92a321c79abd",
+      "cases": 12255,
+      "deaths": 314,
+      "recovered": 11787,
+      "active": 154,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "8e588dbc-3f0f-451f-a7dc-04515e3ac58a",
+      "cases": 5434,
+      "deaths": 70,
+      "recovered": 4248,
+      "active": 1116,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "4f8fd9c6-253a-4e95-a11e-e26c964d2434",
+      "cases": 866,
+      "deaths": 1,
+      "recovered": 862,
+      "active": 3,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "855b8451-7d72-44cf-89dd-1e170be5f2dc",
+      "cases": 243176,
+      "deaths": 11470,
+      "recovered": 186118,
+      "active": 45588,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "e56be56f-04ef-41c0-9f3a-e904ceb939a1",
+      "cases": 128661,
+      "deaths": 5016,
+      "recovered": 112879,
+      "active": 10766,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "41b7bd85-f135-4b3e-b137-399b9099849c",
+      "cases": 27721,
+      "deaths": 300,
+      "recovered": 22773,
+      "active": 4648,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "21850b9e-ffcb-4bc8-a040-616e2c165fc6",
+      "cases": 10195160,
+      "deaths": 247143,
+      "recovered": 9108205,
+      "active": 839812,
+      "per100": 0,
+      "vaccinations": 0,
+      "provinces": [
+        {
+          "id": "3905e54c-ecc2-4fd9-ab9f-b58a4946cf85",
+          "cases": 54969,
+          "deaths": 968,
+          "recovered": 46016,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "6eb74ac9-03f8-45dc-9348-86ad1aa96a94",
+          "cases": 128501,
+          "deaths": 2940,
+          "recovered": 122264,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "87f209b0-508e-4410-8b74-3cef81b4de23",
+          "cases": 82378,
+          "deaths": 1125,
+          "recovered": 59917,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "47c774c0-deda-4fbc-996f-7d0e22894d71",
+          "cases": 307164,
+          "deaths": 10522,
+          "recovered": 260097,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "1556843b-4614-4d6f-a724-b1e1c5c703e5",
+          "cases": 655481,
+          "deaths": 11254,
+          "recovered": 627674,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "7dbc0f65-9016-4043-ba0f-781fbe7c967a",
+          "cases": 410998,
+          "deaths": 10976,
+          "recovered": 308294,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "a53d44fa-14ff-4bdb-9ac5-8d7c7a26e085",
+          "cases": 290771,
+          "deaths": 4766,
+          "recovered": 280483,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "2dab6da4-961f-464c-a7a8-788c41f7be84",
+          "cases": 318812,
+          "deaths": 6298,
+          "recovered": 301061,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "1c2b4dae-b1e1-4ed6-98b7-d748c4746707",
+          "cases": 381348,
+          "deaths": 8298,
+          "recovered": 365635,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "c9073f22-9e6a-4c3e-9e24-a0223749abfb",
+          "cases": 216210,
+          "deaths": 4949,
+          "recovered": 201198,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "82f31b24-0805-4eb5-9cc5-25372afaa806",
+          "cases": 241429,
+          "deaths": 5560,
+          "recovered": 228675,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "d72753b3-34de-4fb3-aa1b-b3368b99d39d",
+          "cases": 175973,
+          "deaths": 3224,
+          "recovered": 164889,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "eee6ad9d-b2b4-43fb-97cb-284029b9f0c4",
+          "cases": 842377,
+          "deaths": 17733,
+          "recovered": 767617,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "3644b1a0-2d8c-4185-ae63-f83ada216348",
+          "cases": 355745,
+          "deaths": 8322,
+          "recovered": 335892,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "7e29303a-132e-4e0d-bc9a-c82a7994a6b9",
+          "cases": 213227,
+          "deaths": 4379,
+          "recovered": 156373,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "591756d9-39f7-4927-b5c4-f905329a0af2",
+          "cases": 617165,
+          "deaths": 11156,
+          "recovered": 450509,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "01257eab-e68d-4279-9318-e1532fdb124e",
+          "cases": 291189,
+          "deaths": 10863,
+          "recovered": 249822,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "141e9a3f-5f20-4f02-9d5a-ea4011bea8a3",
+          "cases": 169722,
+          "deaths": 3249,
+          "recovered": 165865,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "f4190e6f-e041-4a56-91ff-fd4178d611fd",
+          "cases": 160752,
+          "deaths": 3498,
+          "recovered": 118035,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "896a33be-59d5-4212-aa3c-1364f834c3f9",
+          "cases": 606414,
+          "deaths": 11820,
+          "recovered": 576991,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "b1668fdd-ffd9-422a-8464-57eaee4bb878",
+          "cases": 572866,
+          "deaths": 32256,
+          "recovered": 536670,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "e2a0f524-6609-4b8d-ba60-dcd136de5dd7",
+          "cases": 143085,
+          "deaths": 2721,
+          "recovered": 120509,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "09c442e2-e3a9-4991-84b7-04d55d491fbf",
+          "cases": 79818,
+          "deaths": 1037,
+          "recovered": 74301,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "37ca4734-80d4-4f75-987f-41a5627aeae7",
+          "cases": 641840,
+          "deaths": 6988,
+          "recovered": 603008,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "f505e327-12a8-44c2-ad1f-cec57351c9cf",
+          "cases": 1978477,
+          "deaths": 57842,
+          "recovered": 1749210,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "8680734d-f179-46bd-95ee-9680dfe82db0",
+          "cases": 148372,
+          "deaths": 2914,
+          "recovered": 137264,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "55e5768b-69b1-40f0-971c-21e6859383af",
+          "cases": 110077,
+          "deaths": 1485,
+          "recovered": 99936,
+          "per100": 0,
+          "vaccinations": 0
+        }
+      ],
+      "counties": []
+    },
+    {
+      "id": "8eb31b3d-0d3f-419f-952f-560002c9451d",
+      "cases": 185,
+      "deaths": 3,
+      "recovered": 178,
+      "active": 4,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "12823ff2-bdcb-4bc6-825b-77117ddf02d7",
+      "cases": 238591,
+      "deaths": 9933,
+      "recovered": 201029,
+      "active": 27629,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "9922e7ee-49cc-4876-a27a-716ef8ba417b",
+      "cases": 11847,
+      "deaths": 139,
+      "recovered": 11211,
+      "active": 497,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "f39c6fd1-775a-4921-a3b6-5894cb6c1a90",
+      "cases": 141761,
+      "deaths": 3197,
+      "recovered": 131318,
+      "active": 7246,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "bc60d099-6933-4204-9a48-64d7b260be2f",
+      "cases": 2034,
+      "deaths": 3,
+      "recovered": 773,
+      "active": 1258,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "d8b76a38-fab5-4c8e-af55-deafce0238ff",
+      "cases": 15072,
+      "deaths": 144,
+      "recovered": 14581,
+      "active": 347,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "9944775d-0208-4a11-ac96-7b18f5a75a98",
+      "cases": 593,
+      "deaths": 0,
+      "recovered": 475,
+      "active": 118,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "a17a27f8-0fb6-47a1-9963-d5257bbed038",
+      "cases": 33749,
+      "deaths": 523,
+      "recovered": 31362,
+      "active": 1864,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "79f0042a-fdf2-4c35-a204-410477e457dc",
+      "cases": 854190,
+      "deaths": 21720,
+      "recovered": 801678,
+      "active": 30793,
+      "per100": 0,
+      "vaccinations": 0,
+      "provinces": [
+        {
+          "id": "fd342c3a-8ce4-4780-9535-2e9cdd5ee012",
+          "cases": 131336,
+          "deaths": 1843,
+          "recovered": 124818,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "a65dc5a6-113e-456d-965f-d114ff5ff7a4",
+          "cases": 77263,
+          "deaths": 1335,
+          "recovered": 71313,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "ecd7a6d5-2adf-4451-a348-8d65c88b87d5",
+          "cases": 0,
+          "deaths": 1,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "91d69de6-f681-40e1-8083-35044fd43f47",
+          "cases": 13,
+          "deaths": 0,
+          "recovered": 13,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "826b8e4e-c3e6-4a8d-a240-56fdf09cb205",
+          "cases": 31483,
+          "deaths": 886,
+          "recovered": 29378,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "8f8133c2-7cf7-42ad-9d6b-97108bca4f65",
+          "cases": 1424,
+          "deaths": 26,
+          "recovered": 1313,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "2bfd3fc3-ebe4-49b0-b966-00eb94f55fe0",
+          "cases": 940,
+          "deaths": 4,
+          "recovered": 526,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "ceb185b7-9dae-48ee-b410-533d83ef88ba",
+          "cases": 47,
+          "deaths": 0,
+          "recovered": 42,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "4e9485fd-9810-4461-8889-4a7af1d0f087",
+          "cases": 1610,
+          "deaths": 65,
+          "recovered": 1526,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "fa1051a5-4f70-4d36-929d-fd4805df0205",
+          "cases": 351,
+          "deaths": 1,
+          "recovered": 317,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "551ba3fc-e4a1-46f9-ac3a-1361d5d92544",
+          "cases": 298800,
+          "deaths": 6868,
+          "recovered": 281968,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "ab4a16a5-6323-484a-86c6-f569f7746ee9",
+          "cases": 114,
+          "deaths": 0,
+          "recovered": 112,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "0f59d3d4-24b9-4b70-8366-a11fa1cd74cf",
+          "cases": 282927,
+          "deaths": 10318,
+          "recovered": 264497,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "8ae0d820-53ec-42f0-8816-37078512e087",
+          "cases": 13,
+          "deaths": 0,
+          "recovered": 13,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "5fcb161e-92c2-4bb4-a192-f68cef24bea9",
+          "cases": 27797,
+          "deaths": 372,
+          "recovered": 25773,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "bc605c5b-c8d4-438a-9bc1-90c52ba0a2b8",
+          "cases": 72,
+          "deaths": 1,
+          "recovered": 69,
+          "per100": 0,
+          "vaccinations": 0
+        }
+      ],
+      "counties": []
+    },
+    {
+      "id": "e8586d83-a607-4e1f-a857-db686f169594",
+      "cases": 5001,
+      "deaths": 63,
+      "recovered": 4920,
+      "active": 18,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "5ecebda7-6085-4cde-91e1-3d7035b2d53a",
+      "cases": 3868,
+      "deaths": 135,
+      "recovered": 3336,
+      "active": 397,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "7c3dec52-8408-468a-b00d-026eb88ef37a",
+      "cases": 803009,
+      "deaths": 20126,
+      "recovered": 760577,
+      "active": 22307,
+      "per100": 0,
+      "vaccinations": 0,
+      "provinces": [
+        {
+          "id": "3f5d491c-b76d-479d-aceb-144174796a5e",
+          "cases": 36579,
+          "deaths": 739,
+          "recovered": 34469,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "e28262a9-c829-4708-9030-5e529a26500d",
+          "cases": 38191,
+          "deaths": 497,
+          "recovered": 36055,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "deefc4e0-d50d-4807-a8ef-2662257917cf",
+          "cases": 14754,
+          "deaths": 286,
+          "recovered": 13838,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "8435edd1-826d-4f3b-889b-d78aa1071913",
+          "cases": 11584,
+          "deaths": 147,
+          "recovered": 11031,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "628fb403-0496-40d2-aa21-96e90ff18ce9",
+          "cases": 2991,
+          "deaths": 24,
+          "recovered": 2845,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "689a35af-5bc9-48b7-83d5-c4bcf88a2333",
+          "cases": 69933,
+          "deaths": 1239,
+          "recovered": 65726,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "38fd6df8-dee4-4d3c-9cf0-596a0134cab8",
+          "cases": 19972,
+          "deaths": 389,
+          "recovered": 18734,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "c6e3c188-e4a7-4a90-b922-e9c238569f9d",
+          "cases": 49869,
+          "deaths": 579,
+          "recovered": 47526,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "0e0626f3-f2e1-487e-9956-795829ba6e61",
+          "cases": 18165,
+          "deaths": 207,
+          "recovered": 16975,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "c68847b1-7cff-4606-9721-5d0a730b948d",
+          "cases": 21544,
+          "deaths": 307,
+          "recovered": 20820,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "40a2414a-b219-41dd-bc5e-bfb6a8dbc040",
+          "cases": 41678,
+          "deaths": 825,
+          "recovered": 39122,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "05dd5d2b-5ca6-4f20-a718-8d7afdae2c28",
+          "cases": 359659,
+          "deaths": 11848,
+          "recovered": 342447,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "fb02572a-5f93-4ff8-99e3-bd281d72055b",
+          "cases": 16349,
+          "deaths": 316,
+          "recovered": 15317,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "a37a7daa-b84d-42bb-9480-6d2c242663b5",
+          "cases": 29280,
+          "deaths": 752,
+          "recovered": 27680,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "99fd9837-22d9-42b2-a582-95a579b17fde",
+          "cases": 24086,
+          "deaths": 407,
+          "recovered": 22861,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "fcc9dcf8-b7fc-4b79-bb0b-233ed631c5bb",
+          "cases": 50,
+          "deaths": 1,
+          "recovered": 50,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "71377830-d7ff-47f7-a911-fa5245a04b78",
+          "cases": 48325,
+          "deaths": 1563,
+          "recovered": 45081,
+          "per100": 0,
+          "vaccinations": 0
+        }
+      ],
+      "counties": []
+    },
+    {
+      "id": "f261405c-efc7-481d-ad67-74ece8c457cf",
+      "cases": 100784,
+      "deaths": 4833,
+      "recovered": 95293,
+      "active": 658,
+      "per100": 0,
+      "vaccinations": 0,
+      "provinces": [
+        {
+          "id": "f9254046-e73d-49ef-8dec-3ad315558358",
+          "cases": 994,
+          "deaths": 6,
+          "recovered": 988,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "3522830f-9837-4de5-b0ca-18cbfd24b5ba",
+          "cases": 1047,
+          "deaths": 9,
+          "recovered": 1019,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "8cbc0403-cdef-47b9-ba8b-1c1d65eee985",
+          "cases": 591,
+          "deaths": 6,
+          "recovered": 585,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "3f1be892-ae52-4f4f-8a84-3252399f8ebd",
+          "cases": 549,
+          "deaths": 1,
+          "recovered": 544,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "9593f489-3fa6-4e8b-86d6-b3a4adc3a4b1",
+          "cases": 187,
+          "deaths": 2,
+          "recovered": 185,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "faed6b5a-7e39-4e01-b8ba-e47879136536",
+          "cases": 2196,
+          "deaths": 8,
+          "recovered": 2140,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "c2fd64dc-5d15-4592-ae50-3c8ae67cf0f8",
+          "cases": 267,
+          "deaths": 2,
+          "recovered": 265,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "5da34843-b7f5-4b5d-a0c7-dafe39fab6b9",
+          "cases": 147,
+          "deaths": 2,
+          "recovered": 145,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "88d25904-d125-4781-a864-aceddf8c932b",
+          "cases": 171,
+          "deaths": 6,
+          "recovered": 165,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "e3c02c79-a3be-4669-a5b3-2df704854462",
+          "cases": 1317,
+          "deaths": 7,
+          "recovered": 1172,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "43c17bae-0d77-4c7f-9c78-6dce6832b9ac",
+          "cases": 1610,
+          "deaths": 13,
+          "recovered": 1587,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "cd4d067e-d45a-4aff-adc4-ed6046983bca",
+          "cases": 1304,
+          "deaths": 22,
+          "recovered": 1281,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "743fba7b-f942-41ba-b19a-c05186161eed",
+          "cases": 10884,
+          "deaths": 197,
+          "recovered": 10404,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "52482c13-c250-40c3-8dcf-d4b1755f7885",
+          "cases": 68151,
+          "deaths": 4512,
+          "recovered": 63638,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "51fed832-6ec9-4bb6-9054-7b50dc56a344",
+          "cases": 1036,
+          "deaths": 4,
+          "recovered": 1025,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "5cd98d5b-a3dd-4c97-b871-4677b149406f",
+          "cases": 367,
+          "deaths": 1,
+          "recovered": 365,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "ab0f130b-c709-4572-ac6c-a23305b8e3bb",
+          "cases": 703,
+          "deaths": 0,
+          "recovered": 698,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "ac18d2ec-dc21-4e79-867c-416a6f3030ac",
+          "cases": 935,
+          "deaths": 1,
+          "recovered": 934,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "c3901d28-6e9b-43eb-9ea1-0479b6f73293",
+          "cases": 573,
+          "deaths": 3,
+          "recovered": 543,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "2b911927-5505-4817-bcaa-c6d25e2c5bd6",
+          "cases": 406,
+          "deaths": 2,
+          "recovered": 401,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "31072231-c93d-45be-a18b-7a7b6834e419",
+          "cases": 48,
+          "deaths": 0,
+          "recovered": 47,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "203feb52-9fe6-46c4-a37f-940ccb850d75",
+          "cases": 75,
+          "deaths": 0,
+          "recovered": 75,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "2aababce-427f-48e1-9c06-77760767bbf9",
+          "cases": 18,
+          "deaths": 0,
+          "recovered": 18,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "6d047530-6b56-4731-a147-22ebd9e6b4a9",
+          "cases": 547,
+          "deaths": 3,
+          "recovered": 536,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "987af200-6e4e-4457-a78b-de8a14b7b58c",
+          "cases": 867,
+          "deaths": 7,
+          "recovered": 860,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "2ed01f59-2fd6-4581-8e88-23414435072a",
+          "cases": 1783,
+          "deaths": 7,
+          "recovered": 1710,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "ca2eabc3-dee0-41f6-ba79-72a86ceb2c1e",
+          "cases": 240,
+          "deaths": 0,
+          "recovered": 237,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "de2e84d2-b40a-449a-8267-4383c6efe528",
+          "cases": 887,
+          "deaths": 3,
+          "recovered": 869,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "56c55b5a-859e-4d84-82ea-be6d1563a102",
+          "cases": 352,
+          "deaths": 3,
+          "recovered": 335,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "084555c2-4291-4abb-bdb1-b423a7e37034",
+          "cases": 1,
+          "deaths": 0,
+          "recovered": 1,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "43ce3dbb-ce77-4174-98a8-e9eddcd5735a",
+          "cases": 0,
+          "deaths": 0,
+          "recovered": 5,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "ee5d6037-e4a2-4b91-aaf1-6225bd788fa2",
+          "cases": 980,
+          "deaths": 3,
+          "recovered": 977,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "3b23567c-01eb-4513-bf85-f8c7530ae867",
+          "cases": 231,
+          "deaths": 2,
+          "recovered": 229,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "0e3849e5-fb4c-4a08-9546-df04f981eecd",
+          "cases": 1320,
+          "deaths": 1,
+          "recovered": 1310,
+          "per100": 0,
+          "vaccinations": 0
+        }
+      ],
+      "counties": []
+    },
+    {
+      "id": "152773b8-dd43-4ca4-9815-178903ebb419",
+      "cases": 2229663,
+      "deaths": 58974,
+      "recovered": 2124695,
+      "active": 45994,
+      "per100": 0,
+      "vaccinations": 0,
+      "provinces": [
+        {
+          "id": "6040d221-cf2b-44ff-a802-a5dd64bec2a5",
+          "cases": 4780,
+          "deaths": 164,
+          "recovered": 4498,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "cbdc26d2-3218-4b3e-91ed-ae7c4a9ef86f",
+          "cases": 341322,
+          "deaths": 6409,
+          "recovered": 328944,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "52f39edc-cb42-46d7-b2fe-e19f8d1d4cbb",
+          "cases": 5539,
+          "deaths": 167,
+          "recovered": 5243,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "4cf3b3bb-07b3-4a36-b5f9-91876e7e9e36",
+          "cases": 121935,
+          "deaths": 4001,
+          "recovered": 116110,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "18f1e5a3-88c6-487b-86f1-f03c82996bd7",
+          "cases": 66408,
+          "deaths": 1345,
+          "recovered": 64478,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "4b1905fa-7159-4af9-ac05-c7980ec0170e",
+          "cases": 45671,
+          "deaths": 1063,
+          "recovered": 43404,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "219776b4-62a9-4b46-81ca-7ff5cd67eeb3",
+          "cases": 46305,
+          "deaths": 966,
+          "recovered": 44298,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "d3fac4ab-d1e2-4100-b80e-d12d09690882",
+          "cases": 652049,
+          "deaths": 13671,
+          "recovered": 622643,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "4cf5dba0-4d75-46ef-991a-992a33416694",
+          "cases": 16987,
+          "deaths": 626,
+          "recovered": 16037,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "f0e8bb49-dc7c-4b7d-a6c7-4660d28518dd",
+          "cases": 12212,
+          "deaths": 263,
+          "recovered": 11598,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "67ee5fa9-4a47-4127-a5c5-373ae664d020",
+          "cases": 27197,
+          "deaths": 739,
+          "recovered": 25805,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "1b3cfbcf-09fc-4adc-8881-c77108403ed6",
+          "cases": 40072,
+          "deaths": 1174,
+          "recovered": 38168,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "8bf133eb-d8c8-4bb8-87c0-a9766db3910d",
+          "cases": 6511,
+          "deaths": 199,
+          "recovered": 6238,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "7a9cd10b-81bb-4f6a-8413-bdc47f447b18",
+          "cases": 36561,
+          "deaths": 1806,
+          "recovered": 33739,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "2687f3c3-4f88-4f7a-9c2d-7264c45edbf7",
+          "cases": 104457,
+          "deaths": 2841,
+          "recovered": 99345,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "b1c2eac4-fa0e-4c59-b29b-7cd7391d7a40",
+          "cases": 1301,
+          "deaths": 22,
+          "recovered": 1272,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "1dfc84f1-4ed6-4f1d-a891-ddd76f6c54e8",
+          "cases": 2241,
+          "deaths": 40,
+          "recovered": 2168,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "0730ecb3-0758-4be2-bf06-fb523444ff72",
+          "cases": 49290,
+          "deaths": 1706,
+          "recovered": 47203,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "d8c4e6c0-8e20-48cd-aa17-f334f114128c",
+          "cases": 16082,
+          "deaths": 631,
+          "recovered": 15231,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "ae5df635-2a5d-41c3-83c2-266077d7c8d6",
+          "cases": 32752,
+          "deaths": 1257,
+          "recovered": 30677,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "037bd641-287a-4612-aa0a-f2704b7f8888",
+          "cases": 42081,
+          "deaths": 967,
+          "recovered": 40634,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "c2aa8993-c954-4f16-8925-c02cf2ac5861",
+          "cases": 48461,
+          "deaths": 1581,
+          "recovered": 45775,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "d7d5fd46-df89-449a-87b6-f1ab0c3d74db",
+          "cases": 50462,
+          "deaths": 2685,
+          "recovered": 46960,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "25ea7ae6-caaf-477c-acb7-10bfabe2253f",
+          "cases": 7790,
+          "deaths": 310,
+          "recovered": 7251,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "fab62a15-11f4-4f93-9b79-8e5a8ac8d671",
+          "cases": 31702,
+          "deaths": 937,
+          "recovered": 30230,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "7348249c-5a17-4da5-8444-45265c1580ba",
+          "cases": 45813,
+          "deaths": 1130,
+          "recovered": 43848,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "dfdb7ddf-f8b6-4ed8-9a19-adc5d8cbb62b",
+          "cases": 2697,
+          "deaths": 45,
+          "recovered": 2640,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "0a604525-2b56-4127-83aa-b0b6efd0d19e",
+          "cases": 89889,
+          "deaths": 3254,
+          "recovered": 84180,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "efa4309a-8def-4b6d-a16d-ad4d37c4450c",
+          "cases": 20359,
+          "deaths": 763,
+          "recovered": 19187,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "20b089c9-70da-48ae-9d3a-05333f1a2da1",
+          "cases": 64949,
+          "deaths": 2078,
+          "recovered": 61893,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "3826ae91-7c76-49e0-bb3f-ea16b3bd1ffc",
+          "cases": 0,
+          "deaths": 0,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "6bc257e4-90b8-4a5b-9baf-755b68a34c67",
+          "cases": 193277,
+          "deaths": 6100,
+          "recovered": 182532,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "2ce9c272-062c-49b7-83fa-111fc3f56b88",
+          "cases": 1152,
+          "deaths": 13,
+          "recovered": 1135,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "dea587a1-5fa2-476c-a420-8ca4f92a7a9b",
+          "cases": 1359,
+          "deaths": 21,
+          "recovered": 1331,
+          "per100": 0,
+          "vaccinations": 0
+        }
+      ],
+      "counties": []
+    },
+    {
+      "id": "15d28b62-b567-40a5-80f1-d2508900c996",
+      "cases": 3518,
+      "deaths": 144,
+      "recovered": 3130,
+      "active": 244,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "2be0cd71-d585-47a5-aab3-a24fefc4d152",
+      "cases": 8625,
+      "deaths": 127,
+      "recovered": 7019,
+      "active": 1479,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "c03d4351-0327-4fe6-a618-1779e61ce6b0",
+      "cases": 25144,
+      "deaths": 700,
+      "recovered": 16135,
+      "active": 8309,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "b5d3f6c8-d30c-48b1-b808-c71651a11fd9",
+      "cases": 202674,
+      "deaths": 2782,
+      "recovered": 172280,
+      "active": 27612,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "80711eca-01bf-4321-9e14-32c7b5e37f0a",
+      "cases": 32039,
+      "deaths": 188,
+      "recovered": 30768,
+      "active": 1083,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "d82bca47-5006-4ef9-9437-5a52273e2f65",
+      "cases": 240017,
+      "deaths": 5449,
+      "recovered": 232457,
+      "active": 2111,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "663ae6f9-dc26-430e-8da6-56e76d016b46",
+      "cases": 45361,
+      "deaths": 300,
+      "recovered": 40037,
+      "active": 5024,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "0bb610b1-31a3-4fb1-8df6-5952359bbbff",
+      "cases": 33391,
+      "deaths": 230,
+      "recovered": 2057,
+      "active": 31104,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "7a28f328-ed15-4c8d-8028-fe9c6466c2a2",
+      "cases": 1157180,
+      "deaths": 19330,
+      "recovered": 1017406,
+      "active": 120444,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "15a9c74b-774c-4889-a484-f5b437db031b",
+      "cases": 208027,
+      "deaths": 2343,
+      "recovered": 199818,
+      "active": 5866,
+      "per100": 0,
+      "vaccinations": 0,
+      "provinces": [
+        {
+          "id": "8e0ad7e1-b4e5-4aca-8c56-4d5e942f3596",
+          "cases": 658,
+          "deaths": 1,
+          "recovered": 655,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "f4eb418c-cdcf-44ed-994a-644423abe51e",
+          "cases": 30,
+          "deaths": 0,
+          "recovered": 30,
+          "per100": 0,
+          "vaccinations": 0
+        }
+      ],
+      "counties": []
+    },
+    {
+      "id": "ef06d561-c93f-4bfc-ada0-90f0dc8ca8de",
+      "cases": 712,
+      "deaths": 13,
+      "recovered": 699,
+      "active": 0,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "49c7f0af-7017-407c-b79b-444eee540284",
+      "cases": 6026,
+      "deaths": 63,
+      "recovered": 5879,
+      "active": 84,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "a8e189dd-698a-41ce-9c3c-098207c9426b",
+      "cases": 134,
+      "deaths": 0,
+      "recovered": 121,
+      "active": 13,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "a39281d5-53f3-43cd-8097-eb39e614badc",
+      "cases": 235882,
+      "deaths": 3048,
+      "recovered": 185964,
+      "active": 46870,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "aa86bfa7-dda9-4c3e-b6ca-23adf9956dd0",
+      "cases": 274968,
+      "deaths": 15547,
+      "recovered": 238817,
+      "active": 20604,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "acb817c5-6074-494b-9b8b-377f9addf5ac",
+      "cases": 178774,
+      "deaths": 10404,
+      "recovered": 138183,
+      "active": 30187,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "2b45f0da-c38a-429b-af71-a66d9391c756",
+      "cases": 59235,
+      "deaths": 1807,
+      "recovered": 54324,
+      "active": 3104,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "467e4f4b-1574-426e-97e9-17512eee7566",
+      "cases": 5798,
+      "deaths": 89,
+      "recovered": 5488,
+      "active": 221,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "53ebb667-31a5-46f3-9b64-0b317c89d4d4",
+      "cases": 2703,
+      "deaths": 7,
+      "recovered": 2068,
+      "active": 628,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "b56434ba-4d70-414a-84d0-76a0f4db1601",
+      "cases": 58445,
+      "deaths": 540,
+      "recovered": 45352,
+      "active": 12553,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "dbf2db5a-0818-4f3c-adcd-40805fc0a46b",
+      "cases": 16807,
+      "deaths": 645,
+      "recovered": 13415,
+      "active": 2747,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "568f3458-531e-4cd0-a892-745b30279ac9",
+      "cases": 153541,
+      "deaths": 2293,
+      "recovered": 131713,
+      "active": 19535,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "a70f92d8-079e-4ecf-a310-5663166cfb92",
+      "cases": 56,
+      "deaths": 2,
+      "recovered": 54,
+      "active": 0,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "ab4ecd6a-8597-44cd-936b-642750e528c5",
+      "cases": 54132,
+      "deaths": 733,
+      "recovered": 40000,
+      "active": 13399,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "3567507f-440b-4642-aee3-7520fe1ede4e",
+      "cases": 3588972,
+      "deaths": 84185,
+      "recovered": 224657,
+      "active": 3280130,
+      "per100": 0,
+      "vaccinations": 0,
+      "provinces": [
+        {
+          "id": "db6e63e8-dfd3-41bb-9601-6b67c73b1f64",
+          "cases": 16529,
+          "deaths": 83,
+          "recovered": 9995,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "05a108a0-6b5d-44ba-af28-077cb623ac6f",
+          "cases": 18354,
+          "deaths": 138,
+          "recovered": 4842,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "1e55c7ad-25ca-4a47-8b6a-3dfb8579efa8",
+          "cases": 9455,
+          "deaths": 160,
+          "recovered": 2242,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "f2e06a6d-c69d-4976-8a20-354f4cca2eff",
+          "cases": 6593,
+          "deaths": 45,
+          "recovered": 98,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "05e93f8c-9383-4773-b866-faf2e79169eb",
+          "cases": 15792,
+          "deaths": 92,
+          "recovered": 2964,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "3eb71598-aaa5-490c-9fe4-ff0d914171fe",
+          "cases": 55,
+          "deaths": 0,
+          "recovered": 55,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "927871ba-d356-462e-b992-b1c76f4061cc",
+          "cases": 11562,
+          "deaths": 48,
+          "recovered": 10576,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "dfbcdb99-79c0-4507-8219-d257a462401b",
+          "cases": 512,
+          "deaths": 1,
+          "recovered": 247,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "7c0c1271-479b-4bb1-91cc-0f1b390d7d8d",
+          "cases": 24,
+          "deaths": 0,
+          "recovered": 16,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "92519aa7-9bfa-4ac5-a264-dbb5c9f2d287",
+          "cases": 1497,
+          "deaths": 12,
+          "recovered": 1050,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "8660e9f0-de2d-48f6-adee-d6c25dc7c612",
+          "cases": 9,
+          "deaths": 0,
+          "recovered": 6,
+          "per100": 0,
+          "vaccinations": 0
+        }
+      ],
+      "counties": []
+    },
+    {
+      "id": "96dc48c7-0946-4547-81fa-d24234dafee3",
+      "cases": 13884,
+      "deaths": 76,
+      "recovered": 12561,
+      "active": 1247,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "9d4dacf1-c1e7-48a9-bf5d-7a657b4b8b07",
+      "cases": 4554,
+      "deaths": 144,
+      "recovered": 4011,
+      "active": 399,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "39d962f4-43ec-431c-8750-964d1389919f",
+      "cases": 268502,
+      "deaths": 3447,
+      "recovered": 262244,
+      "active": 2811,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "950d628c-252f-4846-86d7-c05fd5cd9f44",
+      "cases": 2395078,
+      "deaths": 68363,
+      "recovered": 2212439,
+      "active": 114276,
+      "per100": 0,
+      "vaccinations": 0,
+      "provinces": [
+        {
+          "id": "af5759c7-c47d-4177-9cff-2a13f462d559",
+          "cases": 311557,
+          "deaths": 7966,
+          "recovered": 291767,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "8cfe9d10-f98c-4129-a704-3156c6843a2a",
+          "cases": 429474,
+          "deaths": 12178,
+          "recovered": 399692,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "9afc3a8c-057f-4c5b-a2a9-4ab14be3d25d",
+          "cases": 127196,
+          "deaths": 2741,
+          "recovered": 119576,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "2b4e99b8-82e4-4fc4-8ec2-f04d09ee9964",
+          "cases": 75052,
+          "deaths": 2938,
+          "recovered": 67924,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "55682476-fcbf-46e7-b93d-b363f3def145",
+          "cases": 17523,
+          "deaths": 330,
+          "recovered": 16352,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "37319bba-e311-4f3e-adc3-ec13579c36ae",
+          "cases": 50524,
+          "deaths": 1224,
+          "recovered": 45635,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "69d2b34f-9427-41ee-a1e5-b0d757caf03b",
+          "cases": 184753,
+          "deaths": 5714,
+          "recovered": 169743,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "6b53e257-85cb-4a7d-a0f8-a9e76996fffa",
+          "cases": 23509,
+          "deaths": 706,
+          "recovered": 20688,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "f30d13b2-755a-49c1-8659-1dbeed311fed",
+          "cases": 159654,
+          "deaths": 4144,
+          "recovered": 145759,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "d9087d95-11ee-47ac-958b-faa4c9db60fd",
+          "cases": 522184,
+          "deaths": 12720,
+          "recovered": 483618,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "91f95e86-fb5a-4cc8-9b61-474c0ca8fd44",
+          "cases": 100365,
+          "deaths": 3020,
+          "recovered": 92333,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "f5cbcf73-4f10-4e67-adeb-4a839be2fb40",
+          "cases": 28235,
+          "deaths": 860,
+          "recovered": 26293,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "b2939cfe-785a-4fe9-8110-3ef31e8a976c",
+          "cases": 191064,
+          "deaths": 7494,
+          "recovered": 176800,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "d44f35a9-e30d-44b5-a1e1-03bc78b5d7a7",
+          "cases": 58951,
+          "deaths": 2334,
+          "recovered": 53044,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "fabb21e4-ac8e-4322-afbd-200df4e68323",
+          "cases": 41210,
+          "deaths": 1230,
+          "recovered": 36597,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "948c7d95-4615-439f-8be1-af0e977060d6",
+          "cases": 73827,
+          "deaths": 2764,
+          "recovered": 66618,
+          "per100": 0,
+          "vaccinations": 0
+        }
+      ],
+      "counties": [
+        {
+          "id": "82162f99-6dec-4649-8a52-a76df79544f8",
+          "cases": 5212,
+          "recovered": 0,
+          "deaths": 149,
+          "per100": 2200,
+          "per100last7days": 63.7,
+          "vaccinations": 0
+        },
+        {
+          "id": "b01c61f6-8956-43d8-aa97-4a40ef7571fd",
+          "cases": 8732,
+          "recovered": 0,
+          "deaths": 417,
+          "per100": 2832,
+          "per100last7days": 63.2,
+          "vaccinations": 0
+        },
+        {
+          "id": "ff5031f8-3d2e-4c32-86f9-27eec45f043a",
+          "cases": 25780,
+          "recovered": 0,
+          "deaths": 581,
+          "per100": 3377,
+          "per100last7days": 54.8,
+          "vaccinations": 0
+        },
+        {
+          "id": "0bb8d4d5-ea38-4414-af07-6fbadd769698",
+          "cases": 3786,
+          "recovered": 0,
+          "deaths": 74,
+          "per100": 1716,
+          "per100last7days": 33.1,
+          "vaccinations": 0
+        },
+        {
+          "id": "6e42420e-a895-4114-bec1-4ebe4aac35f7",
+          "cases": 5372,
+          "recovered": 0,
+          "deaths": 100,
+          "per100": 7104,
+          "per100last7days": 25.4,
+          "vaccinations": 0
+        },
+        {
+          "id": "962b8a14-5a86-418e-9557-63179fba4cf7",
+          "cases": 10358,
+          "recovered": 0,
+          "deaths": 258,
+          "per100": 2311,
+          "per100last7days": 49.1,
+          "vaccinations": 0
+        }
+      ]
+    },
+    {
+      "id": "904cfe7a-afaa-4d41-9b19-2a22d99f9050",
+      "cases": 80759,
+      "deaths": 582,
+      "recovered": 73365,
+      "active": 6812,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "8eb69f89-8f70-4884-8402-6455d5f36625",
+      "cases": 180672,
+      "deaths": 6321,
+      "recovered": 93764,
+      "active": 80587,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "a77e2806-6690-4865-99b2-ae9599932c6a",
+      "cases": 148,
+      "deaths": 1,
+      "recovered": 147,
+      "active": 0,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "b164c86b-2853-4344-a556-8d9137d13522",
+      "cases": 171289,
+      "deaths": 6306,
+      "recovered": 158501,
+      "active": 6482,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "c0287a23-814b-46e2-81ed-b25958fa909a",
+      "cases": 15427,
+      "deaths": 86,
+      "recovered": 14736,
+      "active": 605,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "bc9f9208-bd0d-46f4-b6db-2102559cb4e8",
+      "cases": 3115,
+      "deaths": 47,
+      "recovered": 2555,
+      "active": 513,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "e3dc84fe-f377-4896-b868-e241406ca0ce",
+      "cases": 8427,
+      "deaths": 189,
+      "recovered": 7774,
+      "active": 464,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "10bb32d5-7014-467f-9ccf-a3eb17ae89cf",
+      "cases": 12309,
+      "deaths": 247,
+      "recovered": 9529,
+      "active": 2533,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "66365563-4c7f-4dcc-9e2f-c01842312d01",
+      "cases": 27,
+      "deaths": 0,
+      "recovered": 15,
+      "active": 12,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "9b173d2e-f5cb-43e9-b888-66c673a1768d",
+      "cases": 165737,
+      "deaths": 4024,
+      "recovered": 64781,
+      "active": 96932,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "8fe86e11-f663-49fb-8b1d-9658e41da806",
+      "cases": 405646,
+      "deaths": 14347,
+      "recovered": 308650,
+      "active": 82649,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "d3fb55d1-bbda-4bda-bb96-a7b6e5260815",
+      "cases": 6049,
+      "deaths": 29,
+      "recovered": 5995,
+      "active": 25,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "b57e1974-e3ac-44ba-b5a2-e6e1e6f10d88",
+      "cases": 11016434,
+      "deaths": 156463,
+      "recovered": 10712665,
+      "active": 147306,
+      "per100": 0,
+      "vaccinations": 0,
+      "provinces": [
+        {
+          "id": "5e17f90e-577c-4abe-b3eb-3e05a61d52ce",
+          "cases": 5015,
+          "deaths": 62,
+          "recovered": 4949,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "f77e0c5e-5856-4f73-9518-d8e4e00ca16e",
+          "cases": 889339,
+          "deaths": 7167,
+          "recovered": 881582,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "24648943-fa54-48c3-9980-d5faa727ed57",
+          "cases": 16836,
+          "deaths": 56,
+          "recovered": 16775,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "7409a965-fa60-4d3c-9c56-7d125d461458",
+          "cases": 217406,
+          "deaths": 1091,
+          "recovered": 214712,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "d81962c5-957b-4fbd-ab1e-0a5b3ce2e841",
+          "cases": 262244,
+          "deaths": 1536,
+          "recovered": 260147,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "c5067389-5610-4551-ad4d-a4c4aca2df1c",
+          "cases": 21463,
+          "deaths": 350,
+          "recovered": 20908,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "34eb6b95-9be3-4bfd-bc96-d50301d9c664",
+          "cases": 311159,
+          "deaths": 3806,
+          "recovered": 304355,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "9ae64038-3ecd-4cab-b151-778fd8ac9697",
+          "cases": 3402,
+          "deaths": 2,
+          "recovered": 3396,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "f3bd1bc6-b4d6-41f6-8b3d-72db8c9ebe57",
+          "cases": 638028,
+          "deaths": 10901,
+          "recovered": 626086,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "6fdcf689-ab80-498f-96a5-c89d11b05737",
+          "cases": 54591,
+          "deaths": 787,
+          "recovered": 53340,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "1b707c17-4d7e-4d21-95df-259901fe14d3",
+          "cases": 267419,
+          "deaths": 4406,
+          "recovered": 261281,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "c6b0b0de-7ca0-4630-b2fe-10b3e8b61b93",
+          "cases": 269836,
+          "deaths": 3042,
+          "recovered": 265920,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "4da3804e-a5d2-429d-afba-3ecf6b026475",
+          "cases": 58403,
+          "deaths": 995,
+          "recovered": 57181,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "e94ef4b0-59d1-479a-819f-fa595aabad69",
+          "cases": 125925,
+          "deaths": 1954,
+          "recovered": 123236,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "fd80d30b-bc30-4909-91be-485a02e4b2b0",
+          "cases": 119637,
+          "deaths": 1086,
+          "recovered": 118103,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "ec6cc28d-b33c-4978-a7f4-6f273b33369c",
+          "cases": 948466,
+          "deaths": 12299,
+          "recovered": 930087,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "fa35cbf8-ea18-4533-b9ca-7e6278be4e90",
+          "cases": 1036869,
+          "deaths": 4105,
+          "recovered": 977012,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "8fb89e37-32f4-42b0-8214-ae32d49c4286",
+          "cases": 9787,
+          "deaths": 130,
+          "recovered": 9620,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "49a21044-879d-4282-b7d0-74d675e263d8",
+          "cases": 295,
+          "deaths": 0,
+          "recovered": 215,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "30cafaf5-fe80-420a-b2aa-1c6047d55e12",
+          "cases": 259721,
+          "deaths": 3854,
+          "recovered": 253763,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "4c34be6f-77c1-455b-8735-b455a14f402c",
+          "cases": 2106094,
+          "deaths": 51806,
+          "recovered": 1999982,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "57f46770-5250-4797-b3d2-8275b22b21e7",
+          "cases": 29240,
+          "deaths": 373,
+          "recovered": 28818,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "825d854c-b78c-426f-ad7d-3486270db635",
+          "cases": 13954,
+          "deaths": 148,
+          "recovered": 13784,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "a5c963d7-dcd2-46cd-9fea-6fb15950407e",
+          "cases": 4410,
+          "deaths": 10,
+          "recovered": 4379,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "37a98b8e-d4b1-4a6e-86bd-1ca5a9b0d682",
+          "cases": 12192,
+          "deaths": 91,
+          "recovered": 12089,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "cbb01d00-e595-4453-8ccb-6d939bce7682",
+          "cases": 336705,
+          "deaths": 1914,
+          "recovered": 334166,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "ca12d2e7-4b83-4526-8156-9a388c4856c3",
+          "cases": 39600,
+          "deaths": 663,
+          "recovered": 38763,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "61f6c19e-f478-461a-bf8e-3397cf29a6a0",
+          "cases": 178847,
+          "deaths": 5769,
+          "recovered": 169911,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "5851579e-7b5c-4775-8490-d42065eeaf52",
+          "cases": 319626,
+          "deaths": 2785,
+          "recovered": 315635,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "39604ce1-e26d-419c-a9aa-773ad9bf2acf",
+          "cases": 6132,
+          "deaths": 135,
+          "recovered": 5948,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "67a1adea-12b4-4eab-a9e5-dfe458b70b22",
+          "cases": 848724,
+          "deaths": 12466,
+          "recovered": 832167,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "f8a3a9c1-3901-47f3-9797-a00ee44da167",
+          "cases": 297861,
+          "deaths": 1627,
+          "recovered": 294537,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "946da328-a9c2-4320-857d-890decdb3eeb",
+          "cases": 33398,
+          "deaths": 391,
+          "recovered": 32962,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "d77154f5-193d-43c2-bd07-285dc480222f",
+          "cases": 0,
+          "deaths": 0,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "dfcd5230-ccf6-47cb-ba5a-367c21145a36",
+          "cases": 602869,
+          "deaths": 8716,
+          "recovered": 591787,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "2d61e19f-a1fe-428f-9871-aaaedc0fefcf",
+          "cases": 97031,
+          "deaths": 1689,
+          "recovered": 94850,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "f89d52f7-28b5-4aad-9026-f44ded8be123",
+          "cases": 573910,
+          "deaths": 10251,
+          "recovered": 560219,
+          "per100": 0,
+          "vaccinations": 0
+        }
+      ],
+      "counties": []
+    },
+    {
+      "id": "32019ef5-5c2d-4a59-8ce3-9b01c9f123b5",
+      "cases": 1288833,
+      "deaths": 34691,
+      "recovered": 1096994,
+      "active": 157148,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "850cd05a-6699-44a9-9c7e-2bc1b4bb5e5e",
+      "cases": 1582275,
+      "deaths": 59572,
+      "recovered": 1351390,
+      "active": 171313,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "f1a76e38-5579-4130-97c7-4ee9e582e922",
+      "cases": 671801,
+      "deaths": 13295,
+      "recovered": 620745,
+      "active": 37761,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "27b6a573-965b-4347-9c06-938ad42e74c2",
+      "cases": 215743,
+      "deaths": 4137,
+      "recovered": 23364,
+      "active": 188242,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "c3ecdcfe-7566-4444-af4a-a75a4b5d13d4",
+      "cases": 754998,
+      "deaths": 5596,
+      "recovered": 709394,
+      "active": 40008,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "b70448fe-d1b9-4018-a967-7c287c12892e",
+      "cases": 2818863,
+      "deaths": 95992,
+      "recovered": 2334968,
+      "active": 387903,
+      "per100": 0,
+      "vaccinations": 0,
+      "provinces": [
+        {
+          "id": "b13e39a6-336f-4a42-8c86-b5ff4af9ebf9",
+          "cases": 51442,
+          "deaths": 1628,
+          "recovered": 36841,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "2fa000c2-78ac-4d2b-82a3-6fedfd52bb24",
+          "cases": 14886,
+          "deaths": 368,
+          "recovered": 10929,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "3eba7c3f-3e4e-40d5-a763-e679b660bf6d",
+          "cases": 36704,
+          "deaths": 667,
+          "recovered": 29695,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "3f73ecd4-9a84-40ff-b81b-198353577e15",
+          "cases": 254318,
+          "deaths": 4141,
+          "recovered": 178925,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "610e4f10-f697-4b5f-8144-b9d9393d0775",
+          "cases": 247856,
+          "deaths": 10368,
+          "recovered": 200972,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "9a63da2e-d9dc-4fa7-a054-d92d1457f36e",
+          "cases": 74108,
+          "deaths": 2775,
+          "recovered": 62042,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "971175d0-c8e0-473b-bb9d-77fe7246294d",
+          "cases": 226668,
+          "deaths": 5743,
+          "recovered": 185715,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "874e0050-905e-4304-838b-6d5db13bd99e",
+          "cases": 75910,
+          "deaths": 3584,
+          "recovered": 67328,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "6e9d8dcf-230b-4d46-ada0-c8215706fe81",
+          "cases": 580771,
+          "deaths": 28103,
+          "recovered": 499299,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "92e49954-67d5-4bd8-a578-c6cd01b2d6af",
+          "cases": 63856,
+          "deaths": 2195,
+          "recovered": 52752,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "ef8a84e2-a5e5-4ff3-91be-ac91d1287141",
+          "cases": 10157,
+          "deaths": 336,
+          "recovered": 8119,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "2df7e6b5-7f4a-4d4a-99c5-0fc99c79d73d",
+          "cases": 51773,
+          "deaths": 993,
+          "recovered": 43856,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "93a158c3-8c7f-4eeb-97d3-e229c64356d5",
+          "cases": 32042,
+          "deaths": 1196,
+          "recovered": 27853,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "a48a29bf-d402-439d-955e-c484bc01902b",
+          "cases": 239588,
+          "deaths": 9287,
+          "recovered": 217381,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "554e7070-ea03-4d2e-b4e5-0cfcacdcfbd4",
+          "cases": 140802,
+          "deaths": 3782,
+          "recovered": 104325,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "bfdabe5c-a3bd-4423-af8d-483449a303d9",
+          "cases": 40765,
+          "deaths": 1118,
+          "recovered": 26485,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "0d3985e9-7238-4b44-9711-92c8f7bf8bb7",
+          "cases": 149402,
+          "deaths": 4018,
+          "recovered": 116017,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "5d311126-4633-4b5d-89b4-1e0eb834e0d1",
+          "cases": 149732,
+          "deaths": 4562,
+          "recovered": 130383,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "89a989ca-b80d-4924-aeaa-a85f634d36e5",
+          "cases": 43089,
+          "deaths": 993,
+          "recovered": 33622,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "6e12d967-4af9-42a2-bbf8-88df59b2dd23",
+          "cases": 7978,
+          "deaths": 414,
+          "recovered": 7418,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "c4131d92-afec-47ae-a3d5-a4c7249ae1ce",
+          "cases": 327016,
+          "deaths": 9721,
+          "recovered": 295011,
+          "per100": 0,
+          "vaccinations": 0
+        }
+      ],
+      "counties": []
+    },
+    {
+      "id": "70f93a5b-1d28-40cd-9245-377ea4f3a862",
+      "cases": 21679,
+      "deaths": 399,
+      "recovered": 12988,
+      "active": 8292,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "b94eed75-6ef6-4fb5-b25e-937812377d34",
+      "cases": 425725,
+      "deaths": 7541,
+      "recovered": 400094,
+      "active": 18090,
+      "per100": 0,
+      "vaccinations": 0,
+      "provinces": [
+        {
+          "id": "4fe71a02-9006-4d6d-b18d-0d5e297cd1c3",
+          "cases": 25627,
+          "deaths": 507,
+          "recovered": 24108,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "b63d6bf9-d493-4e20-a6f2-d2a8c00ce054",
+          "cases": 269,
+          "deaths": 6,
+          "recovered": 255,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "f4985653-f429-4f90-84c5-d9cd6ae0753a",
+          "cases": 812,
+          "deaths": 19,
+          "recovered": 733,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "25eab40c-1d04-410b-8d1b-4138ef395b27",
+          "cases": 25687,
+          "deaths": 405,
+          "recovered": 23108,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "fa25280f-8a92-40fc-acea-1f8fb5b1b1eb",
+          "cases": 1052,
+          "deaths": 23,
+          "recovered": 987,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "bcc5c944-3752-44ac-a714-6e4c44f0d202",
+          "cases": 542,
+          "deaths": 25,
+          "recovered": 502,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "923ab6b1-0042-4f01-92d3-bbdbcbb9a8d8",
+          "cases": 17856,
+          "deaths": 272,
+          "recovered": 16519,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "47009ae7-94cf-4b8d-b4b1-35a639dee25a",
+          "cases": 1876,
+          "deaths": 70,
+          "recovered": 1716,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "af2205b4-9b9d-44cd-a70d-571b6ccb5a46",
+          "cases": 4574,
+          "deaths": 100,
+          "recovered": 4380,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "cbb531ae-b5ab-4820-a4ca-cdef1e028c26",
+          "cases": 4382,
+          "deaths": 83,
+          "recovered": 4107,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "6dba6332-9e36-4b0e-a0e5-e736e1f83f19",
+          "cases": 5005,
+          "deaths": 99,
+          "recovered": 4803,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "a4ec37ab-5a09-40cf-9fb0-2b5eaf547f6e",
+          "cases": 18828,
+          "deaths": 660,
+          "recovered": 17423,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "5eb14d18-2a4a-4a5c-9788-cf2fbfb305e5",
+          "cases": 17880,
+          "deaths": 505,
+          "recovered": 16658,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "216e8a01-5ff3-4e15-a945-fcec536e48c2",
+          "cases": 5600,
+          "deaths": 104,
+          "recovered": 5120,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "7702b400-7381-4816-a06c-0976738eea57",
+          "cases": 1799,
+          "deaths": 62,
+          "recovered": 1561,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "0889715b-252d-477e-bb9e-899eb0457401",
+          "cases": 553,
+          "deaths": 30,
+          "recovered": 492,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "de1659eb-5a6b-411a-b97c-cc61d7372454",
+          "cases": 741,
+          "deaths": 18,
+          "recovered": 684,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "acb16f4c-6de8-4e20-9e80-818396260121",
+          "cases": 1747,
+          "deaths": 26,
+          "recovered": 1668,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "c30e77ef-e6cb-4c80-98f0-1281709b1c4f",
+          "cases": 44234,
+          "deaths": 656,
+          "recovered": 42269,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "9ae477b7-0316-46b3-9070-2c0a60ff5fa5",
+          "cases": 884,
+          "deaths": 17,
+          "recovered": 859,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "393a0d9a-0343-4e79-af7f-bfaffe422050",
+          "cases": 3439,
+          "deaths": 73,
+          "recovered": 3299,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "9ef9c89c-7b5f-47d1-bc5d-876a702c908d",
+          "cases": 9024,
+          "deaths": 151,
+          "recovered": 8408,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "fe41de2a-6e33-4285-bcba-a705158e1a0b",
+          "cases": 2479,
+          "deaths": 50,
+          "recovered": 2249,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "b517b925-f273-4442-aaa1-e3208a233e6a",
+          "cases": 3604,
+          "deaths": 24,
+          "recovered": 3437,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "27d5d8d5-13e4-49ec-b894-90f41cdc5667",
+          "cases": 1942,
+          "deaths": 20,
+          "recovered": 1865,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "cb1848f4-5a76-48f3-9d53-486d5849d14d",
+          "cases": 2358,
+          "deaths": 40,
+          "recovered": 2327,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "7b0468fb-de28-4232-b3c6-66b65136732e",
+          "cases": 1605,
+          "deaths": 36,
+          "recovered": 1508,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "20f61452-d067-4d70-848b-4cf79e64aa7c",
+          "cases": 3275,
+          "deaths": 47,
+          "recovered": 3159,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "c2e2ae8c-518e-4770-820d-cb743b72a4b9",
+          "cases": 1033,
+          "deaths": 13,
+          "recovered": 935,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "26cde426-9592-4d87-90c5-f9464c3b1755",
+          "cases": 1286,
+          "deaths": 21,
+          "recovered": 1206,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "7b94796c-154c-401f-9f9c-12545fbfa5ff",
+          "cases": 2470,
+          "deaths": 32,
+          "recovered": 2340,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "91619097-d3f3-4036-b74a-10e0cacc1a8c",
+          "cases": 8120,
+          "deaths": 115,
+          "recovered": 7692,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "c7175cca-d16a-42db-b85f-292abf5e94f3",
+          "cases": 46644,
+          "deaths": 1092,
+          "recovered": 43706,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "fefa853b-e540-4b1c-bfc1-815ecb4e9839",
+          "cases": 2212,
+          "deaths": 2,
+          "recovered": 2169,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "06fb9ccd-6218-4d8e-90f0-23e279795eef",
+          "cases": 1028,
+          "deaths": 9,
+          "recovered": 1000,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "4d4b6496-3d82-44ca-955b-1a23d5fa3c50",
+          "cases": 28798,
+          "deaths": 526,
+          "recovered": 26390,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "618b22cc-edf6-4193-9b3a-8490a85c190c",
+          "cases": 2398,
+          "deaths": 44,
+          "recovered": 2207,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "3656c668-d27d-4e9c-b33a-bef4f2110ffe",
+          "cases": 288,
+          "deaths": 0,
+          "recovered": 277,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "fb456d4d-b978-4075-93af-e17a5b6835f4",
+          "cases": 5015,
+          "deaths": 92,
+          "recovered": 4669,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "f3e9805d-f712-42c5-bdb9-e3a75d5c7082",
+          "cases": 4045,
+          "deaths": 66,
+          "recovered": 3789,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "a17b713f-d299-4318-888e-e7db2bea9bc7",
+          "cases": 447,
+          "deaths": 16,
+          "recovered": 391,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "4e62057b-8cd3-469a-b9c8-7b6cf789b464",
+          "cases": 109142,
+          "deaths": 1271,
+          "recovered": 104317,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "5a149af5-f3ec-41a3-aee7-85c01c52deca",
+          "cases": 209,
+          "deaths": 2,
+          "recovered": 200,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "7f8a9838-07de-4cab-abb3-a946df15cf88",
+          "cases": 906,
+          "deaths": 27,
+          "recovered": 850,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "d5bd5f45-3f56-4663-b7f8-5dceababf1cb",
+          "cases": 8,
+          "deaths": 0,
+          "recovered": 8,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "0e63212d-d868-458c-9f52-db5950b4545e",
+          "cases": 1159,
+          "deaths": 17,
+          "recovered": 1094,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "14a71b26-f6fe-4eea-84bc-a4eba209f267",
+          "cases": 537,
+          "deaths": 15,
+          "recovered": 507,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "15e36384-ffaa-42f5-9a99-5b2ae1daba63",
+          "cases": 1369,
+          "deaths": 36,
+          "recovered": 1244,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "7b6c0a81-2125-489c-8999-220973c8a0d2",
+          "cases": 937,
+          "deaths": 17,
+          "recovered": 899,
+          "per100": 0,
+          "vaccinations": 0
+        }
+      ],
+      "counties": []
+    },
+    {
+      "id": "552460d7-6b10-4727-baec-914931e881de",
+      "cases": 368278,
+      "deaths": 4570,
+      "recovered": 337359,
+      "active": 26349,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "4913c4bc-5eb0-49e1-b0ed-35def775f0bb",
+      "cases": 257800,
+      "deaths": 3153,
+      "recovered": 233700,
+      "active": 20947,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "e49a4e47-42f0-49c6-bce1-34ec2ebf891a",
+      "cases": 104306,
+      "deaths": 1827,
+      "recovered": 85626,
+      "active": 16853,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "862d4ef0-7a62-4962-8074-7afbc9e76083",
+      "cases": 87681,
+      "deaths": 1573,
+      "recovered": 78394,
+      "active": 7714,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "87aca3a9-19a4-4498-a8f7-d3252a9ee9aa",
+      "cases": 66480,
+      "deaths": 1572,
+      "recovered": 58171,
+      "active": 6737,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "a2614e78-f1ac-4c89-a530-4e86a1721114",
+      "cases": 184989,
+      "deaths": 1049,
+      "recovered": 173182,
+      "active": 10758,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "ba8a5362-ee30-4bd0-96af-d11e503ece1e",
+      "cases": 85929,
+      "deaths": 1458,
+      "recovered": 82803,
+      "active": 1668,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "b10acbdc-1f29-409e-a443-f527216e632a",
+      "cases": 45,
+      "deaths": 0,
+      "recovered": 42,
+      "active": 3,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "41d7f14f-f267-49e1-901c-9b8d574278c3",
+      "cases": 81793,
+      "deaths": 1546,
+      "recovered": 70741,
+      "active": 9506,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "b991c86b-693c-4eb1-aeba-7592f1890526",
+      "cases": 356614,
+      "deaths": 4387,
+      "recovered": 272200,
+      "active": 80027,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "dc550f4d-d0b6-45de-a431-7ddb9c779fcc",
+      "cases": 10466,
+      "deaths": 288,
+      "recovered": 3354,
+      "active": 6824,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "bf206776-48e9-4f01-b8da-e8975450e9b3",
+      "cases": 1996,
+      "deaths": 85,
+      "recovered": 1856,
+      "active": 55,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "e008b2e5-98d6-4377-aa1b-0907db5faef5",
+      "cases": 130212,
+      "deaths": 2116,
+      "recovered": 116120,
+      "active": 11976,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "db232475-c263-4a84-a68e-44273e227043",
+      "cases": 2550,
+      "deaths": 54,
+      "recovered": 2484,
+      "active": 12,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "9a4a7dad-dc1a-4f6b-9da0-2bd2189d16fc",
+      "cases": 194333,
+      "deaths": 3178,
+      "recovered": 179624,
+      "active": 11531,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "dbee09bb-ca7b-4a00-be9a-ce81d6fd287f",
+      "cases": 54172,
+      "deaths": 628,
+      "recovered": 50931,
+      "active": 2613,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "257517d1-7581-43a2-b3a7-2b4b0a713035",
+      "cases": 9,
+      "deaths": 2,
+      "recovered": 7,
+      "active": 0,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "99393b29-a471-4b14-839f-620ef723281c",
+      "cases": 19831,
+      "deaths": 297,
+      "recovered": 19296,
+      "active": 238,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "2b6876c1-f50f-4afd-968b-5d2b146b83fc",
+      "cases": 30942,
+      "deaths": 1021,
+      "recovered": 17184,
+      "active": 12737,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "742143b6-c870-43d2-95c4-ed8b1c69360c",
+      "cases": 285761,
+      "deaths": 1062,
+      "recovered": 252623,
+      "active": 32076,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "e923fc53-ef14-462c-9f02-16f1f4abd11a",
+      "cases": 18930,
+      "deaths": 60,
+      "recovered": 16351,
+      "active": 2519,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "80d90386-9eb3-44f8-890a-925a3cf9ee83",
+      "cases": 8306,
+      "deaths": 348,
+      "recovered": 6303,
+      "active": 1655,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "687ea485-5e89-4b6c-bd56-2fa77115a1cd",
+      "cases": 21085,
+      "deaths": 305,
+      "recovered": 18309,
+      "active": 2471,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "797f2dda-df2b-4a7f-a4bd-2bdaa3d49c14",
+      "cases": 4,
+      "deaths": 0,
+      "recovered": 4,
+      "active": 0,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "7fd030d7-eea5-4359-896a-b96ff46b6af4",
+      "cases": 17110,
+      "deaths": 435,
+      "recovered": 16438,
+      "active": 237,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "d12c3ae4-37ef-43a0-b2a1-eb9ff807c485",
+      "cases": 603,
+      "deaths": 10,
+      "recovered": 556,
+      "active": 37,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "1691af50-fba7-4b21-b69c-3441f00cd976",
+      "cases": 2043632,
+      "deaths": 180536,
+      "recovered": 1602024,
+      "active": 261072,
+      "per100": 0,
+      "vaccinations": 0,
+      "provinces": [
+        {
+          "id": "4c0cb0ff-a352-489d-bdcd-8aea368d1e65",
+          "cases": 22668,
+          "deaths": 1951,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "8ff84879-2d4e-4996-9c4f-464dd2b5ef22",
+          "cases": 44261,
+          "deaths": 7287,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "0c03f2e0-03c5-4df0-9103-0847db2b7e5d",
+          "cases": 25927,
+          "deaths": 1155,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "c19952b4-1f0f-4b20-9e3a-0ecdf0fd54a6",
+          "cases": 8400,
+          "deaths": 1055,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "fe4952ac-abd1-416c-99b8-2caf31b20212",
+          "cases": 9898,
+          "deaths": 1415,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "ca44ad2b-4ad1-4510-8aa5-a901e8a5b4a8",
+          "cases": 42509,
+          "deaths": 5110,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "9ddaaee0-9584-4e9c-a5f7-586c3ce3a87f",
+          "cases": 540628,
+          "deaths": 26345,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "074ba27a-a5dd-4b95-b635-1923da73cd3d",
+          "cases": 64042,
+          "deaths": 5606,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "1a8347ef-4975-4e7d-8841-4e838e4e041b",
+          "cases": 10240,
+          "deaths": 1040,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "af2942e9-5cb9-42c3-a7b8-a38941f9c856",
+          "cases": 30549,
+          "deaths": 2043,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "63bfcf23-c5a2-4823-8846-7887d17fc78d",
+          "cases": 117063,
+          "deaths": 8779,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "a277cdef-7bbf-41b4-9775-8767dcc9823f",
+          "cases": 34755,
+          "deaths": 3530,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "d08e6d52-9098-4e4e-bfc0-0d4fe6965df8",
+          "cases": 33966,
+          "deaths": 5348,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "0ac61518-975c-4ba1-8194-29a01f206e22",
+          "cases": 76363,
+          "deaths": 10172,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "432f0ac1-4772-4068-aa0f-2c14bd704268",
+          "cases": 42688,
+          "deaths": 4344,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "22d3b5ed-4925-41c1-b1cb-5640501bbebc",
+          "cases": 25222,
+          "deaths": 2217,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "072daa28-7067-46cb-a86a-3872d03e2067",
+          "cases": 10697,
+          "deaths": 1585,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "b84b38b5-368a-4b6d-8ffc-e8f74be7ef5e",
+          "cases": 113812,
+          "deaths": 7920,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "3c420695-d29c-49d7-b8b3-a4d83ae5e656",
+          "cases": 39626,
+          "deaths": 2811,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "2acb8c66-751f-4901-b0f9-9243f9fb8a37",
+          "cases": 68786,
+          "deaths": 8453,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "732836d4-43f1-4743-ba33-7a8ab72a40f4",
+          "cases": 54883,
+          "deaths": 3289,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "f81bca7c-77d2-48d7-aa13-5e4602e7795a",
+          "cases": 19917,
+          "deaths": 2372,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "f7fa6d97-ebf2-4677-8b81-30171df17023",
+          "cases": 56212,
+          "deaths": 4401,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "eb3454f4-d103-46e0-a91d-61e35a4afffc",
+          "cases": 33502,
+          "deaths": 5103,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "71bfe08e-9a8d-4f31-99d3-b7ffd1a1ab39",
+          "cases": 67011,
+          "deaths": 5883,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "62e8c7c8-388b-4cda-811e-664bcf160ecb",
+          "cases": 56556,
+          "deaths": 3676,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "004dd9e4-c96c-42d3-ae1e-dbfcff468290",
+          "cases": 51075,
+          "deaths": 4296,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "b355adc7-5383-4b29-9370-26dfb291cb4b",
+          "cases": 16824,
+          "deaths": 2093,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "860c3735-1e04-4f42-82b3-cc6635a8c06b",
+          "cases": 0,
+          "deaths": 0,
+          "recovered": 1602024,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "517df2a0-b58c-426d-ae37-71ab77478d1b",
+          "cases": 54398,
+          "deaths": 7958,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "5a1874d5-48e4-4c6f-9b8c-e1cc2139339f",
+          "cases": 32156,
+          "deaths": 3023,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "efe23066-ac93-40f5-8c10-8fb2fc682f7b",
+          "cases": 27080,
+          "deaths": 2391,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        }
+      ],
+      "counties": []
+    },
+    {
+      "id": "02422be3-f01d-44e1-a15f-5fe0e29edfd9",
+      "cases": 1,
+      "deaths": 0,
+      "recovered": 1,
+      "active": 0,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "d03341d3-63ad-44de-95fb-b060c7326240",
+      "cases": 177407,
+      "deaths": 3799,
+      "recovered": 162595,
+      "active": 11013,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "edf1d8c8-c16c-428b-add8-c164a7361495",
+      "cases": 1885,
+      "deaths": 22,
+      "recovered": 1657,
+      "active": 206,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "10d16bc8-e5a6-4bae-9d46-8039e20a2aba",
+      "cases": 2723,
+      "deaths": 2,
+      "recovered": 2003,
+      "active": 718,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "5c8113d6-373a-4af0-aa56-ec39859ee32a",
+      "cases": 72395,
+      "deaths": 957,
+      "recovered": 63280,
+      "active": 8158,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "b3b8feab-7bcb-4bcb-a0dd-782fbc0f1c74",
+      "cases": 481263,
+      "deaths": 8559,
+      "recovered": 465297,
+      "active": 7407,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "a9c3af19-adbd-4cd6-814d-8abfbd0167cf",
+      "cases": 56160,
+      "deaths": 599,
+      "recovered": 36224,
+      "active": 19337,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "fcadfa84-b9e1-4293-852f-538e5f4dde46",
+      "cases": 37742,
+      "deaths": 406,
+      "recovered": 35273,
+      "active": 2063,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "02ba0a55-c943-48ae-b485-ced489dff5c5",
+      "cases": 273556,
+      "deaths": 2061,
+      "recovered": 269966,
+      "active": 1529,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "6f8fba5c-c409-4408-8bf5-01345bb5ed00",
+      "cases": 1075425,
+      "deaths": 15372,
+      "recovered": 14117,
+      "active": 1045936,
+      "per100": 0,
+      "vaccinations": 0,
+      "provinces": [
+        {
+          "id": "1711f5e0-769c-4448-9849-601b6e532ea0",
+          "cases": 7692,
+          "deaths": 71,
+          "recovered": 7361,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "6aaae7cb-f82e-44ad-a9b5-c5d09959346c",
+          "cases": 196,
+          "deaths": 3,
+          "recovered": 180,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "c33d8171-39af-46e2-8362-99435fe78761",
+          "cases": 4694,
+          "deaths": 22,
+          "recovered": 4610,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "f9e727ef-5c04-4ffe-9b1e-844469b8ab88",
+          "cases": 21039,
+          "deaths": 276,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "9effddaf-1ac2-4d63-b422-558442a10ed9",
+          "cases": 25315,
+          "deaths": 207,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "6c9053ab-d81d-436a-9dcd-4e8de5d7aab1",
+          "cases": 25271,
+          "deaths": 372,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "0ca803cd-a13d-4cd7-8f82-3a00c5aa9cb5",
+          "cases": 119495,
+          "deaths": 1780,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "fa012141-143b-4771-8553-e3b260279621",
+          "cases": 25055,
+          "deaths": 192,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "635213fb-3abf-49fe-a161-ab88f194666c",
+          "cases": 69949,
+          "deaths": 1407,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "92f6c2b3-fb46-4d84-bac1-858bd9c9e379",
+          "cases": 166863,
+          "deaths": 2846,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "72ec1d7b-c566-4f47-be28-277916ea1202",
+          "cases": 180576,
+          "deaths": 2206,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "151d1475-b664-477e-b481-4c3aaa276177",
+          "cases": 74359,
+          "deaths": 1018,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "a125b4d0-1a2b-4d5d-80ea-e245cfc05396",
+          "cases": 2042,
+          "deaths": 27,
+          "recovered": 1966,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "e632c0e8-f731-4982-b1e3-9ce03472e814",
+          "cases": 1684,
+          "deaths": 10,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "b88871ca-31ad-445e-903c-574ac169a701",
+          "cases": 84449,
+          "deaths": 1111,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "130f36c8-79b5-4711-900c-542e099d541e",
+          "cases": 15987,
+          "deaths": 171,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "586179c1-ff40-43d0-bbac-d8a105ac2c47",
+          "cases": 250759,
+          "deaths": 3653,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        }
+      ],
+      "counties": []
+    },
+    {
+      "id": "24a504ce-18df-4876-bab4-aa8f0cfe4ba5",
+      "cases": 2363,
+      "deaths": 26,
+      "recovered": 2277,
+      "active": 60,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "8c8bb6e9-e888-4a5f-8e22-0de9d0ac51f6",
+      "cases": 6398,
+      "deaths": 172,
+      "recovered": 4225,
+      "active": 2001,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "9c0461c3-d246-4410-bc21-46447e190f70",
+      "cases": 4740,
+      "deaths": 172,
+      "recovered": 4250,
+      "active": 318,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "073df460-1c82-442c-9509-7f57e244c5ff",
+      "cases": 152616,
+      "deaths": 1862,
+      "recovered": 129300,
+      "active": 21454,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "e74d0c6e-1056-4dba-95b5-7b933b7de866",
+      "cases": 99408,
+      "deaths": 3076,
+      "recovered": 89742,
+      "active": 6590,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "f6d7c167-6871-4fd4-b120-5665e321f6f8",
+      "cases": 68758,
+      "deaths": 608,
+      "recovered": 17998,
+      "active": 50152,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "6d1b5eff-651d-4e7c-8435-db64c9c253c4",
+      "cases": 139692,
+      "deaths": 1555,
+      "recovered": 130653,
+      "active": 7484,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "be2914e8-0b97-442a-b1ea-a89037339194",
+      "cases": 573384,
+      "deaths": 12658,
+      "recovered": 536243,
+      "active": 24483,
+      "per100": 0,
+      "vaccinations": 0,
+      "provinces": [
+        {
+          "id": "23ae22f4-8429-4124-b804-4a043ab06d8b",
+          "cases": 9878,
+          "deaths": 291,
+          "recovered": 9012,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "df558c64-20c7-4b81-b719-5dcff6efe0b9",
+          "cases": 18993,
+          "deaths": 199,
+          "recovered": 18713,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "a0fffe73-fc80-4884-aa35-64694904a46b",
+          "cases": 4951,
+          "deaths": 102,
+          "recovered": 4826,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "53a387ed-0500-4c30-8bb5-3d37bec7c715",
+          "cases": 43623,
+          "deaths": 493,
+          "recovered": 41451,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "fa7c1f8a-3808-4c9c-a184-2486244e2262",
+          "cases": 71146,
+          "deaths": 2043,
+          "recovered": 67007,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "a9245ce3-54e1-4a2e-a859-1127e76661eb",
+          "cases": 168348,
+          "deaths": 5237,
+          "recovered": 155948,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "3e94251b-5aef-4c96-92c6-e3f869f877b2",
+          "cases": 256445,
+          "deaths": 4293,
+          "recovered": 239286,
+          "per100": 0,
+          "vaccinations": 0
+        }
+      ],
+      "counties": []
+    },
+    {
+      "id": "8d619b47-ce82-435d-8a70-ee8addf2c95a",
+      "cases": 337087,
+      "deaths": 5756,
+      "recovered": 321439,
+      "active": 9892,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "1af0e44d-6aae-4d1f-8e26-c00522ae868b",
+      "cases": 1056,
+      "deaths": 10,
+      "recovered": 846,
+      "active": 200,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "e4ff8db7-d292-4d3a-8e34-79f2441ca3f2",
+      "cases": 152658,
+      "deaths": 3080,
+      "recovered": 127819,
+      "active": 21759,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "66d235b0-b206-479f-9345-51b7c11e598c",
+      "cases": 1283309,
+      "deaths": 45097,
+      "recovered": 1183238,
+      "active": 54974,
+      "per100": 0,
+      "vaccinations": 0,
+      "provinces": [
+        {
+          "id": "c47d63bb-75b3-4b11-8fdc-a6afa4f8a2a5",
+          "cases": 20845,
+          "deaths": 313,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "72d1c707-bfa6-4d2a-b766-b37bc3a65964",
+          "cases": 41603,
+          "deaths": 1815,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "fa01e349-f4cc-4283-8cb2-9b8518e50855",
+          "cases": 11035,
+          "deaths": 256,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "dc131dfc-5457-41b3-be4a-420cd09c007e",
+          "cases": 59168,
+          "deaths": 1953,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "7981cca2-b848-49bf-8c8a-26b49bf09084",
+          "cases": 18760,
+          "deaths": 478,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "86b5f198-e7d2-43df-bc88-5eddf63d13b8",
+          "cases": 31871,
+          "deaths": 765,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "0afc6ef7-4aaf-45a1-8a30-4c9cb5474f7f",
+          "cases": 55392,
+          "deaths": 2379,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "7ac2a4ac-aeb9-48b4-8cba-bcfb5dfa56d4",
+          "cases": 33690,
+          "deaths": 696,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "1b13bd50-337c-483d-8d90-7caa3e9fb3ac",
+          "cases": 9428,
+          "deaths": 209,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "f4352b48-cbef-4a8e-b953-be2837a11c54",
+          "cases": 24934,
+          "deaths": 733,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "a6d66210-cbc5-499c-97f5-7c578377fedb",
+          "cases": 39994,
+          "deaths": 2166,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "7d0bb364-88b5-40ba-bdd4-7f27eade3d78",
+          "cases": 42083,
+          "deaths": 1410,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "1aeaf2f8-c5aa-4dca-8a6f-9604e614f494",
+          "cases": 43855,
+          "deaths": 2792,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "ecdb70a1-71c5-4391-bb14-94185fafffa9",
+          "cases": 37730,
+          "deaths": 2123,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "e90957fe-b211-4bbc-8f8c-6eddac37a684",
+          "cases": 589391,
+          "deaths": 19720,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "4f85e1ad-4adc-40a8-87fd-735f1f841fea",
+          "cases": 29852,
+          "deaths": 1149,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "13bdc502-0c62-4f5d-a9eb-1de4f91094ca",
+          "cases": 10032,
+          "deaths": 171,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "bf325d08-ce16-4ec9-bad6-4038a61a12c2",
+          "cases": 19568,
+          "deaths": 447,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "c3d7cdb8-1230-4001-a3ac-e90073a8bd71",
+          "cases": 9126,
+          "deaths": 223,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "60cfe08b-07b8-47a8-8835-8f91a88501ef",
+          "cases": 49185,
+          "deaths": 2393,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "e7701225-786a-492d-95f3-84493ddd1f81",
+          "cases": 23347,
+          "deaths": 576,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "44dd9442-b6e2-4402-b6fe-433f2e05b40f",
+          "cases": 29278,
+          "deaths": 868,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "65ce097c-dd48-4ab1-97eb-40e28dc8b7ae",
+          "cases": 19543,
+          "deaths": 533,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "1f37523c-cbf6-4a82-b5e4-2198f17d0f72",
+          "cases": 11225,
+          "deaths": 429,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "8091ba18-f892-4edc-9402-7d062cf7cf7d",
+          "cases": 22374,
+          "deaths": 500,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "715a48ab-7f5b-45b4-ae85-ab1584bd8a4f",
+          "cases": 0,
+          "deaths": 0,
+          "recovered": 1183238,
+          "per100": 0,
+          "vaccinations": 0
+        }
+      ],
+      "counties": []
+    },
+    {
+      "id": "c4a967d4-857f-4024-a296-3c71eedbe1ce",
+      "cases": 563456,
+      "deaths": 12094,
+      "recovered": 522874,
+      "active": 28488,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "ebcb6b92-4822-4e78-b1ca-0393c5f4c2d4",
+      "cases": 1642658,
+      "deaths": 42188,
+      "recovered": 1384373,
+      "active": 216097,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "29b56917-e52c-4be6-8417-d396428a9473",
+      "cases": 798074,
+      "deaths": 16023,
+      "recovered": 701409,
+      "active": 80642,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "6113506a-aa13-4c02-b09f-69cbcd79bda7",
+      "cases": 160889,
+      "deaths": 257,
+      "recovered": 150715,
+      "active": 9917,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "4b9c97d6-867e-48ed-abe2-a8f168b3631d",
+      "cases": 781329,
+      "deaths": 19894,
+      "recovered": 725526,
+      "active": 35909,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "7ed2f587-baa1-4bc4-adab-32e7ceec27df",
+      "cases": 4130447,
+      "deaths": 82255,
+      "recovered": 3684955,
+      "active": 363237,
+      "per100": 0,
+      "vaccinations": 0,
+      "provinces": [
+        {
+          "id": "5f0e977b-5c64-4d6b-bab2-b9a5b436cddb",
+          "cases": 13709,
+          "deaths": 144,
+          "recovered": 12004,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "3757d11f-0cdf-43df-80b5-a3892d02da53",
+          "cases": 42700,
+          "deaths": 1444,
+          "recovered": 38149,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "2f8ad704-d8ea-4f81-b36b-6e5302883148",
+          "cases": 16104,
+          "deaths": 146,
+          "recovered": 15692,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "89af198a-15f1-4a2b-9956-2b0262078a8c",
+          "cases": 20737,
+          "deaths": 165,
+          "recovered": 19145,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "28ef5474-34d9-41ff-b94c-b63e538dd6b7",
+          "cases": 55820,
+          "deaths": 613,
+          "recovered": 49917,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "6d74a8a3-9819-47ae-90b7-0a5ddbe9edb5",
+          "cases": 27632,
+          "deaths": 548,
+          "recovered": 18892,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "f753734e-ca74-43d7-b580-c715de4d9938",
+          "cases": 27739,
+          "deaths": 256,
+          "recovered": 21959,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "ce509bbd-4686-493b-8e03-60b17c53ee2d",
+          "cases": 30839,
+          "deaths": 473,
+          "recovered": 28118,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "216e40a6-f9e8-46fa-bd11-8512e17ad191",
+          "cases": 32285,
+          "deaths": 250,
+          "recovered": 31375,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "127f05e4-611c-40e0-b07b-2b6d330f417d",
+          "cases": 33020,
+          "deaths": 703,
+          "recovered": 30825,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "e9f0b2a2-a075-47b4-8c6e-ef10de8ef73c",
+          "cases": 11229,
+          "deaths": 111,
+          "recovered": 10605,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "607a43b8-7365-4582-9b37-5dad04f98e9c",
+          "cases": 49551,
+          "deaths": 963,
+          "recovered": 43335,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "27c5cc96-cece-4640-920a-baa174a9a03e",
+          "cases": 683,
+          "deaths": 4,
+          "recovered": 636,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "ae5ba7bd-d3e4-4b89-9bd1-23e2e1f85051",
+          "cases": 21070,
+          "deaths": 999,
+          "recovered": 19298,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "a5a5d3ea-a6a7-4610-a62f-7f1c9ba38f49",
+          "cases": 29520,
+          "deaths": 1328,
+          "recovered": 27160,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "91815168-bc0d-4577-bef0-e62f452d80ad",
+          "cases": 14638,
+          "deaths": 171,
+          "recovered": 12854,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "e7fbb1e8-fe83-423e-ad36-a4235204913e",
+          "cases": 54246,
+          "deaths": 1737,
+          "recovered": 50711,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "b0ab598a-7437-4d54-be55-c2d6dd68d252",
+          "cases": 29996,
+          "deaths": 893,
+          "recovered": 27752,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "65737489-0ffa-4033-aa3d-c31ecb301177",
+          "cases": 4302,
+          "deaths": 118,
+          "recovered": 4096,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "fb666685-9099-4973-9bac-aec9052124ec",
+          "cases": 20555,
+          "deaths": 362,
+          "recovered": 19221,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "525e2a84-2154-47e7-b6fa-c473d8109212",
+          "cases": 27570,
+          "deaths": 233,
+          "recovered": 24889,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "8f764fe5-a8db-4e2b-b9d8-9aff996ff755",
+          "cases": 18751,
+          "deaths": 290,
+          "recovered": 17702,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "3220f6d8-16b7-4bd1-820a-48a18c1bc32c",
+          "cases": 29109,
+          "deaths": 247,
+          "recovered": 26792,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "a544c3e6-a6db-4563-ae35-a09e04e86a51",
+          "cases": 13300,
+          "deaths": 118,
+          "recovered": 11840,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "1fe5d7b1-a798-4326-85f9-1316ff2a55cc",
+          "cases": 18805,
+          "deaths": 61,
+          "recovered": 17072,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "637c219c-4b3c-4b18-ad1a-93f25bce9bcc",
+          "cases": 40022,
+          "deaths": 290,
+          "recovered": 35762,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "033166c8-b41a-499b-bd53-ab2288bb207f",
+          "cases": 31239,
+          "deaths": 552,
+          "recovered": 30327,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "3b466efe-e140-4d56-a8a1-5a5d20ecf4f5",
+          "cases": 48424,
+          "deaths": 279,
+          "recovered": 45232,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "c5874a7d-533d-44e8-aba3-d6757364e15c",
+          "cases": 21204,
+          "deaths": 443,
+          "recovered": 19899,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "e7bf7c96-6ffc-471d-aaa2-6f89c59f6938",
+          "cases": 50742,
+          "deaths": 730,
+          "recovered": 48430,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "7149ab49-16f8-45eb-af6c-e8670c43575e",
+          "cases": 35722,
+          "deaths": 288,
+          "recovered": 30539,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "788c4381-09b9-4534-89ec-04c8a10b3975",
+          "cases": 38952,
+          "deaths": 742,
+          "recovered": 37734,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "944e15d2-984a-4156-bab2-b519b2dc11d4",
+          "cases": 18181,
+          "deaths": 342,
+          "recovered": 15208,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "13fa36f4-46e2-4962-90b9-fc182836145a",
+          "cases": 37502,
+          "deaths": 1838,
+          "recovered": 31586,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "77fad558-07c8-4a21-8cb5-d1bd3ee58945",
+          "cases": 61570,
+          "deaths": 2720,
+          "recovered": 56830,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "8c8c1df2-0094-4619-a1b2-36f40fcbf5c4",
+          "cases": 17192,
+          "deaths": 293,
+          "recovered": 15259,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "7f6c1d08-318e-4eee-8b45-de61dd209346",
+          "cases": 29886,
+          "deaths": 433,
+          "recovered": 26587,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "f220f2c2-e00b-449e-b843-3d895674a2f1",
+          "cases": 35086,
+          "deaths": 590,
+          "recovered": 31596,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "a8c6eda8-2a4e-4f3d-b9fa-d51e02ac0eae",
+          "cases": 23981,
+          "deaths": 418,
+          "recovered": 20200,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "30469006-5444-48d5-ad43-cdf4cb1b1b3a",
+          "cases": 8111,
+          "deaths": 94,
+          "recovered": 7788,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "e25ee7ea-29ca-45bc-934c-eb529d36daf5",
+          "cases": 11573,
+          "deaths": 165,
+          "recovered": 10276,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "0c970574-6d3c-4185-9872-5d151a0d3b0f",
+          "cases": 17514,
+          "deaths": 156,
+          "recovered": 15459,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "9a017e08-d58f-426d-b53c-24ce5ee561ed",
+          "cases": 969557,
+          "deaths": 14782,
+          "recovered": 886273,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "97bcbb3a-9d47-48e3-be83-f45e40a662de",
+          "cases": 210362,
+          "deaths": 4480,
+          "recovered": 171819,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "933a179f-c0a7-41d7-af49-06922e1bb96c",
+          "cases": 46226,
+          "deaths": 922,
+          "recovered": 44090,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "6217369f-2c26-4a5f-90c3-106a743cacd9",
+          "cases": 1005,
+          "deaths": 3,
+          "recovered": 887,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "9ff4df47-b130-437c-8bb7-ec5c45bb7246",
+          "cases": 94201,
+          "deaths": 2382,
+          "recovered": 86291,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "9f64cc37-1acc-4371-b62e-c06a19c287ca",
+          "cases": 15514,
+          "deaths": 147,
+          "recovered": 14047,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "166dfa5e-3b9a-403d-8874-f5f0ce53ef93",
+          "cases": 26677,
+          "deaths": 113,
+          "recovered": 23126,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "0b1c9ce3-370f-45cb-885b-f2cb6537b80f",
+          "cases": 35047,
+          "deaths": 1391,
+          "recovered": 32388,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "f6e99528-6d31-48bc-8886-5400bfe555ed",
+          "cases": 40319,
+          "deaths": 1180,
+          "recovered": 36910,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "51040ae8-0124-477d-94bf-72c88a2ac6d8",
+          "cases": 29727,
+          "deaths": 421,
+          "recovered": 26690,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "739421cc-2b6c-4e30-988e-f05d66dae8df",
+          "cases": 37048,
+          "deaths": 578,
+          "recovered": 33781,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "28862880-6ee5-4fd9-9219-e14bdb93fb7e",
+          "cases": 37234,
+          "deaths": 427,
+          "recovered": 32182,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "9fd7d57a-24c4-4c3f-8029-92cab67f9ad5",
+          "cases": 45586,
+          "deaths": 1679,
+          "recovered": 37822,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "1f05c424-ae79-41b0-af64-87cee0712677",
+          "cases": 39800,
+          "deaths": 614,
+          "recovered": 33637,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "f58d0ca9-5e39-41e3-a478-2ca902f82856",
+          "cases": 31425,
+          "deaths": 165,
+          "recovered": 20662,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "a9d6082c-cafe-4d19-90f4-78602de8b099",
+          "cases": 71270,
+          "deaths": 3053,
+          "recovered": 61535,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "79450e71-f3d9-4654-9960-129c6c80b717",
+          "cases": 24046,
+          "deaths": 278,
+          "recovered": 22074,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "23121039-a22b-4c21-abdd-9c87e4a95e49",
+          "cases": 361607,
+          "deaths": 10834,
+          "recovered": 287990,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "35c2335b-7620-4bcf-922e-235c81a9b984",
+          "cases": 32285,
+          "deaths": 513,
+          "recovered": 30702,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "4c6b9af0-6fef-4de4-b666-723db2baa59c",
+          "cases": 21253,
+          "deaths": 33,
+          "recovered": 19975,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "da86f2a0-303f-4e6f-a9de-74ce2f833ea6",
+          "cases": 46848,
+          "deaths": 900,
+          "recovered": 43103,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "6a5c208f-6cc6-4229-a55e-cb4f7521c7fe",
+          "cases": 48288,
+          "deaths": 628,
+          "recovered": 43340,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "6d8bfd49-e1a8-420b-9a3d-1a63ed36b6c2",
+          "cases": 25712,
+          "deaths": 585,
+          "recovered": 23407,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "a2e95ff4-05b0-4713-9fee-599bbf31b474",
+          "cases": 46795,
+          "deaths": 1046,
+          "recovered": 42398,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "788ad706-c74c-4ab7-8fbf-2a44dadc0ae7",
+          "cases": 76572,
+          "deaths": 2311,
+          "recovered": 69477,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "9fe927cf-ee5c-439b-9b35-db490443b4db",
+          "cases": 25540,
+          "deaths": 328,
+          "recovered": 23400,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "068eb84e-39f0-4d97-9fae-92f4e278371d",
+          "cases": 17656,
+          "deaths": 316,
+          "recovered": 14219,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "cab23f74-9a6d-4dc3-b9ac-903b1fe0fae7",
+          "cases": 29946,
+          "deaths": 303,
+          "recovered": 27843,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "c2c2b693-3af3-4949-a1f8-abfcaa73a14b",
+          "cases": 32281,
+          "deaths": 1204,
+          "recovered": 29895,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "44ffa8e1-d859-4d9f-b2da-004233c4fea1",
+          "cases": 32844,
+          "deaths": 601,
+          "recovered": 29845,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "82f37b6c-2a2c-46ae-85d1-084ca12915eb",
+          "cases": 30792,
+          "deaths": 273,
+          "recovered": 28956,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "06822e37-5c33-459c-b179-71b2fa781ce8",
+          "cases": 15616,
+          "deaths": 193,
+          "recovered": 14510,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "908c3d32-a118-4e96-9d92-b0f244d2b13b",
+          "cases": 27660,
+          "deaths": 599,
+          "recovered": 24363,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "c7c8bc5c-8704-4c12-929f-50d4f960b674",
+          "cases": 47019,
+          "deaths": 753,
+          "recovered": 43642,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "27587c87-ccc4-4069-b2aa-a6fcf0ef8b0f",
+          "cases": 26644,
+          "deaths": 831,
+          "recovered": 23671,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "6e5a3a8b-9462-46f6-8c21-0c2fe44f2776",
+          "cases": 48196,
+          "deaths": 738,
+          "recovered": 46082,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "d8fab2a4-ec77-4b63-8aad-5101569826fd",
+          "cases": 38201,
+          "deaths": 765,
+          "recovered": 34155,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "2683bbea-031b-429e-a265-f8239a8d936f",
+          "cases": 66072,
+          "deaths": 1843,
+          "recovered": 59844,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "9a1fa1b1-57ca-47b6-a725-0ca0b4c944d8",
+          "cases": 36859,
+          "deaths": 395,
+          "recovered": 34662,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "7b827589-a4ea-4a9a-aae8-ecfdaf6b4b49",
+          "cases": 31914,
+          "deaths": 381,
+          "recovered": 30199,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "cc26902a-f787-4ea1-ade1-8f883ecf6997",
+          "cases": 37992,
+          "deaths": 517,
+          "recovered": 36312,
+          "per100": 0,
+          "vaccinations": 0
+        }
+      ],
+      "counties": []
+    },
+    {
+      "id": "c639bc8a-3616-4442-b675-7ffa1662c77c",
+      "cases": 18199,
+      "deaths": 252,
+      "recovered": 16992,
+      "active": 955,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "948537fc-4ebe-49c1-b178-281835fff5f3",
+      "cases": 41,
+      "deaths": 0,
+      "recovered": 39,
+      "active": 2,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "0a2243fa-6a75-4b1c-a269-c622e572489d",
+      "cases": 3135,
+      "deaths": 32,
+      "recovered": 2675,
+      "active": 428,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "d40e57a6-16d1-4a08-910e-df0f0484900f",
+      "cases": 1503,
+      "deaths": 6,
+      "recovered": 803,
+      "active": 694,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "405ba2d4-c798-4d50-9c0d-8ffea62ca982",
+      "cases": 3,
+      "deaths": 0,
+      "recovered": 2,
+      "active": 1,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "616d951c-30c5-4465-88cd-212f9de1af60",
+      "cases": 3494,
+      "deaths": 72,
+      "recovered": 3115,
+      "active": 307,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "ac9f66b2-c914-4c72-b89b-bb8b456d9a05",
+      "cases": 1628,
+      "deaths": 22,
+      "recovered": 1257,
+      "active": 349,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "219ff349-1073-42cd-b9f0-06f289889dd6",
+      "cases": 375333,
+      "deaths": 6466,
+      "recovered": 366412,
+      "active": 2455,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "265cfdc7-0849-44ea-8041-2b2e792801d4",
+      "cases": 33099,
+      "deaths": 814,
+      "recovered": 27428,
+      "active": 4857,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "959af412-0cf4-4355-8957-ccf0174a88e0",
+      "cases": 439596,
+      "deaths": 4351,
+      "recovered": 0,
+      "active": 435245,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "0be68267-212f-47c7-bad0-3678f3ebafb2",
+      "cases": 2464,
+      "deaths": 11,
+      "recovered": 1940,
+      "active": 513,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "45f0391f-dedf-434d-8f61-5a0a479e544d",
+      "cases": 3857,
+      "deaths": 79,
+      "recovered": 2609,
+      "active": 1169,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "02211f22-1a9e-4e25-89fe-ace7f9655c7a",
+      "cases": 59879,
+      "deaths": 29,
+      "recovered": 59746,
+      "active": 104,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "f3223601-b112-4833-8f1e-5a8d9eb7dc89",
+      "cases": 292792,
+      "deaths": 6577,
+      "recovered": 255300,
+      "active": 30915,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "a3486d24-27f2-4930-9c13-133e51acfdd1",
+      "cases": 185014,
+      "deaths": 3784,
+      "recovered": 170198,
+      "active": 11032,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "667bb762-49de-45de-a454-78cd62308da5",
+      "cases": 18,
+      "deaths": 0,
+      "recovered": 14,
+      "active": 4,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "fd3ab563-1ae6-468d-abc9-8eb19f30f544",
+      "cases": 6246,
+      "deaths": 208,
+      "recovered": 3778,
+      "active": 2260,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "1822aba5-43bc-4078-9331-53ba9ad37616",
+      "cases": 1504588,
+      "deaths": 49150,
+      "recovered": 1413566,
+      "active": 41872,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "6a364802-fb4e-43f2-85f5-31c5cf727479",
+      "cases": 6931,
+      "deaths": 87,
+      "recovered": 4014,
+      "active": 2830,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "39f204e9-2eb7-4171-bef3-7ab07297144b",
+      "cases": 3153971,
+      "deaths": 67636,
+      "recovered": 150376,
+      "active": 2935959,
+      "per100": 0,
+      "vaccinations": 0,
+      "provinces": [
+        {
+          "id": "0f4e39c2-57f8-49cc-8014-0c7d89b522ad",
+          "cases": 472186,
+          "deaths": 8043,
+          "recovered": 10671,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "d7a9fe49-e779-4f73-84cd-ad77293a3114",
+          "cases": 105708,
+          "deaths": 3212,
+          "recovered": 3772,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "6c7b04cd-3f87-477b-a74e-dd6cfaf5b9b4",
+          "cases": 42590,
+          "deaths": 1727,
+          "recovered": 1063,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "476dc7f4-01b9-498a-a9dc-a20e417f0265",
+          "cases": 55751,
+          "deaths": 681,
+          "recovered": 1533,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "d054615e-e740-4564-adab-73c1ec24e6f7",
+          "cases": 375358,
+          "deaths": 6377,
+          "recovered": 9970,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "1fc08d1b-a264-4a3a-9023-8ff83512cd43",
+          "cases": 39693,
+          "deaths": 580,
+          "recovered": 1537,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "2478c26a-78ec-43ba-8f12-ffd92bfb1c9d",
+          "cases": 24353,
+          "deaths": 501,
+          "recovered": 2287,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "83f26206-02f1-4aec-b2fa-4bd571439975",
+          "cases": 167278,
+          "deaths": 5531,
+          "recovered": 6392,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "346201fc-41ff-47f8-89e1-294e99ff1d6b",
+          "cases": 204293,
+          "deaths": 6249,
+          "recovered": 8716,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "0b05626c-7450-4024-9fa4-8eaf445eb842",
+          "cases": 566542,
+          "deaths": 10226,
+          "recovered": 26203,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "6dc3701c-9b23-4854-903d-42a69f7c2b65",
+          "cases": 4505,
+          "deaths": 79,
+          "recovered": 163,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "c16226d4-817f-4483-bfde-a444402279ff",
+          "cases": 68823,
+          "deaths": 1687,
+          "recovered": 2652,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "1ba49000-9b38-4ae5-ae9f-43b1616bfe9e",
+          "cases": 110424,
+          "deaths": 2163,
+          "recovered": 9204,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "1babe414-8ba9-4cc5-ae83-b5d9ac3701ad",
+          "cases": 27355,
+          "deaths": 718,
+          "recovered": 3107,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "1a964f83-c0ae-4993-851c-3441104b8db3",
+          "cases": 576700,
+          "deaths": 13631,
+          "recovered": 40736,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "6bc86c88-587e-4e14-8eaa-7cce6a18149f",
+          "cases": 6812,
+          "deaths": 65,
+          "recovered": 125,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "0eb5f13c-b841-412f-8e22-2596f01f4028",
+          "cases": 105604,
+          "deaths": 1414,
+          "recovered": 2180,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "225af700-6e07-46fb-ad2c-000cceb5ff09",
+          "cases": 50970,
+          "deaths": 1090,
+          "recovered": 3905,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "089e9f92-21ac-43be-b6da-c15fddbffd70",
+          "cases": 149026,
+          "deaths": 3662,
+          "recovered": 16160,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "099f2d13-3b84-4fa8-bd60-11d1cc33d223",
+          "cases": 0,
+          "deaths": 0,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        }
+      ],
+      "counties": []
+    },
+    {
+      "id": "9f4e2903-ebc0-4ea5-af0f-73d4c7224f3d",
+      "cases": 80517,
+      "deaths": 450,
+      "recovered": 75110,
+      "active": 4957,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "8ed8c6e7-76bc-496b-b867-fed26b3cba20",
+      "cases": 30128,
+      "deaths": 1871,
+      "recovered": 22797,
+      "active": 5460,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "35f9145f-8a0b-4210-9fd5-b35427d555d0",
+      "cases": 8869,
+      "deaths": 169,
+      "recovered": 8349,
+      "active": 351,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "d48f29da-f3de-4de8-938e-a7c8412e4eb3",
+      "cases": 631166,
+      "deaths": 12649,
+      "recovered": 0,
+      "active": 618517,
+      "per100": 0,
+      "vaccinations": 0,
+      "provinces": [
+        {
+          "id": "3b8b8754-9033-4fdf-a79f-a805be49f57b",
+          "cases": 7797,
+          "deaths": 113,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "ecb073f7-320e-4384-887e-8e1dc403419d",
+          "cases": 14292,
+          "deaths": 303,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "78c70634-4572-4251-85c2-080438ad465e",
+          "cases": 20286,
+          "deaths": 487,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "67165b6f-c9b1-48bf-8e59-fe0734271090",
+          "cases": 2664,
+          "deaths": 45,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "7d3c034d-1178-40eb-8452-398f30fe8313",
+          "cases": 22211,
+          "deaths": 262,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "dd9f3012-fc68-49ae-a858-a454cb64282b",
+          "cases": 6485,
+          "deaths": 113,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "37d72d4b-f77f-4c70-ba2f-337ea86f30a9",
+          "cases": 25319,
+          "deaths": 498,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "af3cfac6-4f73-4994-a6a4-c7cef7d657e6",
+          "cases": 10801,
+          "deaths": 207,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "940f62d2-59e7-4639-b42d-6f80a7482b65",
+          "cases": 13547,
+          "deaths": 286,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "eab56685-95bf-4ebf-809c-0dbebe48fea0",
+          "cases": 11640,
+          "deaths": 216,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "ee207603-c42e-4df4-b211-f5b362e498d3",
+          "cases": 17384,
+          "deaths": 285,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "07e2ddf2-defd-45c6-9fc7-2408cb3894b7",
+          "cases": 21988,
+          "deaths": 546,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "1a877b68-119f-4505-a8d5-07d966211d61",
+          "cases": 107075,
+          "deaths": 1506,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "32a2e153-7abe-4a94-91e9-4aacb0a7b80c",
+          "cases": 12638,
+          "deaths": 395,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "a7741efb-e739-4a20-ac48-8e71e9ded30c",
+          "cases": 149331,
+          "deaths": 3851,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "560cdff1-38d9-4075-9ad8-e8a4dbd5f9d1",
+          "cases": 23408,
+          "deaths": 476,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "71d25e1e-7a46-45a8-ab32-9754558dc3ab",
+          "cases": 8700,
+          "deaths": 163,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "9fde129a-c207-4bac-bd60-cfbbab1aff1b",
+          "cases": 13205,
+          "deaths": 127,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "321d8dc7-385a-4cdd-8f37-7a680263fb9f",
+          "cases": 14450,
+          "deaths": 393,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "7d205341-71d0-4558-b7de-d2ab60552cdf",
+          "cases": 17817,
+          "deaths": 324,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "38b0fc41-f595-47f8-a2ea-37607f55275f",
+          "cases": 110128,
+          "deaths": 2053,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        }
+      ],
+      "counties": []
+    },
+    {
+      "id": "a299b2ab-81da-426e-8083-45370669e8a5",
+      "cases": 550224,
+      "deaths": 9907,
+      "recovered": 317600,
+      "active": 222717,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "b34938c0-e315-4336-be55-690433d67b4b",
+      "cases": 15230,
+      "deaths": 1001,
+      "recovered": 9307,
+      "active": 4922,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "62ba995c-e6c1-45aa-b06c-6f9d2e38fb05",
+      "cases": 942,
+      "deaths": 9,
+      "recovered": 893,
+      "active": 40,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "63fd622d-36a5-42db-b3f7-33b10fe3e86a",
+      "cases": 13308,
+      "deaths": 90,
+      "recovered": 13218,
+      "active": 0,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "7221c07a-fcd1-4443-9937-7e441482a6a2",
+      "cases": 509,
+      "deaths": 21,
+      "recovered": 183,
+      "active": 305,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "dfd209df-3103-4c20-b831-5e6264eabdc9",
+      "cases": 25504,
+      "deaths": 83,
+      "recovered": 24361,
+      "active": 1060,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "ea4c3141-340d-4a99-804a-235dbc39b68d",
+      "cases": 103,
+      "deaths": 0,
+      "recovered": 82,
+      "active": 21,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "c0cfeb56-84d0-4c9d-a864-301e51a963c0",
+      "cases": 6348,
+      "deaths": 81,
+      "recovered": 5323,
+      "active": 944,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "8e24a191-f2a1-4828-bf99-838acb005180",
+      "cases": 7682,
+      "deaths": 139,
+      "recovered": 7411,
+      "active": 132,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "e2dc295b-016c-46a1-bac9-aa426eef6896",
+      "cases": 228937,
+      "deaths": 7811,
+      "recovered": 189358,
+      "active": 31768,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "ce7459e0-1202-4cfb-b55f-145b68377a17",
+      "cases": 2646526,
+      "deaths": 28138,
+      "recovered": 2529450,
+      "active": 88938,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "70a29af0-7641-4cd0-98da-30e44356879f",
+      "cases": 28188571,
+      "deaths": 500244,
+      "recovered": 0,
+      "active": 29876035,
+      "per100": 0,
+      "vaccinations": 0,
+      "provinces": [
+        {
+          "id": "c9b606e1-611e-4368-b46d-54b03f7f2362",
+          "cases": 487520,
+          "deaths": 9592,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "a3184b63-3c90-4fdf-9ce2-a31ddd378686",
+          "cases": 57738,
+          "deaths": 290,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "9a21e0e0-b5ba-42b9-88ce-37487c41967f",
+          "cases": 809474,
+          "deaths": 15502,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "8e1d4b2a-231f-42b4-b8c4-4179166bdd5d",
+          "cases": 315759,
+          "deaths": 5363,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "8ff75f8e-8621-47ac-9a07-bcfe305d4ca8",
+          "cases": 3535358,
+          "deaths": 49475,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "d5cf975c-2841-4884-ae63-6e6afecbbcea",
+          "cases": 421294,
+          "deaths": 5893,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "7dcb9d87-ea57-4e16-b9ff-df67d03ddd98",
+          "cases": 275334,
+          "deaths": 7562,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "89923b5d-d084-43a8-b43c-cc81458383fa",
+          "cases": 85090,
+          "deaths": 1368,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "803f576b-5ce5-4c8e-a5be-0df7c2aaab25",
+          "cases": 49,
+          "deaths": 0,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "0a9630da-293e-4caa-8653-eb5c5c3f3df9",
+          "cases": 39755,
+          "deaths": 995,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "63a845e2-8e4d-4018-b966-fd68067eed71",
+          "cases": 1872923,
+          "deaths": 30065,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "7d50947d-3ce6-45ae-b07f-4afbbfc453ad",
+          "cases": 987041,
+          "deaths": 16835,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "44d779cc-1aa6-40a9-88f8-9023a26a3409",
+          "cases": 103,
+          "deaths": 3,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "ac1a9f63-3bf6-4687-a042-85af60c1611e",
+          "cases": 7727,
+          "deaths": 130,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "9da00c26-bc9c-4641-9bda-c538c00a281d",
+          "cases": 27410,
+          "deaths": 430,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "7a40bb08-cf1d-4ae5-8acd-a82e12136019",
+          "cases": 169584,
+          "deaths": 1826,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "5a0640bc-320c-4cd5-aa16-354330ee3669",
+          "cases": 1175568,
+          "deaths": 22506,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "7d876338-d64c-4f11-a9e2-1ae71e30c4e0",
+          "cases": 656358,
+          "deaths": 12407,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "c0944c0c-f817-4cca-89f5-da1f8febe9b6",
+          "cases": 360193,
+          "deaths": 5374,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "b91ff2bf-9dc5-47e0-932e-1f67588c4601",
+          "cases": 294080,
+          "deaths": 4602,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "aec21115-36be-4716-a71e-7ae386ddb761",
+          "cases": 397526,
+          "deaths": 4460,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "fd029dd7-4b13-4302-9cdc-8776adc9774a",
+          "cases": 424644,
+          "deaths": 9477,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "b3b572b3-2ea7-4ed2-94c6-95b60a29a55f",
+          "cases": 43594,
+          "deaths": 658,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "a879a8f6-eab5-4fca-a823-8cf77c960c21",
+          "cases": 376966,
+          "deaths": 7732,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "32dcde6d-84b1-42a6-a187-86704aa9d7f4",
+          "cases": 570546,
+          "deaths": 15853,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "26344968-929a-4b0a-93f0-9c8e19292347",
+          "cases": 637928,
+          "deaths": 16343,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "9291bfea-b1a3-431c-932a-a1fb68a5e78a",
+          "cases": 479591,
+          "deaths": 6501,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "bd262d1d-45aa-47ee-843e-a02ca98c0e37",
+          "cases": 290874,
+          "deaths": 6553,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "7bd0a907-0f07-4a18-8a45-29b0631e3757",
+          "cases": 491902,
+          "deaths": 8062,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "20af30b5-7f3a-4591-9764-9671a54e435e",
+          "cases": 98810,
+          "deaths": 1341,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "0f3b5247-4b7e-4105-9baf-8e79a9d3522e",
+          "cases": 199045,
+          "deaths": 2047,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "2e9edb86-d407-4e14-8685-798a69bd5a64",
+          "cases": 291145,
+          "deaths": 4882,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "2f06a231-57b5-4602-8598-234f7d979c47",
+          "cases": 73665,
+          "deaths": 1154,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "80509741-3713-49a3-b0b5-d293c6fd26f6",
+          "cases": 769109,
+          "deaths": 22874,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "10712f7a-bf67-4fc0-965b-4b5db67102b2",
+          "cases": 183023,
+          "deaths": 3635,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "ad4c9a3f-d8af-40ab-81d4-a8ea9bcd604a",
+          "cases": 1597969,
+          "deaths": 46924,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "372d0152-b5f3-4599-8d1e-a861595f0762",
+          "cases": 844770,
+          "deaths": 10934,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "936bd26d-884f-4b3e-a355-3bb0ed2624d4",
+          "cases": 99312,
+          "deaths": 1468,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "01ee6d07-ab86-44bc-9d61-6081f4ee994f",
+          "cases": 143,
+          "deaths": 2,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "2609eaa0-9c34-458d-af51-8d1f6c2f3c39",
+          "cases": 955378,
+          "deaths": 16874,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "1153a932-cbe6-4a25-9820-7c60f1ab26a3",
+          "cases": 419853,
+          "deaths": 4203,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "5f14a0b5-94ab-4e30-af29-9d86882eb6fa",
+          "cases": 153135,
+          "deaths": 2156,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "74b7116b-ec71-4a5c-8648-310f61c2b23c",
+          "cases": 917565,
+          "deaths": 23580,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "60883248-6487-4a91-b16e-db07523d9d81",
+          "cases": 99257,
+          "deaths": 1983,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "aed63645-80be-427c-9f91-d21e73b73468",
+          "cases": 0,
+          "deaths": 0,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "8aa4ade6-ca92-4de7-972e-f35ca8b7d87f",
+          "cases": 123980,
+          "deaths": 2466,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "5f1ebf9b-f4cf-4081-bb27-1971dea33483",
+          "cases": 505589,
+          "deaths": 8332,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "88927c02-722e-4ac2-b52b-8200df1ab5c8",
+          "cases": 111334,
+          "deaths": 1863,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "22e08008-ba1f-4674-9dae-3462433dd712",
+          "cases": 766089,
+          "deaths": 11153,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "1cf72771-96e9-453a-a6a1-058cf388332a",
+          "cases": 2606513,
+          "deaths": 42301,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "c1d153cb-7b6c-4503-a0ca-4d1354e6da7e",
+          "cases": 367073,
+          "deaths": 1853,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "7d060e9c-48d5-431e-b2b7-451c4868dd92",
+          "cases": 14608,
+          "deaths": 198,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "04f443d8-76fb-4439-a3ba-ce08623a2c16",
+          "cases": 2579,
+          "deaths": 25,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "f48402d4-a648-4a82-88e8-24ebdc72d4d3",
+          "cases": 565270,
+          "deaths": 7486,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "64d87aa5-719d-4b6f-82e2-652c6837fad8",
+          "cases": 334962,
+          "deaths": 4857,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "9b4edf14-8ef6-417a-925b-eaad7bc0d342",
+          "cases": 129854,
+          "deaths": 2263,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "f06956d1-2ee3-475b-a7dc-004e66657ca2",
+          "cases": 612712,
+          "deaths": 6871,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "49a1a9a3-e166-4817-8429-348043c3c6fd",
+          "cases": 53900,
+          "deaths": 662,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        }
+      ],
+      "counties": []
+    },
+    {
+      "id": "45e62466-9c12-4e16-9129-bb1f30794286",
+      "cases": 40221,
+      "deaths": 333,
+      "recovered": 14608,
+      "active": 25280,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "f825b90b-5a44-408f-92c5-8f9c622270dc",
+      "cases": 1354545,
+      "deaths": 26531,
+      "recovered": 1188859,
+      "active": 139155,
+      "per100": 0,
+      "vaccinations": 0,
+      "provinces": [
+        {
+          "id": "f225b459-04fb-47e0-be52-0250d8e9f8aa",
+          "cases": 47971,
+          "deaths": 608,
+          "recovered": 44268,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "8125f67d-2697-41b2-92c6-735685d7fd8f",
+          "cases": 35334,
+          "deaths": 722,
+          "recovered": 30701,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "6a9802fd-afcc-4732-a1ef-0dc6b4cdaab2",
+          "cases": 51522,
+          "deaths": 961,
+          "recovered": 43871,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "de970f00-0d9b-4489-9fd8-30f67e09e143",
+          "cases": 35316,
+          "deaths": 900,
+          "recovered": 31004,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "6dd7794a-134a-42e0-a363-dd86e20f574b",
+          "cases": 71933,
+          "deaths": 1949,
+          "recovered": 66592,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "1846d40e-63f1-465b-88fc-dc053231b175",
+          "cases": 46455,
+          "deaths": 1036,
+          "recovered": 43337,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "9995348f-3f28-44ac-a300-776b077b76ff",
+          "cases": 59923,
+          "deaths": 1110,
+          "recovered": 47315,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "72ad7af9-d2e5-41ac-81a6-c22e8801291a",
+          "cases": 81825,
+          "deaths": 1532,
+          "recovered": 75703,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "ffed24b8-9716-44bf-9fe4-da7de9212fe4",
+          "cases": 21510,
+          "deaths": 630,
+          "recovered": 20039,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "53e2dd93-ca65-4013-ac61-ce2e925f1d7c",
+          "cases": 46716,
+          "deaths": 860,
+          "recovered": 43490,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "08142dc3-00ad-4dfb-a138-942e58d1b6d3",
+          "cases": 134675,
+          "deaths": 2581,
+          "recovered": 91925,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "e34f97a7-c16e-45fe-8b10-8d092031d85c",
+          "cases": 73554,
+          "deaths": 1216,
+          "recovered": 67199,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "b5f3d1b5-5e22-4db9-9644-867645d7a772",
+          "cases": 10352,
+          "deaths": 362,
+          "recovered": 7906,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "7ac1f809-2e42-4fcd-91e7-6b3557d45c4e",
+          "cases": 14751,
+          "deaths": 447,
+          "recovered": 13406,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "55d020f8-8281-44c1-a764-3ef1be3ebcff",
+          "cases": 76433,
+          "deaths": 2228,
+          "recovered": 67654,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "136f2648-4891-4bba-9a56-6c3e3f82286a",
+          "cases": 41194,
+          "deaths": 768,
+          "recovered": 34662,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "59955cc2-bba4-4515-8535-38a3e0af69ed",
+          "cases": 84524,
+          "deaths": 1393,
+          "recovered": 78033,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "e104d4f0-17d3-4098-8410-8041f823d351",
+          "cases": 45390,
+          "deaths": 951,
+          "recovered": 41941,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "d0d90fa3-2d82-41fb-862f-be673dd419d9",
+          "cases": 48065,
+          "deaths": 608,
+          "recovered": 45835,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "bca9c87a-9712-4c0d-ada6-5075e6ce25c7",
+          "cases": 11567,
+          "deaths": 475,
+          "recovered": 10429,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "358421fe-89ff-4079-95bd-e9146ae48132",
+          "cases": 47764,
+          "deaths": 658,
+          "recovered": 45012,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "c5c5d56b-771c-49ba-8587-e083c3d1557a",
+          "cases": 40716,
+          "deaths": 584,
+          "recovered": 37905,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "119f4f24-ebd1-44f2-9702-648eec2ce4e9",
+          "cases": 33139,
+          "deaths": 618,
+          "recovered": 26399,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "b01fd933-fbae-4839-99b0-2bc171cc6f1c",
+          "cases": 39039,
+          "deaths": 621,
+          "recovered": 36214,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "f4a53bdd-1357-4d18-9fcf-2c2b3ffcbea8",
+          "cases": 37427,
+          "deaths": 840,
+          "recovered": 29930,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "1ecb5727-1c49-4d7c-a8c9-a92098da4bc3",
+          "cases": 68771,
+          "deaths": 1062,
+          "recovered": 64476,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "5be4dea7-8996-4a54-b4fc-b7016482cc65",
+          "cases": 48679,
+          "deaths": 811,
+          "recovered": 43613,
+          "per100": 0,
+          "vaccinations": 0
+        }
+      ],
+      "counties": []
+    },
+    {
+      "id": "2d2691bb-05fe-46f4-88c2-db0c33d37191",
+      "cases": 372530,
+      "deaths": 1140,
+      "recovered": 363052,
+      "active": 8338,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "f54c19f9-d5f3-4999-9794-91198b14a552",
+      "cases": 4138233,
+      "deaths": 120988,
+      "recovered": 11342,
+      "active": 4005903,
+      "per100": 0,
+      "vaccinations": 0,
+      "provinces": [
+        {
+          "id": "53952ca4-dab9-4cd6-96bd-679288a71d46",
+          "cases": 18,
+          "deaths": 0,
+          "recovered": 18,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "ab5a19d5-ee27-4f1d-9a1c-d09b5a4023df",
+          "cases": 699,
+          "deaths": 12,
+          "recovered": 679,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "0bce38f1-8379-4a88-a192-878955babbaf",
+          "cases": 114,
+          "deaths": 1,
+          "recovered": 95,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "0c9058d4-c47a-452b-aeef-b2d65caa2a2f",
+          "cases": 431,
+          "deaths": 2,
+          "recovered": 403,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "eb37669d-46c2-4203-ba10-097dde434728",
+          "cases": 4030,
+          "deaths": 85,
+          "recovered": 3858,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "6e2cbe1c-bd24-42da-9c5d-78bba5f491d9",
+          "cases": 3614793,
+          "deaths": 106525,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "7e47fc0b-0bea-4ba6-8c74-9bd2a88a5f95",
+          "cases": 54,
+          "deaths": 0,
+          "recovered": 43,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "d3b7cac8-90e8-43c7-a544-52cc95db1fd3",
+          "cases": 4232,
+          "deaths": 91,
+          "recovered": 4103,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "18d264d6-d20f-4118-8a80-107e017aaadd",
+          "cases": 456,
+          "deaths": 25,
+          "recovered": 409,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "ba8044f1-7205-47ac-a474-6da904e3d848",
+          "cases": 20,
+          "deaths": 1,
+          "recovered": 13,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "c9a1d853-9254-4e6a-a365-ca57bc66da92",
+          "cases": 111166,
+          "deaths": 2036,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "4261008c-a274-476e-932d-9ab028bece22",
+          "cases": 198184,
+          "deaths": 6950,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "b5a53bf4-43cd-4fc5-b61b-ab5a487284e6",
+          "cases": 2029,
+          "deaths": 14,
+          "recovered": 1721,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "3bf88b6f-45bc-47fc-a982-543d6d7299c1",
+          "cases": 0,
+          "deaths": 0,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        },
+        {
+          "id": "da7aa77a-e399-407e-a7d2-50243d539caf",
+          "cases": 202007,
+          "deaths": 5246,
+          "recovered": 0,
+          "per100": 0,
+          "vaccinations": 0
+        }
+      ],
+      "counties": []
+    },
+    {
+      "id": "7da13781-79bd-4a8b-b6c3-c7dfed796576",
+      "cases": 53310,
+      "deaths": 583,
+      "recovered": 46845,
+      "active": 5882,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "3c7b1e51-9969-4504-a8fb-f87231224206",
+      "cases": 79681,
+      "deaths": 622,
+      "recovered": 78171,
+      "active": 888,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "6c66110c-cac3-414a-b597-6690c6bae8a5",
+      "cases": 1,
+      "deaths": 0,
+      "recovered": 1,
+      "active": 0,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "ea24587b-3638-4069-b76a-d84ff5e2317a",
+      "cases": 136545,
+      "deaths": 1320,
+      "recovered": 128579,
+      "active": 6646,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "db985572-357c-4146-af3c-f4c02169bde6",
+      "cases": 2392,
+      "deaths": 35,
+      "recovered": 1717,
+      "active": 640,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "3892679e-d654-477d-8928-12a523a3c5b6",
+      "cases": 174969,
+      "deaths": 1986,
+      "recovered": 162025,
+      "active": 10958,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "88aa1ce1-7309-4cc8-b3d7-65d8235ae458",
+      "cases": 2176,
+      "deaths": 619,
+      "recovered": 1432,
+      "active": 125,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "88ab0a53-d11a-4ff6-8fad-f40647047fa2",
+      "cases": 75027,
+      "deaths": 1031,
+      "recovered": 68928,
+      "active": 5068,
+      "per100": 0,
+      "vaccinations": 0
+    },
+    {
+      "id": "a97dd6f0-7cc2-4a4a-bac9-a2408fb16c6e",
+      "cases": 35862,
+      "deaths": 1441,
+      "recovered": 32216,
+      "active": 2205,
+      "per100": 0,
+      "vaccinations": 0
+    }
+  ]
+}
